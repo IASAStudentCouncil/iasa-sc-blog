@@ -38,3 +38,15 @@
   --ifm-background-color: #191920;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.two-in-row-left{
+  width:49%;
+  float: left;
+  text-align: center;
+}
+
+.two-in-row-right{
+  width:49%;
+  float: right;
+  text-align: center;
+}
