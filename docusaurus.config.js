@@ -6,9 +6,9 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'IASA Student Council',
+  tagline: 'Студентська рада Навчально-наукового інституту прикладного системного аналізу НТУУ "КПІ" ім. І. Сікорського',
+  favicon: '/img/favicon.ico',
 
   url: 'https://IASAStudentCouncil.github.io',
   baseUrl: '/iasa-sc-blog',
@@ -35,6 +35,9 @@ const config = {
         docs: false,
         blog: {
           showReadingTime: true,
+          blogTitle: 'Статті СР ІПСА',
+          blogDescription: 'Різноманітні статті про життя в і поза ІПСА',
+          postsPerPage: 10,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

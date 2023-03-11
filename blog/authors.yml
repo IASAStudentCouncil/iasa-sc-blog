@@ -6,9 +6,27 @@ admin:
 
 andrew:
   name: Андрій Шевцов
-  title: Заступник голови СР
+  title: Заступник голови СР (2021-2023)
   url: https://t.me/prometheusua
   image_url: https://i.imgur.com/VDxbqHt.jpg
+
+sonya:
+  name: Софія Осадча
+  title: Голова команди статей про вибіркові
+  url: https://t.me/syfiaa
+  image_url: https://i.imgur.com/7ejpAZ5.png
+
+olya:
+  name: Ольга Балясіна
+  title: Членкиня команди статей про вибіркові
+  url: https://t.me/olichka_16
+  image_url: https://i.imgur.com/p0xxlmj.png
+
+karina:
+  name: Каріна Попадюк
+  title: Членкиня команди статей про вибіркові
+  url: https://t.me/ppdkk
+  image_url: https://i.imgur.com/V166Ij1.png
 
 patron:
   name: Пес Патрон
