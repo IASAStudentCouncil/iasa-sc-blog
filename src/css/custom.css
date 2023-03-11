@@ -40,13 +40,33 @@
 }
 
 .two-in-row-left{
-  width:49%;
+  width:50%;
+  padding: 3px;
   float: left;
   text-align: center;
 }
 
 .two-in-row-right{
-  width:49%;
+  width:50%;
+  padding: 3px;
   float: right;
   text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .two-in-row-left{
+    width:100%;
+  }
+  
+  .two-in-row-right{
+    width:100%;
+  }
+
+  p.two-in-row-right{
+    display: none;
+  }
+
+  p.two-in-row-left{
+    display: none;
+  }
 }
