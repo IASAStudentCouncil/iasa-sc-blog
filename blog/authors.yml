@@ -1,11 +1,16 @@
+admin:
+  name: IASA SC
+  title: Admin
+  url: https://t.me/IASAsuggestionBot
+  image_url: https://i.imgur.com/6ew5FnG.png
+
 andrew:
-  name: Andrii Shevtsov
-  title: Did
+  name: Андрій Шевцов
+  title: Заступник голови СР
   url: https://t.me/prometheusua
   image_url: https://i.imgur.com/VDxbqHt.jpg
 
 patron:
-  name: Pes Patron
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
+  name: Пес Патрон
+  title: Front End Engineer
   image_url: https://i.imgur.com/xgR29Gk.jpg
