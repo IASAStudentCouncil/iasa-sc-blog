@@ -70,41 +70,100 @@ const config = {
         // style: 'dark',
         links: [
           {
-            title: 'Blog',
+            title: 'Вибрані статті',
             items: [
               {
-                label: 'Welcome',
-                to: '/blog/welcome',
+                label: 'Вибіркові 3 курс ШІ',
+                to: '/blog/elected-ai-3-2023'
+              },
+              {
+                label: 'Вибіркові 4 курс ШІ',
+                to: '/blog/elected-ai-4-2023'
+              },
+              {
+                label: 'Вітальний пост',
+                to: '/blog/welcome'
+              },
+              {
+                label: 'Hashtap — наші попередні статті',
+                href: 'https://www.hashtap.com/@studsovet.ipsa',
+              },
+              {
+                label: 'Medium — статті до Hashtap',
+                href: 'https://medium.com/@iasa',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Telegram',
             items: [
               {
-                label: 'Telegram',
+                label: 'IASA Student Council',
                 href: 'https://t.me/IASA_Student_Council',
               },
+              {
+                label: 'IASAedu',
+                href: 'https://t.me/iasa_edu',
+              },
+              {
+                label: 'IASAevent',
+                href: 'https://t.me/iasa_event',
+              },
+              {
+                label: 'Analyst Shop',
+                href: 'https://t.me/analyst_shop',
+              },
+              {
+                label: 'IASA Analytics',
+                href: 'https://t.me/iasa_analytics',
+              },
+            ],
+          },
+          {
+            title: 'Інші ресурси',
+            items: [
               {
                 label: 'Instagram',
                 href: 'https://www.instagram.com/studrada_iasa/',
               },
               {
+                label: 'Instagram Analyst.shop',
+                href: 'https://www.instagram.com/analyst.shop/',
+              },
+              {
                 label: 'Youtube',
                 href: 'https://www.youtube.com/@IASAChannel',
               },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
+              {
+                label: 'Facebook',
+                href: 'https://www.facebook.com/studrada.iasa',
+              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/IASAStudentCouncil',
               },
             ],
           },
+          {
+            title: 'Зв\'язатись з нами',
+            items: [
+              {
+                label: 'Для питань та пропозицій',
+                href: 'https://t.me/IASA_Student_Council',
+              },
+              {
+                label: 'З приводу якості освіти',
+                href: 'https://t.me/iasa_stud_support_bot',
+              },
+            ],
+          },
         ],
+        logo: {
+          alt: 'IASA Student Council',
+          src: 'img/yellow_logo.png',
+          width: 50,
+          height: 50,
+        },
         copyright: `Copyright © ${new Date().getFullYear()} IASA Student Council. Built with Docusaurus.`,
       },
       // prism: {
