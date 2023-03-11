@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[792],{1201:e=>{e.exports=JSON.parse('{"permalink":"/iasa-sc-blog/blog/tags/iasa-sc","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
