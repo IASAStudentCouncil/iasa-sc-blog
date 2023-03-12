@@ -79,10 +79,10 @@ const config = {
                 label: 'Вибіркові 4 курс ШІ',
                 to: '/blog/elected-ai-4-2023'
               },
-              {
-                label: 'Вітальний пост',
-                to: '/blog/welcome'
-              },
+              // {
+              //   label: 'Вітальний пост',
+              //   to: '/blog/welcome'
+              // },
               {
                 label: 'Hashtap — наші попередні статті',
                 href: 'https://www.hashtap.com/@studsovet.ipsa',
@@ -148,7 +148,7 @@ const config = {
             items: [
               {
                 label: 'Для питань та пропозицій',
-                href: 'https://t.me/IASA_Student_Council',
+                href: 'https://t.me/IASAsuggestionBot',
               },
               {
                 label: 'З приводу якості освіти',
