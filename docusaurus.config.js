@@ -8,7 +8,7 @@
 const config = {
   title: 'IASA Student Council',
   tagline: 'Студентська рада Навчально-наукового інституту прикладного системного аналізу НТУУ "КПІ" ім. І. Сікорського',
-  favicon: '/img/favicon.ico',
+  favicon: '/img/favicon1.ico',
 
   url: 'https://IASAStudentCouncil.github.io',
   baseUrl: '/iasa-sc-blog',
