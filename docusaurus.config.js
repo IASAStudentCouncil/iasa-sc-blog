@@ -80,14 +80,6 @@ const config = {
                 to: '/blog/elected-mmsa-4-2023'
               },
               {
-                label: 'Вибіркові 3 курс ШІ',
-                to: '/blog/elected-ai-3-2023'
-              },
-              {
-                label: 'Вибіркові 4 курс ШІ',
-                to: '/blog/elected-ai-4-2023'
-              },
-              {
                 label: 'Вітальний пост',
                 to: '/blog/welcome'
               },
