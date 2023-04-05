@@ -18,6 +18,10 @@
             <name>IASA SC</name>
             <uri>https://t.me/IASAsuggestionBot</uri>
         </author>
+        <author>
+            <name>Валерія "Кербер" Хапіліна</name>
+            <uri>https://t.me/kkkerber</uri>
+        </author>
         <category label="IASA SC" term="IASA SC"/>
         <category label="ІПСА" term="ІПСА"/>
         <category label="Тестові" term="Тестові"/>
