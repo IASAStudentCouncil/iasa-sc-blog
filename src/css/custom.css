@@ -55,6 +55,10 @@
 
 .center{
   text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
 }
 
 @media only screen and (max-width: 600px) {
