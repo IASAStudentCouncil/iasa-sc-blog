@@ -24,10 +24,20 @@
 5. Write article, using Markdown. You can read about basic syntax [here](https://www.markdownguide.org/basic-syntax/).
 6. If you want to add two images in a line, you can use following code snippet:
     ```
-    <img className="two-in-row-left" src="{Link to the first image}" alt="{Alter text to show if image won't be downloaded to user}" />
-    <img className="two-in-row-right" src="{Link to the second image}" alt="{Alter text to show if image won't be downloaded to user}" />
-    <p className="two-in-row-left">{First image caption}</p>
-    <p className="two-in-row-right">{Second image caption}</p>
+    <ul className="images">
+        <li>
+            <img alt="{Alter text to show if image won't be downloaded to user}" src="{Link to the first image}" className="center" />
+            <p className="center">{Caption text}</p>
+        </li>
+        <li className="top">
+            <img alt="{Alter text to show if image won't be downloaded to user}" src="{Link to the second image}" className="center" />
+            <a href="{Link of the second caption text}"><p className="center"><b>{Bold caption text with link}</b></p></a>
+        </li>
+        <li className="middle">
+            <img alt="{Alter text to show if image won't be downloaded to user}" src="{Link to the third image}" className="center" />
+            <p className="center"><i>{Italic caption text}</i></p>
+        </li>
+    </ul>
     ```
 7. When you want to publish an article or exchange data with your coworkers, use the following sequence of commands:
     ```
