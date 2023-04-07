@@ -87,6 +87,10 @@ ul.images li.bottom {
   vertical-align: bottom;
 }
 
+p {
+  text-align: justify;
+}
+
 @media only screen and (max-width: 600px) {
   .two-in-row-left{
     width:100%;
