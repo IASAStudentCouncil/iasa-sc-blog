@@ -49,6 +49,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{name: 'keywords', content: 'блог, ІПСА, СтудРада, КПІ, Сікорський, IASA, Institute, Applied, System, Analysis, інститут,\
+              прикладний, системний, аналіз, Student, Council, університет, Київ, Політех, інститут'},
+            {name: 'google-site-verification', content: 'wmgySCohMr7naPEz7Dl-ttjGW3_Nh2qY0Z84oxRenn0'}],
       image: 'img/IASA-social.jpg',
       colorMode: {
         defaultMode: 'dark',
