@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[195],{2841:(e,t,s)=>{s.r(t),s.d(t,{default:()=>u});var a=s(7294),l=s(6550);function u(){return a.createElement(l.l_,{to:"/iasa-sc-blog/blog"})}}}]);
