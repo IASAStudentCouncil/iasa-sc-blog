@@ -59,7 +59,7 @@ monkeys:
 
 lerchik:
   name: Валерія Василенко
-  title: Редакторка статтей абіт-відділу
+  title: Редакторка статтей абіт-віддіу
   image_url: https://i.imgur.com/g7TlU5n.jpg
   url: https://t.me/ayavriik
 
@@ -93,20 +93,21 @@ ivan:
   image_url: https://i.imgur.com/3BmjGnL.jpg
   url: https://t.me/nuinashco
 
-  polina:
+  
+polina:
   name: Поліна Василенко
   title: Голова Інформ відділу
   image_url: https://i.imgur.com/Tz1FTUy.jpg
   url: https://t.me/w41fu
 
 lisa:
-name: Заярченко Васіліса
-title: Редакторка статтей та інтерв'ю СтудРади
-image_url: https://i.imgur.com/VouXpE9.jpg
-url: https://t.me/jwbaelis
+  name: Заярченко Васіліса
+  title: Редакторка статтей та інтерв'ю СтудРади
+  image_url: https://i.imgur.com/VouXpE9.jpg
+  url: https://t.me/jwbaelis
 
 anastasia19th:
-name: Анастасія
-title: Редакторка статтей та інтерв'ю СтудРади
-image_url: https://i.imgur.com/phggCcm.jpg
-url: https://t.me/anastasia19th
+  name: Анастасія
+  title: Редакторка статтей та інтерв'ю СтудРади
+  image_url: https://i.imgur.com/phggCcm.jpg
+  url: https://t.me/anastasia19th
