@@ -51,12 +51,6 @@ monkeys:
   url: https://t.me/m29nkeys
   image_url: https://i.imgur.com/gAvT43w.jpeg
 
-lerchik:
-  name: Валерія Василенко
-  title: Редакторка статтей абіт-віддіу
-  image_url: https://i.imgur.com/g7TlU5n.jpg
-  url: https://t.me/ayavriik
-
 karinka:
   name: Каріна Попадюк
   title: Ліва рука голови абіт-відділу
@@ -104,3 +98,9 @@ anastasia19th:
   title: Редакторка статтей та інтерв'ю СтудРади
   image_url: https://i.imgur.com/phggCcm.jpg
   url: https://t.me/anastasia19th
+
+lerchik:
+  name: Валерія Василенко
+  title: Редакторка статтей абіт-віддіу
+  image_url: https://i.imgur.com/g7TlU5n.jpg
+  url: https://t.me/ayavriik
