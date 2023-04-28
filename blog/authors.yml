@@ -16,12 +16,6 @@ karina:
   url: https://t.me/ppdkk
   image_url: https://i.imgur.com/V166Ij1.png
 
-lisa:
-  name: Васіліса Заярченко
-  title: Членкиня команди статей про вибіркові
-  url: https://t.me/jwbaelis
-  image_url: https://i.imgur.com/OWsXxMG.png
-
 olya:
   name: Ольга Балясіна
   title: Членкиня команди статей про вибіркові
@@ -57,12 +51,6 @@ monkeys:
   url: https://t.me/m29nkeys
   image_url: https://i.imgur.com/gAvT43w.jpeg
 
-lerchik:
-  name: Валерія Василенко
-  title: Редакторка статтей абіт-віддіу
-  image_url: https://i.imgur.com/g7TlU5n.jpg
-  url: https://t.me/ayavriik
-
 karinka:
   name: Каріна Попадюк
   title: Ліва рука голови абіт-відділу
@@ -93,7 +81,6 @@ ivan:
   image_url: https://i.imgur.com/3BmjGnL.jpg
   url: https://t.me/nuinashco
 
-  
 polina:
   name: Поліна Василенко
   title: Голова Інформ відділу
@@ -111,3 +98,9 @@ anastasia19th:
   title: Редакторка статтей та інтерв'ю СтудРади
   image_url: https://i.imgur.com/phggCcm.jpg
   url: https://t.me/anastasia19th
+
+lerchik:
+  name: Валерія Василенко
+  title: Редакторка статтей абіт-віддіу
+  image_url: https://i.imgur.com/g7TlU5n.jpg
+  url: https://t.me/ayavriik
