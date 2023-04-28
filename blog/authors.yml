@@ -75,6 +75,10 @@ anastasia:
   url: https://t.me/zastup_anastasia
   image_url: https://i.imgur.com/9uF7Zbu.jpg
 
+<<<<<<< HEAD
+polina:
+  name:
+=======
 ivan:
   name: Іван Гавлицький
   title: Тарас Колеснюк абіт-відділу
@@ -92,3 +96,4 @@ vera:
   title: Редакторка статтей абіт-відділу
   image_url: https://i.imgur.com/eYTtfeS.jpg
   url: https://t.me/vera_kuzminska
+>>>>>>> e19cba5e0c206eb93cd93edc407fa709a7130f10
