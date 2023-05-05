@@ -111,8 +111,20 @@ ansty:
   image_url: https://i.imgur.com/kEeQ65E.jpg
   url: https://t.me/anstybjork
 
+link:
+  name: Link
+  title: Радник голови. Досвідчений.
+  image_url: https://i.imgur.com/S9J727B.jpg
+  url: https://t.me/sparklingrain
+
 sofia:
   name: Софія Осадча
   title: Редакторка статтей абіт-відділу
   image_url: https://i.imgur.com/GoFtU5s.jpg
   url: https://t.me/syfiaa
+
+mykyta:
+  name: Микита Зеленський
+  title: Редактор статтей та інтерв'ю СтудРади
+  image_url: https://i.imgur.com/epmVc0M.jpg
+  url: https://t.me/Hutorr
