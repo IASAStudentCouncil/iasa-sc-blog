@@ -3,7 +3,7 @@ slug: iasa-bot-guide
 title: Гайд на IASA Bot
 authors: [dimaple]
 tags: [IASA SC, ІПСА, IT, BOT, IASA BOT]
-date: 2023-07-04T:00
+date: 2023-07-04T16:00
 keywords: [бот, бот іпса, гайд, розклад, база, посилання, лінки, дедлайн, асистент, Студрада]
 ---
 ![Photo](./logo1.png)
