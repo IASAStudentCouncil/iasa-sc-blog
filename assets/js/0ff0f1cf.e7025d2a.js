@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[564],{1228:s=>{s.exports=JSON.parse('{"label":"ABIT","permalink":"/iasa-sc-blog/blog/tags/abit","allTagsPath":"/iasa-sc-blog/blog/tags","count":12}')}}]);
