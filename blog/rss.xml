@@ -4,10 +4,22 @@
         <title>IASA Student Council Blog</title>
         <link>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog</link>
         <description>IASA Student Council Blog</description>
-        <lastBuildDate>Tue, 18 Jul 2023 17:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ua</language>
+        <item>
+            <title><![CDATA[Курси на літо]]></title>
+            <link>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/links</link>
+            <guid>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/links</guid>
+            <pubDate>Wed, 26 Jul 2023 12:00:00 GMT</pubDate>
+            <description><![CDATA[Хей! Залишилося не так багато до кінця літа, тому саме час приділити увагу саморозвитку. Наша команда підготувала перелік корисних курсів, аби ІПСАшники не сиділи склавши лапки.]]></description>
+            <content:encoded><![CDATA[<p>Хей! Залишилося не так багато до кінця літа, тому саме час приділити увагу саморозвитку. Наша команда підготувала перелік корисних курсів, аби ІПСАшники не сиділи склавши лапки.</p><ol><li><p><a href="https://www.academy.gen.tech/growth-week" target="_blank" rel="noopener noreferrer">GENESIS GROWTH WEEK</a> (Дедлайн реєстрації: 30 липня).</p></li><li><p><a href="https://www.coursera.org/specializations/machine-learning-introduction" target="_blank" rel="noopener noreferrer">Спеціалізація Machine Learning</a>.</p></li><li><p><a href="https://www.coursera.org/learn/natural-language-processing-tensorflow" target="_blank" rel="noopener noreferrer">Natural Language Processing in TensorFlow</a>.</p></li><li><p><a href="https://prometheus.org.ua/course/course-v1:LinuxFoundation+GIT101+2023_T1" target="_blank" rel="noopener noreferrer">Git для розподіленої розробки програмного забезпечення</a>.</p></li><li><p><a href="https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express" target="_blank" rel="noopener noreferrer">Developing Back-End Apps with Node.js and Express</a>.</p></li><li><p><a href="https://www.coursera.org/learn/game-theory-introduction" target="_blank" rel="noopener noreferrer">Introduction to Game Theory</a>.</p></li><li><p><a href="https://www.coursera.org/learn/web-applications-php" target="_blank" rel="noopener noreferrer">Building Web Applications in PHP</a>.</p></li><li><p><a href="https://www.coursera.org/learn/mobile-development-and-javascript" target="_blank" rel="noopener noreferrer">Mobile Development and JavaScript</a>.</p></li><li><p><a href="https://www.coursera.org/specializations/android-app-development" target="_blank" rel="noopener noreferrer">Спеціалізація Android App Development</a>.</p></li><li><p><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai" target="_blank" rel="noopener noreferrer">Python для DS, штучного інтелекту й розробки</a>.</p></li><li><p><a href="https://www.coursera.org/learn/data-analytics-for-lean-six-sigma" target="_blank" rel="noopener noreferrer">Data Analytics for Lean Six Sigma</a>.</p></li><li><p><a href="https://www.coursera.org/learn/analytics-tableau" target="_blank" rel="noopener noreferrer">Data Visualization and Communication with Tableau</a>.</p></li><li><p><a href="https://www.coursera.org/learn/sql-for-data-science" target="_blank" rel="noopener noreferrer">SQL для науки про дані</a>.</p></li><li><p><a href="https://prometheus.org.ua/course/course-v1:LinuxFoundation+INTRO101+2023_T1" target="_blank" rel="noopener noreferrer">Основи Kubernetes</a>.</p></li><li><p><a href="https://prometheus.org.ua/course/course-v1:LinuxFoundation+INTRO_LINUX101+2023_T1" target="_blank" rel="noopener noreferrer">Основи Linux</a>.</p></li></ol>]]></content:encoded>
+            <category>IASA SC</category>
+            <category>ІПСА</category>
+            <category>НАВЧАННЯ</category>
+            <category>САМОРОЗВИТОК</category>
+        </item>
         <item>
             <title><![CDATA[Квоти. Варто чи ні…]]></title>
             <link>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/quota</link>
