@@ -27,12 +27,6 @@ patron:
   title: Front End Engineer
   image_url: https://i.imgur.com/xgR29Gk.jpg
 
-sonya:
-  name: Софія Осадча
-  title: Голова команди статей про вибіркові
-  url: https://t.me/syfiaa
-  image_url: https://i.imgur.com/7ejpAZ5.png
-
 valeriia:
   name: Валерія "Кербер" Хапіліна
   title: Редакторка статтей та інтерв'ю СтудРади
@@ -86,12 +80,6 @@ polina:
   title: Голова Інформ відділу
   image_url: https://i.imgur.com/V6Azlsw.jpg
   url: https://t.me/w41fu
-
-lisa:
-  name: Ліса Заярченко
-  title: Голова Інформ-відділу
-  image_url: https://i.imgur.com/VouXpE9.jpg
-  url: https://t.me/jwbaelis
 
 anastasia19th:
   name: Анастасія Пижук
@@ -182,3 +170,69 @@ andriana:
   title: Редакторка статтей абіт-відділу
   image_url: https://i.imgur.com/0r6gTGh.jpg
   url: https://t.me/cornflakke
+
+sonya:
+  name: Софія Осадча
+  title: Голова команди статей про вибіркові
+  url: https://t.me/syfiaa
+  image_url: https://imgur.com/a/wP9Bya2
+
+lisa:
+  name: Ліса Заярченко
+  title: Голова Інформ-відділу
+  image_url: https://i.imgur.com/VouXpE9.jpg
+  url: https://t.me/jwbaelis
+
+alex1:
+  name: Олександр Гром
+  title: Член команди статей про вибіркові
+  image_url: https://imgur.com/a/SJUjsG4
+  url: https://t.me/loomer19
+
+viktor1:
+  name: Олександр Гром
+  title: Член команди статей про вибіркові
+  image_url: https://imgur.com/a/3g8dWpZ
+  url: https://t.me/k_loyal
+
+andrii1:
+  name: Маврін Андрій
+  title: член команди статей про вибіркові
+  image_url: https://imgur.com/a/U1z36oW
+  url: https://t.me/aqzazq
+
+kosta1:
+  name: Казанін Костянтин
+  title: член команди статей про вибіркові
+  image_url: https://imgur.com/a/yGMjRil
+  url: https://t.me/Okkyqud
+
+anna1:
+  name: Луценко Анна
+  title: член команди статей про вибіркові
+  image_url: https://imgur.com/a/2WQTXqN
+  url: https://t.me/welbiit
+
+vera1:
+  name: Кузьмінська Віра
+  title: член команди статей про вибіркові
+  image_url: https://imgur.com/a/TeKkNo1
+  url: https://t.me/vera_kuzminska
+
+olexsii1:
+  name: Олексій Вербицький
+  title: Безсонний волонтер
+  image_url: https://imgur.com/2UuY66o
+  url: https://t.me/derwya
+
+illa1:
+  name: Ілля Будяков
+  title: Член команди статей про вибіркові
+  image_url: 
+  url: https://t.me/inverrno
+
+nikiata1:
+  name: Рябін Нікіта
+  title: Член команди статей про вибіркові
+  image_url: 
+  url: 
