@@ -10,9 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fbbc839-e427-48e6-9bf9-56edd9ac27fe" name="Changes" comment="IASA Bot Guide Article Added">
-      <change afterPath="$PROJECT_DIR$/blog/ABIT/history/історія_ІПСА.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/ABIT/history/42.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/ABIT/history/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/ABIT/history/index.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +84,7 @@
       <workItem from="1688467192221" duration="1483000" />
       <workItem from="1688468765512" duration="2174000" />
       <workItem from="1688472122361" duration="3886000" />
-      <workItem from="1712823360268" duration="2293000" />
+      <workItem from="1712823360268" duration="2827000" />
     </task>
     <task id="LOCAL-00001" summary="IASA Bot Guide Article Added">
       <option name="closed" value="true" />
