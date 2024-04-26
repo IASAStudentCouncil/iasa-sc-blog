@@ -244,14 +244,28 @@ sasha:
   url: https://t.me/itsasha8
 
 liza:
-  name: Єлизавета Кабанова
-  title: Редакторка статей Студради
-  image_url: https://imgur.com/a/6ClnfWo
-  url: https://t.me/kabaanova
+ name: Єлизавета Кабанова
+ title: Редакторка статей Студради
+ image_url: https://i.imgur.com/kC3xgh2.jpeg
+ url: https://t.me/kabaanova
 
 
-darya:
-  name: Дарʼя Гончарук
-  title: Редакторка статей Студради
-  image_url: https://imgur.com/Ms5lhYL
-  url: https://t.me/bbluberrr
+dashaHoncharuk:
+ name: Дар'я Гончарук
+ title: Редакторка статей Студради
+ image_url: https://i.imgur.com/Lmj2yyX.jpeg
+ url: https://t.me/bbluberrr
+
+
+senchuk:
+ name: Сєня
+ title: Поважний дід Студради
+ image_url: https://i.imgur.com/iReLWZe.jpeg
+ url: https://t.me/sen4ello
+
+
+plyusnina:
+ name: Валерія Плюсніна
+ title: Редакторка статей Студради
+ image_url: https://i.imgur.com/gkilAAp.jpeg
+ url: https://t.me/Lerrrich
