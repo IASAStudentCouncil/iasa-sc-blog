@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fbbc839-e427-48e6-9bf9-56edd9ac27fe" name="Changes" comment="IASA Bot Guide Article Added" />
+    <list default="true" id="2fbbc839-e427-48e6-9bf9-56edd9ac27fe" name="Changes" comment="IASA Bot Guide Article Added">
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/ABIT/event/index.mdx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
