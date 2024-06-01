@@ -10,7 +10,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fbbc839-e427-48e6-9bf9-56edd9ac27fe" name="Changes" comment="IASA Bot Guide Article Added">
-      <change beforePath="$PROJECT_DIR$/blog/ABIT/history/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/ABIT/history/index.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/DP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/chess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/evening.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/fresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/hall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/med.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/meme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/night.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/poetry&amp;chill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/pusha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/quest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/rave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/royale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/surv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/valentine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/eight-evning.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/eight-evning2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/eleven-theme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/eleven-theme2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/first1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/first2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/five-tyriada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/four-pych.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/four-pych2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/ABIT/event/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/nine-royale.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/nine-royale2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/poetry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/poetry2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/seven-miss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/seven-mister.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/six-helovin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/six-helovin2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/ten-onlinenight.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/three-kvest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/three-kvest2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/tours.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/tours2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/two-fresh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/two-fresh2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/authors.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +80,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2S6VoK2YX4DxS09GNO4wWlweFeW" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -57,7 +100,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/rrragulina/Documents/GitHub/iasa-sc-blog/blog/ABIT/history",
+    "last_opened_file_path": "/Users/rrragulina/Documents/GitHub/iasa-sc-blog/blog/ABIT/event",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,6 +112,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/ABIT/event" />
       <recent name="$PROJECT_DIR$/blog/ABIT/history" />
       <recent name="C:\IASA\iasa-sc-blog\blog\IT\iasa-bot" />
     </key>
@@ -85,6 +129,7 @@
       <workItem from="1688468765512" duration="2174000" />
       <workItem from="1688472122361" duration="3886000" />
       <workItem from="1712823360268" duration="3328000" />
+      <workItem from="1717215272105" duration="3518000" />
     </task>
     <task id="LOCAL-00001" summary="IASA Bot Guide Article Added">
       <option name="closed" value="true" />
