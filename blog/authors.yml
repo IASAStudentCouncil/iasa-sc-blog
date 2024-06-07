@@ -250,67 +250,64 @@ sasha:
   url: https://t.me/itsasha8
 
 liza:
- name: Єлизавета Кабанова
- title: Редакторка статей Студради
- image_url: https://i.imgur.com/kC3xgh2.jpeg
- url: https://t.me/kabaanova
-
+  name: Єлизавета Кабанова
+  title: Редакторка статей Студради
+  image_url: https://i.imgur.com/kC3xgh2.jpeg
+  url: https://t.me/kabaanova
 
 dashaHoncharuk:
- name: Дар'я Гончарук
- title: Редакторка статей Студради
- image_url: https://i.imgur.com/Lmj2yyX.jpeg
- url: https://t.me/bbluberrr
-
+  name: Дар'я Гончарук
+  title: Редакторка статей Студради
+  image_url: https://i.imgur.com/Lmj2yyX.jpeg
+  url: https://t.me/bbluberrr
 
 senchuk:
- name: Сєня
- title: Поважний дід Студради
- image_url: https://i.imgur.com/iReLWZe.jpeg
- url: https://t.me/sen4ello
-
+  name: Сєня
+  title: Поважний дід Студради
+  image_url: https://i.imgur.com/iReLWZe.jpeg
+  url: https://t.me/sen4ello
 
 plyusnina:
- name: Валерія Плюсніна
- title: Редакторка статей Студради
- image_url: https://i.imgur.com/gkilAAp.jpeg
- url: https://t.me/Lerrrich
+  name: Валерія Плюсніна
+  title: Редакторка статей Студради
+  image_url: https://i.imgur.com/gkilAAp.jpeg
+  url: https://t.me/Lerrrich
 
 maksym:
- name: Максим Переходько
- title: Редактор статей Студради
- image_url: https://i.imgur.com/fuvnKq5.jpeg
- url: https://t.me/kinqbert
+  name: Максим Переходько
+  title: Редактор статей Студради
+  image_url: https://i.imgur.com/fuvnKq5.jpeg
+  url: https://t.me/kinqbert
 
 kruchok:
- name: Анна Кручок
- title: Редакторка статей Студради
- image_url: https://i.imgur.com/mpEDvEr.jpeg
- url: https://t.me/kalmarchikk
+  name: Анна Кручок
+  title: Редакторка статей Студради
+  image_url: https://i.imgur.com/mpEDvEr.jpeg
+  url: https://t.me/kalmarchikk
 
 petrenko:
- name: Софія Петренко
- title: Редакторка статей Студради
- image_url: https://i.imgur.com/nMfVrYV.jpeg
- url: https://t.me/lavendel_29
+  name: Софія Петренко
+  title: Редакторка статей Студради
+  image_url: https://i.imgur.com/nMfVrYV.jpeg
+  url: https://t.me/lavendel_29
 
 danylo:
- name: Данило Глухіх
- title: Редактор статей Абіт-відділу
- image_url: https://i.imgur.com/DH9LG3f.jpeg
- url: https://t.me/drakkker
+  name: Данило Глухіх
+  title: Редактор статей Абіт-відділу
+  image_url: https://i.imgur.com/DH9LG3f.jpeg
+  url: https://t.me/drakkker
 
 dmytro:
- name: Дмитро Марченко
- title: Редактор статей Абіт-відділу
- image_url: https://i.imgur.com/A20YdGQ.jpeg
- url: https://t.me/dimasmar
+  name: Дмитро Марченко
+  title: Редактор статей Абіт-відділу
+  image_url: https://i.imgur.com/A20YdGQ.jpeg
+  url: https://t.me/dimasmar
 
 yulian:
- name: Юліан Заводник
- title: Редактор статтей Студради
- image_url: https://i.imgur.com/kjypUkr.jpeg
- url: https://t.me/zvdnkkkk
+  name: Юліан Заводник
+  title: Редактор статтей Студради
+  image_url: https://i.imgur.com/kjypUkr.jpeg
+  url: https://t.me/zvdnkkkk
 
 ragulina:
   name: Анна Рагуліна
@@ -336,3 +333,8 @@ bogdan:
   image_url: https://i.imgur.com/d1EVV5T.jpeg
   url: https://t.me/obolents3v
 
+telenko:
+  name: Уляна Теленько
+  title: Редакторка статей Студради
+  image_url: https://i.imgur.com/izc63IQ.jpeg
+  url: https://t.me/uliana_telenko
