@@ -38,6 +38,8 @@ const config = {
           blogTitle: 'Статті СР ІПСА',
           blogDescription: 'Різноманітні статті про життя в і поза ІПСА',
           postsPerPage: 10,
+          blogSidebarTitle: 'Усі статті',
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
