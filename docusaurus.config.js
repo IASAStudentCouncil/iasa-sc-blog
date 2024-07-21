@@ -153,14 +153,14 @@ const config = {
             ],
           },
           {
-            title: 'Зв\'язатись з нами',
+            title: 'Зворотній зв\'язок',
             items: [
               {
-                label: 'Для питань та пропозицій',
+                label: 'Запитання та пропозиції',
                 href: 'https://t.me/IASAsuggestionBot',
               },
               {
-                label: 'З приводу якості освіти',
+                label: 'Допомога студентам',
                 href: 'https://t.me/iasa_stud_support_bot',
               },
             ],
