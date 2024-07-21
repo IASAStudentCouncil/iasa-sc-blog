@@ -99,27 +99,27 @@ const config = {
             ],
           },
           {
-            title: 'Telegram',
+            title: 'Ми в Telegram',
             items: [
               {
                 label: 'IASA Student Council',
                 href: 'https://t.me/IASA_Student_Council',
               },
               {
-                label: 'IASAedu',
-                href: 'https://t.me/iasa_edu',
-              },
-              {
                 label: 'IASAevent',
                 href: 'https://t.me/iasa_event',
               },
               {
-                label: 'Analyst Shop',
-                href: 'https://t.me/analyst_shop',
+                label: 'IASAedu',
+                href: 'https://t.me/iasa_edu',
               },
               {
                 label: 'IASA Analytics',
                 href: 'https://t.me/iasa_analytics',
+              },
+              {
+                label: 'Analyst Shop',
+                href: 'https://t.me/analyst_shop',
               },
             ],
           },
@@ -131,20 +131,24 @@ const config = {
                 href: 'https://www.instagram.com/studrada_iasa/',
               },
               {
-                label: 'Instagram Analyst.shop',
-                href: 'https://www.instagram.com/analyst.shop/',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/studrada.iasa',
+              },
+              {
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/company/iasa-sc',
               },
               {
                 label: 'Youtube',
                 href: 'https://www.youtube.com/@IASAChannel',
               },
               {
-                label: 'Facebook',
-                href: 'https://www.facebook.com/studrada.iasa',
-              },
-              {
                 label: 'GitHub',
                 href: 'https://github.com/IASAStudentCouncil',
+              },
+              {
+                label: 'Analyst.shop',
+                href: 'https://www.instagram.com/analyst.shop/',
               },
             ],
           },
