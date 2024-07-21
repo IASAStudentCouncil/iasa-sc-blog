@@ -6,7 +6,7 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'IASA Student Council',
+  title: 'IASA Articles',
   tagline: 'Студентська рада Навчально-наукового інституту прикладного системного аналізу НТУУ "КПІ" ім. І. Сікорського',
   favicon: '/img/favicon1.ico',
 
@@ -61,7 +61,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'IASA Student Council',
+        title: 'IASA Articles',
         logo: {
           alt: 'IASA SC',
           src: 'img/logo.svg',
