@@ -74,28 +74,36 @@ const config = {
         // style: 'dark',
         links: [
           {
-            title: 'Вибрані статті',
+            title: 'Обране',
             items: [
               {
-                label: 'Вибіркові 3 курс ММСА',
-                to: '/blog/elected-mmsa-3-2023'
+                label: 'Q&A',
+                to: '/blog/FAQ'
               },
               {
-                label: 'Вибіркові 4 курс ММСА',
-                to: '/blog/elected-mmsa-4-2023'
+                label: 'IASA Events',
+                to: '/blog/Event'
               },
               {
-                label: 'Вітальний пост',
-                to: '/blog/welcome'
+                label: '122 Штучний Інтелект',
+                to: '/blog/AI'
               },
               {
-                label: 'Hashtap — наші попередні статті',
-                href: 'https://www.hashtap.com/@studsovet.ipsa',
+                label: '122 Системне Проєктування',
+                to: '/blog/122СП/',
               },
               {
-                label: 'Medium — статті до Hashtap',
-                href: 'https://medium.com/@iasa',
+                label: '124 Системний Аналіз',
+                to: '/blog/124',
               },
+              {
+                label: 'Стереотипи ІПСА',
+                to: '/blog/Stereotypes',
+              },
+              {
+                label: 'CР Працює',
+                to: '/blog/SC'
+              }
             ],
           },
           {
