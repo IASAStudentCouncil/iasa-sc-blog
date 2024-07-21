@@ -168,7 +168,7 @@ const config = {
           width: 50,
           height: 50,
         },
-        copyright: `Copyright © ${new Date().getFullYear()} IASA Student Council. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} IASA Student Council`,
       },
       // prism: {
       //   theme: darkCodeTheme,
