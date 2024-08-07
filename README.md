@@ -4,6 +4,14 @@ Welcome to the IASA Student Council Articles repository. This guide will help yo
 
 ***You can read the articles on our [website](https://iasastudentcouncil.github.io/iasa-sc-blog/blog).***
 
+## Move to the content
+- [How to Publish New Articles](#how-to-publish-new-articles)
+  - [Prerequisites](#prerequisites)
+  - [Steps to Publish](#steps-to-publish)
+- [Editing Drafts](#editing-drafts)
+- [About](#about)
+- [Development and Deployment](#development-and-deployment)
+
 ## How to Publish New Articles
 
 ### Prerequisites
@@ -107,25 +115,30 @@ Welcome to the IASA Student Council Articles repository. This guide will help yo
 ## About
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. Refer to the [Docusaurus documentation](https://docusaurus.io/docs/blog) for more information.
 
-### Installation
-To install the necessary dependencies, run:
-```
-$ npm install
-```
+## Development and Deployment
+1. Installation
 
-### Local Development
-To start a local development server, run:
-```
-$ npm start
-```
-This command starts a local development server and opens a browser window. Most changes are reflected live without needing to restart the server.
+   To install the necessary dependencies, run:
+      ```
+      $ npm install
+      ```
 
-### Build
-To generate static content, run:
-```
-$ npm run build
-```
-This command generates static content in the build directory, which can be served using any static content hosting service.
+2. Local Development
 
-### Deployment
-Just push your commits to the `main` branch.
+   To start a local development server, run:
+      ```
+      $ npm start
+      ```
+   This command starts a local development server and opens a browser window. Most changes are reflected live without needing to restart the server.
+
+3. Build
+   
+   To generate static content, run:
+      ```
+      $ npm run build
+      ```
+   This command generates static content in the build directory, which can be served using any static content hosting service.
+
+4. Deployment
+
+   Just push your commits to the `main` branch.
