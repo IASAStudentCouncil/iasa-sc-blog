@@ -1,83 +1,131 @@
-# Website
+# IASA Student Council Articles
 
-## How to publish new articles?
- 
-0. [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [create your GitHub account](https://github.com/signup). [Connect](https://docs.github.com/en/get-started/quickstart/set-up-git) them.
-1. Get access to this repo: contact IASA Student Council GitHub owner (probably IT-department head) and ask for `write` rights in this repo.
-2. Clone this repository into desired folder on your computer: `git clone https://github.com/IASAStudentCouncil/iasa-sc-blog.git`.
-3. To add new article, create new folder inside `blog` folder. Create `index.md` or `index.mdx` file inside it.
-4. Add metadata to `index.md` or `index.mdx` like this:
-    ```
-    ---
-    slug: elected-ai-3-2023
-    title: Вибіркові дисципліни ШІ 3 курс
-    authors: [sonya, andrew, olya, karina]
-    tags: [IASA SC, ІПСА, ШІ, Вибіркові, 3 курс]
-    date: 2023-03-11T11:00
-    ---
-    ```
-    - `slug` means end of the article's URL. It will look like this: `https://iasastudentcouncil.github.io/iasa-sc-blog/blog/{slug}`.
-    - `title` is just a title of your article.
-    - `authors` is list of authors of the article. You can add new in `authors.yml` file of `blog` folder. `url` field of author can be ommited if you don't want to give any contacts of the person. It is better to add new authors to file in alphabetically sorted manner.
-    - `tags` is a list of tags. It will help users to find desired articels.
-    - `date` is posting date. It regulates article's position in `https://iasastudentcouncil.github.io/iasa-sc-blog/blog/`. The newest articles are going first.
-5. Write article, using Markdown. You can read about basic syntax [here](https://www.markdownguide.org/basic-syntax/).
-6. If you want to add two or more images in a line, you can use following code snippet:
-    ```
-    <ul className="images">
-        <li>
-            <img alt="{Alter text to show if image won't be downloaded to user}" src="{Link to the first image}" className="center" />
-            <p className="center">{Caption text}</p>
-        </li>
-        <li className="top">
-            <img alt="{Alter text to show if image won't be downloaded to user}" src="{Link to the second image}" className="center" />
-            <a href="{Link of the second caption text}"><p className="center"><b>{Bold caption text with link}</b></p></a>
-        </li>
-        <li className="middle">
-            <img alt="{Alter text to show if image won't be downloaded to user}" src="{Link to the third image}" className="center" />
-            <p className="center"><i>{Italic caption text}</i></p>
-        </li>
-    </ul>
-    ```
-7. When you want to publish an article or exchange data with your coworkers, use the following sequence of commands:
-    ```
-    git add .
-    git commit -m "{Write shortly about changes that were made}"
-    git pull
-    git push
-    ```
+Welcome to the IASA Student Council Articles repository. This guide will help you understand how to publish new articles, edit drafts, and manage the website.
 
-If you want to edit new article without publishing it, you have two ways:
+***You can read the articles on our [website](https://iasastudentcouncil.github.io/iasa-sc-blog/blog).***
 
-1. Add `.txt` to your markdown file name. Then it won't be displayed, but it can be edited by other people. Also, they will have an opportunity to delete `.txt` part and run site locally using **About** part.
-2. Create new branch in your git and github (Branching basics [here](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)). Create and edit folder and `index.md` file there. You can try to see how article looks and run site locally using **About** part. After article is ready, you can merge this new branch to `main` branch.
+## How to Publish New Articles
+
+### Prerequisites
+1. **Install Git:** Follow the instructions to [install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer.
+2. **Create a GitHub Account:** If you don't already have a GitHub account, [sign up here](https://github.com/signup).
+3. **Connect Git with GitHub:** Follow this [quickstart guide](https://docs.github.com/en/get-started/quickstart/set-up-git) to connect Git with your GitHub account.
+4. **Learn Git Basics:** Familiarize yourself with Git basics by reading the [Git Basics](https://supersimpledev.github.io/references/git-github-reference.pdf).
+
+### Steps to Publish
+1. **Request Access**
+   - Become an IASA Student Council Copywriter.
+   - Contact the IASA Student Council GitHub owner (typically the IT-department head) to obtain `write` access to the repository.
+   - Ask them to add you to the [authors list](blog/authors.yml). You need to provide:
+     - Your full name.
+     - A link to your Telegram account or your [link tree](https://linktr.ee).
+     - Your profile image.
+
+2. **Clone the Repository**
+   - Clone the repository to your desired folder. Open a terminal and run the following command:
+     ```bash
+     git clone https://github.com/IASAStudentCouncil/iasa-sc-blog.git
+     ```
+
+3. **Create a New Article**
+   - Navigate to the `blog` folder inside the cloned repository.
+   - Create a new folder with a descriptive name for your article.
+   - Inside this new folder, create an `index.md` or `index.mdx` file where you will write your article.
+
+4. **Add Metadata**
+   - At the top of your `index.md` or `index.mdx` file, add the following metadata:
+     ```markdown
+     ---
+     slug: [The URL endpoint for the article. Example: `https://iasastudentcouncil.github.io/iasa-sc-blog/blog/{slug}`]
+     title: [The title of the article]
+     authors: [A list of authors. You can grab them from the `authors.yml` file in the `blog` folder]
+     tags: [A list of tags to help users find articles]
+     date: [The publication date, which determines the article's position in the blog list]
+     keywords: [A list of keywords to improve searchability]
+     ---
+     ```
+
+     **Example Metadata:**
+     ```markdown
+     ---
+     slug: elected-ai-3-2023
+     title: Вибіркові дисципліни ШІ 3 курс
+     authors: [sonya, andrew, olya, karina]
+     tags: [IASA SC, ІПСА, ШІ, Вибіркові, 3 курс]
+     date: 2023-03-11T11:00
+     keywords: [ІПСА, Вибіркові дисципліни, ШІ, 3 курс]
+     ---
+     ```
+
+5. **Write the Article**
+   - Write your article using Markdown. Refer to the [Markdown Guide](https://www.markdownguide.org/basic-syntax/) for syntax help.
+   - Ensure your content is clear, concise, and well-organized.
+
+6. **Add Multiple Images in a Line**
+   - To display multiple images in a line, use the following HTML snippet within your Markdown file:
+     ```html
+     <ul className="images">
+         <li>
+             <img alt="{Alt text}" src="{First image URL}" className="center" />
+             <p className="center">{Caption}</p>
+         </li>
+         <li className="top">
+             <img alt="{Alt text}" src="{Second image URL}" className="center" />
+             <a href="{Second caption link}"><p className="center"><b>{Bold caption with link}</b></p></a>
+         </li>
+         <li className="middle">
+             <img alt="{Alt text}" src="{Third image URL}" className="center" />
+             <p className="center"><i>{Italic caption}</i></p>
+         </li>
+     </ul>
+     ```
+
+7. **Publish the Article**
+   - Use the following Git commands to publish your article:
+     ```bash
+     git add .
+     git commit -m "{Describe your changes}"
+     git pull
+     git push
+     ```
+   - **Explanation:**
+     - `git add .`: Adds all changes to the staging area.
+     - `git commit -m "{Describe your changes}"`: Commits the changes with a descriptive message.
+     - `git pull`: Fetches and merges changes from the remote repository.
+     - `git push`: Pushes your local commits to the remote repository.
+
+### Editing Drafts
+1. **Save as Draft**
+   - To save your article as a draft, add `.txt` to your Markdown file name (e.g., `index.md.txt`). This prevents the article from being displayed on the live site, but allows others to edit it.
+   - Once ready, remove the `.txt` extension to publish the article.
+
+2. **Create a Branch**
+   - Create and work on a new branch for your draft.
+   - Refer to [Git Branching Basics](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) for more details.
+   - Once the article is ready, create a pull request to merge the branch into the `main` branch. 
 
 ## About
-
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. You can read docs [here](https://docusaurus.io/docs/blog).
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. Refer to the [Docusaurus documentation](https://docusaurus.io/docs/blog) for more information.
 
 ### Installation
-
+To install the necessary dependencies, run:
 ```
 $ npm install
 ```
 
 ### Local Development
-
+To start a local development server, run:
 ```
 $ npm start
 ```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+This command starts a local development server and opens a browser window. Most changes are reflected live without needing to restart the server.
 
 ### Build
-
+To generate static content, run:
 ```
 $ npm run build
 ```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+This command generates static content in the build directory, which can be served using any static content hosting service.
 
 ### Deployment
-
-Just push your commit to `main` branch
+Just push your commits to the `main` branch.
