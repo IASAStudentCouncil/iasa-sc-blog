@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5471],{28672:s=>{s.exports=JSON.parse('{"label":"\u0421\u0422\u0423\u0414\u0420\u0410\u0414\u0410","permalink":"/iasa-sc-blog/blog/tags/\u0441\u0442\u0443\u0434\u0440\u0430\u0434\u0430","allTagsPath":"/iasa-sc-blog/blog/tags","count":1}')}}]);

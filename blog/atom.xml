@@ -41,9 +41,8 @@
             <name>Олексій Вербицький</name>
             <uri>https://t.me/derwya</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
         <category label="ВСТУП" term="ВСТУП"/>
     </entry>
     <entry>
@@ -53,9 +52,6 @@
         <updated>2024-08-04T21:30:00.000Z</updated>
         <summary type="html"><![CDATA[Photo]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="Photo" src="/iasa-sc-blog/assets/images/photo-c3361ea621f599aa4aa15ae2c1ef8952.png" width="1280" height="1280" class="img_ev3q"></p><ul><li><p>Паспорт (копія + оригінал з собою)</p></li><li><p>Облікова картка платника податків (копія + оригінал з собою)</p></li><li><p>Приписне або військовий квиток (копія + оригінал з собою)</p></li><li><p>4 фотографії 3х4</p></li><li><p><strong>Свідоцтво про повну загальну середню освіту (копія + оригінал з собою)</strong></p></li><li><p>Витяг про місце проживання (витяг з Дії)</p></li><li><p>Спеціальні умови вступу на навчання (якщо такі є)</p></li></ul><p><strong><em>Успіхів!</em></strong></p>]]></content>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
     </entry>
     <entry>
@@ -145,9 +141,7 @@
             <name>Уляна Павлюс</name>
             <uri>https://t.me/uulianap</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
         <category label="ВСТУП" term="ВСТУП"/>
     </entry>
     <entry>
@@ -211,9 +205,7 @@
             <name>Анастасія Мазур</name>
             <uri>https://t.me/idgaf_a</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
         <category label="ВСТУП" term="ВСТУП"/>
     </entry>
     <entry>
@@ -243,9 +235,8 @@
             <name>Олександра Богданова</name>
             <uri>https://t.me/itsasha8</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
         <category label="ВСТУП" term="ВСТУП"/>
     </entry>
     <entry>
@@ -282,9 +273,8 @@
             <name>Сєня</name>
             <uri>https://t.me/sen4ello</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="ЖИТТЯ" term="ЖИТТЯ"/>
         <category label="ВСТУП" term="ВСТУП"/>
     </entry>
     <entry>
@@ -314,9 +304,6 @@
             <name>Дар'я Гончарук</name>
             <uri>https://t.me/bbluberrr</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
     </entry>
     <entry>
@@ -342,9 +329,8 @@
             <name>Уляна Теленько</name>
             <uri>https://t.me/uliana_telenko</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
+        <category label="ЖИТТЯ" term="ЖИТТЯ"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
         <category label="ВСТУП" term="ВСТУП"/>
     </entry>
     <entry>
@@ -370,9 +356,8 @@
             <name>Олексій Вербицький</name>
             <uri>https://t.me/derwya</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
         <category label="ВСТУП" term="ВСТУП"/>
     </entry>
     <entry>
@@ -394,9 +379,6 @@
             <name>Богдан Оболенцев</name>
             <uri>https://t.me/obolents3v</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
     </entry>
     <entry>
@@ -438,9 +420,9 @@
             <name>Богдан Оболенцев</name>
             <uri>https://t.me/obolents3v</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="ЖИТТЯ" term="ЖИТТЯ"/>
+        <category label="СТУДРАДА" term="СТУДРАДА"/>
         <category label="ВСТУП" term="ВСТУП"/>
     </entry>
     <entry>
