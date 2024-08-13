@@ -457,10 +457,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Софія Петренко</name>
             <uri>https://t.me/lavendel_29</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
+        <category label="СП" term="СП"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[122 Штучний Інтелект]]></title>
@@ -485,10 +484,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Юліан Заводник</name>
             <uri>https://t.me/zvdnkkkk</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
+        <category label="ШІ" term="ШІ"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[124 Системний аналіз]]></title>
@@ -521,10 +519,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Софія Петренко</name>
             <uri>https://t.me/lavendel_29</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
+        <category label="ММСА" term="ММСА"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Питання&відповідь]]></title>
@@ -549,10 +546,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Максим Переходько</name>
             <uri>https://t.me/kinqbert</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
+        <category label="ЖИТТЯ" term="ЖИТТЯ"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[IASA Soft Skills]]></title>
@@ -573,10 +569,8 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Валерія Плюсніна</name>
             <uri>https://t.me/valeriia_plusplus</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
+        <category label="ЖИТТЯ" term="ЖИТТЯ"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Стереотипи ІПСА]]></title>
@@ -601,10 +595,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Дар'я Гончарук</name>
             <uri>https://t.me/bbluberrr</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
+        <category label="ЖИТТЯ" term="ЖИТТЯ"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Історія ІПСА]]></title>
@@ -621,10 +614,8 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Каріна Попадюк</name>
             <uri>https://t.me/ppdkk</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
+        <category label="ЖИТТЯ" term="ЖИТТЯ"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Структура ЗВО]]></title>
@@ -647,10 +638,8 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Валерія Василенко</name>
             <uri>https://t.me/ayavriik</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[НМТ-2024]]></title>
@@ -667,11 +656,7 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Віра Кузьмінська</name>
             <uri>https://t.me/vera_kuzminska</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
-        <category label="НМТ2024" term="НМТ2024"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Вибіркові дисципліни ШІ 3 курс 2024]]></title>
@@ -730,11 +715,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Нікіта Рябін</name>
             <uri>https://t.me/inverrno</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
         <category label="ШІ" term="ШІ"/>
-        <category label="Вибіркові" term="Вибіркові"/>
-        <category label="3 курс" term="3 курс"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Вибіркові дисципліни ШІ 4 курс 2024]]></title>
@@ -791,11 +774,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Нікіта Рябін</name>
             <uri>https://t.me/inverrno</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
         <category label="ШІ" term="ШІ"/>
-        <category label="Вибіркові" term="Вибіркові"/>
-        <category label="4 курс" term="4 курс"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Вибіркові дисципліни ММСА 3 курс 2024]]></title>
@@ -849,11 +830,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Ілля Будяков</name>
             <uri>https://t.me/inverrno</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
         <category label="ММСА" term="ММСА"/>
-        <category label="Вибіркові" term="Вибіркові"/>
-        <category label="3 курс" term="3 курс"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Вибіркові дисципліни ММСА 4 курс 2024]]></title>
@@ -912,11 +891,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Нікіта Рябін</name>
             <uri>https://t.me/inverrno</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
         <category label="ММСА" term="ММСА"/>
-        <category label="Вибіркові" term="Вибіркові"/>
-        <category label="4 курс" term="4 курс"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Вибіркові дисципліни СП 3 курс 2024]]></title>
@@ -974,11 +951,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Нікіта Рябін</name>
             <uri>https://t.me/inverrno</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
         <category label="СП" term="СП"/>
-        <category label="Вибіркові" term="Вибіркові"/>
-        <category label="3 курс" term="3 курс"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Вибіркові дисципліни СП 4 курс 2024]]></title>
@@ -1036,11 +1011,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Нікіта Рябін</name>
             <uri>https://t.me/inverrno</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
         <category label="СП" term="СП"/>
-        <category label="Вибіркові" term="Вибіркові"/>
-        <category label="4 курс" term="4 курс"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Легенди давнього ІПСА]]></title>
@@ -1053,8 +1026,7 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Ліса Заярченко</name>
             <uri>https://t.me/jwbaelis</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДРАДА" term="СТУДРАДА"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[СР працює]]></title>
@@ -1068,8 +1040,7 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Валерія "Кербер" Хапіліна</name>
             <uri>https://t.me/kkkerber</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДРАДА" term="СТУДРАДА"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Релігія СР ІПСА, або «Вітаю, а ви вірите в бога?»]]></title>
@@ -1084,8 +1055,7 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Валерія "Кербер" Хапіліна</name>
             <uri>https://t.me/kkkerber</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДРАДА" term="СТУДРАДА"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Гайд першокурсника]]></title>
@@ -1110,10 +1080,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Анастасія Заступ</name>
             <uri>https://t.me/zastup_anastasia</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
+        <category label="ЖИТТЯ" term="ЖИТТЯ"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Курси на літо]]></title>
@@ -1126,10 +1095,8 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Анастасія Пижук</name>
             <uri>https://t.me/anastasia19th</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
         <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
-        <category label="САМОРОЗВИТОК" term="САМОРОЗВИТОК"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Гайд на IASA Bot]]></title>
@@ -1157,11 +1124,7 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Дмитро Іваненко</name>
             <uri>https://t.me/dimaple</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="IT" term="IT"/>
-        <category label="BOT" term="BOT"/>
-        <category label="IASA BOT" term="IASA BOT"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Розсудливий і виважений Олександр Безносик]]></title>
@@ -1289,9 +1252,8 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Микита Зеленський</name>
             <uri>https://t.me/Hutorr</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="IASA Interview" term="IASA Interview"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="ІНТЕРВʼЮ" term="ІНТЕРВʼЮ"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[10 причин, чому...]]></title>
@@ -1309,9 +1271,6 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Вікторія Григорівна</name>
             <uri>https://t.me/grygorivnaaa</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
-        <category label="ABIT" term="ABIT"/>
         <category label="ВСТУП" term="ВСТУП"/>
     </entry>
     <entry>
@@ -1344,11 +1303,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Ліса Заярченко</name>
             <uri>https://t.me/jwbaelis</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
         <category label="ММСА" term="ММСА"/>
-        <category label="Вибіркові" term="Вибіркові"/>
-        <category label="4 курс" term="4 курс"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Вибіркові дисципліни ММСА 3 курс]]></title>
@@ -1391,11 +1348,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Ліса Заярченко</name>
             <uri>https://t.me/jwbaelis</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
         <category label="ММСА" term="ММСА"/>
-        <category label="Вибіркові" term="Вибіркові"/>
-        <category label="3 курс" term="3 курс"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Вибіркові дисципліни ШІ 4 курс]]></title>
@@ -1431,11 +1386,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Каріна Попадюк</name>
             <uri>https://t.me/ppdkk</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
         <category label="ШІ" term="ШІ"/>
-        <category label="Вибіркові" term="Вибіркові"/>
-        <category label="4 курс" term="4 курс"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Вибіркові дисципліни ШІ 3 курс]]></title>
@@ -1471,11 +1424,9 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>Каріна Попадюк</name>
             <uri>https://t.me/ppdkk</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
+        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
+        <category label="НАВЧАННЯ" term="НАВЧАННЯ"/>
         <category label="ШІ" term="ШІ"/>
-        <category label="Вибіркові" term="Вибіркові"/>
-        <category label="3 курс" term="3 курс"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Вітаємо на блогпості ІПСА]]></title>
@@ -1488,7 +1439,5 @@ Web-developer — розробник інтернет-ПЗ.</p><blockquote><p><e
             <name>IASA SC</name>
             <uri>https://t.me/IASAsuggestionBot</uri>
         </author>
-        <category label="IASA SC" term="IASA SC"/>
-        <category label="ІПСА" term="ІПСА"/>
     </entry>
 </feed>
