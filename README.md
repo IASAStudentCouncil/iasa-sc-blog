@@ -11,6 +11,7 @@ Welcome to the IASA Student Council Articles repository. This guide will help yo
 - [Editing Drafts](#editing-drafts)
 - [About](#about)
 - [Development and Deployment](#development-and-deployment)
+- [Notice](#notice)
 
 ## How to Publish New Articles
 
@@ -142,3 +143,8 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 4. Deployment
 
    Just push your commits to the `main` branch.
+
+## Notice
+Developed and maintained by the IASA Student Council IT department.
+
+> ***Analyze and conquer!***
