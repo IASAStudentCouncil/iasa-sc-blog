@@ -106,7 +106,7 @@ const config = {
               { label: 'Q&A', to: '/blog/FAQ' },
               { label: 'IASA Events', to: '/blog/Event' },
               { label: 'Гайд першокурсника', to: '/blog/freshman_guide' },
-              { label: 'Cтудрада Навиворіт', to: '/blog/sc_working_2' },
+              { label: 'Cтудрада Навиворіт', to: '/blog/sc_working' },
               { label: '122 Штучний Інтелект', to: '/blog/AI' },
               { label: '122 Системне Проєктування', to: '/blog/122СП/' },
               { label: '124 Системний Аналіз', to: '/blog/124' },
