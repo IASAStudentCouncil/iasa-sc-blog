@@ -1,37 +1,78 @@
+# ВАЖЛИВО!!! 
+# Перед тим як додавати нових челів - подивіться структуру вже існуючих
+
+# Оновлений стиль фотографій авторів
+
+lisa-2:
+  name: Ліса Заярченко
+  title: Голова Інформ-відділу
+  image_url: https://telegra.ph/file/784d92ab381d3410b5109.jpg
+  url: 
+
+kruchok-2:
+  name: Анна Кручок
+  title: Редакторка статей
+  image_url: https://telegra.ph/file/55820722c6d157ba91339.jpg
+  url: https://linktr.ee/anya.kruchok
+
+yulian-2:
+  name: Юліан Заводник
+  title: Редактор статей
+  image_url: https://telegra.ph/file/de8bf498368120da3f739.jpg
+  url: https://linktr.ee/yulianzavodnyk
+
+# Головні челіки та загальна президія
+
 admin:
   name: IASA SC
-  title: Admin
+  title: IASA Admin
   url: https://t.me/IASAsuggestionBot
   image_url: https://i.imgur.com/6ew5FnG.png
 
+andrii:
+  name: Андрій Кулєшов
+  title: Хамло всія Інформ відділу
+  image_url: https://i.imgur.com/BQ4TKZC.jpg
+  url: https://t.me/andead422
+
+link:
+  name: Link
+  title: Радник голови. Досвідчений.
+  image_url: https://i.imgur.com/S9J727B.jpg
+  url: https://t.me/sparklingrain
+
 andrew:
   name: Андрій Шевцов
-  title: Заступник голови СР (2021-2023)
+  title: Заступник голови Студради 2021/23
   url: https://t.me/prometheusua
   image_url: https://i.imgur.com/VDxbqHt.jpg
 
-karina:
-  name: Каріна Попадюк
-  title: Членкиня команди статей про вибіркові
-  url: https://t.me/ppdkk
-  image_url: https://i.imgur.com/V166Ij1.png
+dimaple:
+  name: Дмитро Іваненко
+  title: Голова ІТ-відділу 2023/24
+  image_url: https://i.imgur.com/AUp1uc6.png
+  url: https://t.me/dimaple
 
-olya:
-  name: Ольга Балясіна
-  title: Членкиня команди статей про вибіркові
-  url: https://t.me/olichka_16
-  image_url: https://i.imgur.com/p0xxlmj.png
+polina:
+  name: Поліна Василенко
+  title: Голова Інформ-відділу 2022/23
+  image_url: https://i.imgur.com/V6Azlsw.jpg
+  url: https://t.me/w41fu
 
-patron:
-  name: Пес Патрон
-  title: Front End Engineer
-  image_url: https://i.imgur.com/xgR29Gk.jpg
+sonya:
+  name: Софія Осадча
+  title: Голова Освітнього відділу
+  url: https://t.me/syfiaa
+  image_url: https://imgur.com/cwDC3EA.png
 
-valeriia:
-  name: Валерія "Кербер" Хапіліна
-  title: Редакторка статей та інтерв'ю СтудРади
-  image_url: https://i.imgur.com/Yc0OECN.jpg
-  url: https://t.me/kkkerber
+lisa:
+  name: Ліса Заярченко
+  title: Голова Інформ-відділу
+  image_url: https://i.imgur.com/VouXpE9.jpg
+  url: https://t.me/jwbaelis
+
+# Абіт-відділ
+# Президія Абіт-відділу
 
 grygorivnaaa:
   name: Вікторія Григорівна
@@ -39,11 +80,11 @@ grygorivnaaa:
   image_url: https://i.imgur.com/3zXzrOZ.jpg
   url: https://t.me/grygorivnaaa
 
-monkeys:
-  name: Артем Тертишник
-  title: Редактор статей Абіт-відділу
-  url: https://t.me/m29nkeys
-  image_url: https://i.imgur.com/gAvT43w.jpeg
+polinka:
+  name: Поліна Лавриненко
+  title: Голова Абіт-відділу 2024
+  image_url: https://i.imgur.com/D2xVlEr.jpg
+  url: https://t.me/plvrnnk
 
 karinka:
   name: Каріна Попадюк
@@ -57,65 +98,7 @@ anastasia:
   url: https://t.me/zastup_anastasia
   image_url: https://i.imgur.com/9uF7Zbu.jpg
 
-ilias:
-  name: Ільяс Асім огли Алпашаєв
-  title: Редактор статей Абіт-відділу
-  url: https://t.me/MavBoot
-  image_url: https://i.imgur.com/osY1f4G.jpg
-
-vera:
-  name: Віра Кузьмінська
-  title: Редакторка статей Абіт-відділу
-  image_url: https://i.imgur.com/eYTtfeS.jpg
-  url: https://t.me/vera_kuzminska
-
-ivan:
-  name: Іван Гавлицький
-  title: Тарас Колеснюк Абіт-відділу
-  image_url: https://i.imgur.com/3BmjGnL.jpg
-  url: https://t.me/nuinashco
-
-polina:
-  name: Поліна Василенко
-  title: Голова Інформ-відділу (2022-2023)
-  image_url: https://i.imgur.com/V6Azlsw.jpg
-  url: https://t.me/w41fu
-
-anastasia19th:
-  name: Анастасія Пижук
-  title: Редакторка статей та інтерв'ю СтудРади
-  image_url: https://i.imgur.com/phggCcm.jpg
-  url: https://t.me/anastasia19th
-
-lerchik:
-  name: Валерія Василенко
-  title: Редакторка статей Абіт-відділу
-  image_url: https://i.imgur.com/g7TlU5n.jpg
-  url: https://t.me/ayavriik
-
-ansty:
-  name: Анастасія Березкіна
-  title: Редакторка статей Абіт-відділу
-  image_url: https://i.imgur.com/kEeQ65E.jpg
-  url: https://t.me/anstybjork
-
-link:
-  name: Link
-  title: Радник голови. Досвідчений.
-  image_url: https://i.imgur.com/S9J727B.jpg
-  url: https://t.me/sparklingrain
-
-sofia:
-  name: Софія Осадча
-  title: Редакторка статей Абіт-відділу
-  image_url: https://i.imgur.com/GoFtU5s.jpg
-  url: https://t.me/syfiaa
-
-mykyta:
-  name: Микита Зеленський
-  title: Редактор статей та інтерв'ю СтудРади
-  image_url: https://i.imgur.com/epmVc0M.jpg
-  url: https://t.me/Hutorr
+# Кастомні описи Абіт-відділу
 
 senia:
   name: Сенчелло
@@ -129,149 +112,249 @@ sabir:
   image_url: https://i.imgur.com/0m4xQuh.jpg
   url: https://t.me/yungazzz
 
-alina:
-  name: Аліна Журавель
-  title: Донба$$ятко
-  image_url: https://i.imgur.com/Ub9TQVd.jpeg
-  url: https://t.me/llllna
+ivan:
+  name: Іван Гавлицький
+  title: Тарас Колеснюк Абіт-відділу
+  image_url: https://i.imgur.com/3BmjGnL.jpg
+  url: https://t.me/nuinashco
+
+# Редактори статей Абіт-відділу
+
+monkeys:
+  name: Артем Тертишник
+  title: Редактор статей
+  url: https://t.me/m29nkeys
+  image_url: https://i.imgur.com/gAvT43w.jpeg
+
+ilias:
+  name: Ільяс Асім огли Алпашаєв
+  title: Редактор статей
+  url: https://t.me/MavBoot
+  image_url: https://i.imgur.com/osY1f4G.jpg
+
+danylo:
+  name: Данило Глухіх
+  title: Редактор статей
+  image_url: https://i.imgur.com/DH9LG3f.jpeg
+  url: https://t.me/drakkker
+
+dmytro:
+  name: Дмитро Марченко
+  title: Редактор статей
+  image_url: https://i.imgur.com/A20YdGQ.jpeg
+  url: https://t.me/dimasmar
+
+kosta:
+  name: Костянтин Казанін
+  title: Редактор статей
+  image_url: https://imgur.com/KqmoSeH.png
+  url: https://t.me/Okkyqud
+
+vera:
+  name: Віра Кузьмінська
+  title: Редакторка статей
+  image_url: https://i.imgur.com/eYTtfeS.jpg
+  url: https://t.me/vera_kuzminska
+
+lerchik:
+  name: Валерія Василенко
+  title: Редакторка статей
+  image_url: https://i.imgur.com/g7TlU5n.jpg
+  url: https://t.me/ayavriik
+
+ansty:
+  name: Анастасія Березкіна
+  title: Редакторка статей
+  image_url: https://i.imgur.com/kEeQ65E.jpg
+  url: https://t.me/anstybjork
+
+sofia:
+  name: Софія Осадча
+  title: Редакторка статей
+  image_url: https://i.imgur.com/GoFtU5s.jpg
+  url: https://t.me/syfiaa
 
 eva:
   name: Єва Пелехань
-  title: Редакторка статей Абіт-відділу
+  title: Редакторка статей
   image_url: https://i.imgur.com/4fcUBz1.jpg
   url: https://t.me/yevap26
 
-polinka:
-  name: Поліна Лавриненко
-  title: Голова Абіт-відділу 2024
-  image_url: https://i.imgur.com/D2xVlEr.jpg
-  url: https://t.me/plvrnnk
-
-marina:
-  name: Марина Дерновая
-  title: Та сама маря
-  image_url: https://i.imgur.com/k1AjSFe.jpg
-  url: https://t.me/axxiomma
-
-dimaple:
-  name: Дмитро Іваненко
-  title: Голова ІТ-відділу
-  image_url: https://i.imgur.com/AUp1uc6.png
-  url: https://t.me/dimaple
-
-andrii:
-  name: Андрій Кулєшов
-  title: Хамло всія Інформ відділу
-  image_url: https://i.imgur.com/BQ4TKZC.jpg
-  url: https://t.me/andead422
-
 andriana:
   name: Андріана Долотова
-  title: Редакторка статей Абіт-відділу
+  title: Редакторка статей
   image_url: https://i.imgur.com/0r6gTGh.jpg
   url: https://t.me/cornflakke
 
 polyulyah:
   name: Ольга Полюлях
-  title: Редакторка статей Абіт-відділу
+  title: Редакторка статей
   image_url: https://i.imgur.com/5HsN4W3.jpeg
   url: https://t.me/olya_poliuliakh
 
 kseniya:
   name: Ксенія Денисова
-  title: Редакторка статей Абіт-відділу
+  title: Редакторка статей
   image_url: https://i.imgur.com/fxLRquS.jpeg
   url: https://t.me/syavvaa
 
-sonya:
-  name: Софія Осадча
-  title: Голова команди статей про вибіркові
-  url: https://t.me/syfiaa
-  image_url: https://imgur.com/cwDC3EA.png
-
-lisa:
-  name: Ліса Заярченко
-  title: Голова Інформ-відділу
-  image_url: https://i.imgur.com/VouXpE9.jpg
-  url: https://t.me/jwbaelis
+# Редактори статей про вибіркові
 
 alex1:
   name: Олександр Гром
-  title: Член команди статей про вибіркові
+  title: Редактор статей про вибіркові
   image_url: https://imgur.com/mTzT2pg.png
   url: https://t.me/loomer19
 
 viktor1:
   name: Віктор Богатиренко
-  title: Член команди статей про вибіркові
+  title: Редактор статей про вибіркові
   image_url: https://imgur.com/gwLiuUQ.png
   url: https://t.me/k_loyal
 
 andrii1:
   name: Андрій Маврін
-  title: Член команди статей про вибіркові
+  title: Редактор статей про вибіркові
   image_url: https://imgur.com/TB9QV3o.png
   url: https://t.me/aqzazq
 
 kosta1:
   name: Костянтин Казанін
-  title: Член команди статей про вибіркові
+  title: Редактор статей про вибіркові
   image_url: https://imgur.com/KqmoSeH.png
   url: https://t.me/Okkyqud
-
-kosta:
-  name: Костянтин Казанін
-  title: Редактор статей Абіт-відділу
-  image_url: https://imgur.com/KqmoSeH.png
-  url: https://t.me/Okkyqud
-
-anna1:
-  name: Анна Луценко
-  title: Членкиня команди статей про вибіркові
-  image_url: https://imgur.com/Ur8DzEX.png
-  url: https://t.me/welbiit
-
-vera1:
-  name: Віра Кузьмінська
-  title: Членкиня команди статей про вибіркові
-  image_url: https://i.imgur.com/eYTtfeS.jpg
-  url: https://t.me/vera_kuzminska
-
-olexsii1:
-  name: Олексій Вербицький
-  title: Безсонний волонтер
-  image_url: https://imgur.com/2UuY66o.jpg
-  url: https://t.me/derwya
 
 illa1:
   name: Ілля Будяков
-  title: Член команди статей про вибіркові
+  title: Редактор статей про вибіркові
   image_url: https://imgur.com/7C7ik2p.png
   url: https://t.me/inverrno
 
 nikita1:
   name: Нікіта Рябін
-  title: Член команди статей про вибіркові
+  title: Редактор статей про вибіркові
   image_url: https://imgur.com/augnbTo.jpg
   url: https://t.me/inverrno
 
+karina:
+  name: Каріна Попадюк
+  title: Редакторка статей про вибіркові
+  url: https://t.me/ppdkk
+  image_url: https://i.imgur.com/V166Ij1.png
+
+olya:
+  name: Ольга Балясіна
+  title: Редакторка статей про вибіркові
+  url: https://t.me/olichka_16
+  image_url: https://i.imgur.com/p0xxlmj.png
+
+anna1:
+  name: Анна Луценко
+  title: Редакторка статей про вибіркові
+  image_url: https://imgur.com/Ur8DzEX.png
+  url: https://t.me/welbiit
+
+vera1:
+  name: Віра Кузьмінська
+  title: Редакторка статей про вибіркові
+  image_url: https://i.imgur.com/eYTtfeS.jpg
+  url: https://t.me/vera_kuzminska
+
+# Редактори статей та інтерв'ю
+
+anastasia19th:
+  name: Анастасія Пижук
+  title: Редакторка статей та інтерв'ю
+  image_url: https://i.imgur.com/phggCcm.jpg
+  url: https://t.me/anastasia19th
+
+valeriia:
+  name: Валерія "Кербер" Хапіліна
+  title: Редакторка статей та інтерв'ю
+  image_url: https://i.imgur.com/Yc0OECN.jpg
+  url: https://t.me/kkkerber
+
+mykyta:
+  name: Микита Зеленський
+  title: Редактор статей та інтерв'ю
+  image_url: https://i.imgur.com/epmVc0M.jpg
+  url: https://t.me/Hutorr
+
+# Просто редактори статей
+
+yulian:
+  name: Юліан Заводник
+  title: Редактор статей
+  image_url: https://i.imgur.com/kjypUkr.jpeg
+  url: https://t.me/zvdnkkkk
+
+maksym:
+  name: Максим Переходько
+  title: Редактор статей
+  image_url: https://i.imgur.com/fuvnKq5.jpeg
+  url: https://t.me/kinqbert
+
+bogdan:
+  name: Богдан Оболенцев
+  title: Редактор статей
+  image_url: https://i.imgur.com/d1EVV5T.jpeg
+  url: https://t.me/obolents3v
+
 sasha:
   name: Олександра Богданова
-  title: Редакторка статей Студради
+  title: Редакторка статей
   image_url: https://imgur.com/jQ7ILaX.jpg
   url: https://t.me/itsasha8
 
 liza:
   name: Єлизавета Кабанова
-  title: Редакторка статей Студради
+  title: Редакторка статей
   image_url: https://i.imgur.com/kC3xgh2.jpeg
   url: https://t.me/kabaanova
 
 dashaHoncharuk:
   name: Дар'я Гончарук
-  title: Редакторка статей Студради
+  title: Редакторка статей
   image_url: https://i.imgur.com/Lmj2yyX.jpeg
   url: https://t.me/bbluberrr
+
+plyusnina:
+  name: Валерія Плюсніна
+  title: Редакторка статей
+  image_url: https://i.imgur.com/gkilAAp.jpeg
+  url: https://t.me/valeriia_plusplus
+
+kruchok:
+  name: Анна Кручок
+  title: Редакторка статей
+  image_url: https://i.imgur.com/mpEDvEr.jpeg
+  url: https://t.me/kalmarchikk
+
+petrenko:
+  name: Софія Петренко
+  title: Редакторка статей
+  image_url: https://i.imgur.com/nMfVrYV.jpeg
+  url: https://t.me/lavendel_29
+
+pavlyus:
+  name: Уляна Павлюс
+  title: Редакторка статей
+  image_url: https://i.imgur.com/chvwY4B.jpeg
+  url: https://t.me/uulianap
+
+mazur:
+  name: Анастасія Мазур
+  title: Редакторка статей
+  image_url: https://i.imgur.com/jNVYSh2.jpeg
+  url: https://t.me/idgaf_a
+  
+telenko:
+  name: Уляна Теленько
+  title: Редакторка статей
+  image_url: https://i.imgur.com/izc63IQ.jpeg
+  url: https://t.me/uliana_telenko
+
+# Кастомні описи
 
 senchuk:
   name: Сєня
@@ -279,59 +362,17 @@ senchuk:
   image_url: https://i.imgur.com/iReLWZe.jpeg
   url: https://t.me/sen4ello
 
-plyusnina:
-  name: Валерія Плюсніна
-  title: Редакторка статей Студради
-  image_url: https://i.imgur.com/gkilAAp.jpeg
-  url: https://t.me/valeriia_plusplus
+olexsii1:
+  name: Олексій Вербицький
+  title: Безсонний волонтер
+  image_url: https://imgur.com/2UuY66o.jpg
+  url: https://t.me/derwya
 
-maksym:
-  name: Максим Переходько
-  title: Редактор статей Студради
-  image_url: https://i.imgur.com/fuvnKq5.jpeg
-  url: https://t.me/kinqbert
-
-kruchok:
-  name: Анна Кручок
-  title: Редакторка статей Студради
-  image_url: https://i.imgur.com/mpEDvEr.jpeg
-  url: https://t.me/kalmarchikk
-
-petrenko:
-  name: Софія Петренко
-  title: Редакторка статей Студради
-  image_url: https://i.imgur.com/nMfVrYV.jpeg
-  url: https://t.me/lavendel_29
-
-pavlyus:
-  name: Уляна Павлюс
-  title: Редакторка статей Студради
-  image_url: https://i.imgur.com/chvwY4B.jpeg
-  url: https://t.me/uulianap
-
-mazur:
-  name: Анастасія Мазур
-  title: Редакторка статей Студради
-  image_url: https://i.imgur.com/jNVYSh2.jpeg
-  url: https://t.me/idgaf_a
-
-danylo:
-  name: Данило Глухіх
-  title: Редактор статей Абіт-відділу
-  image_url: https://i.imgur.com/DH9LG3f.jpeg
-  url: https://t.me/drakkker
-
-dmytro:
-  name: Дмитро Марченко
-  title: Редактор статей Абіт-відділу
-  image_url: https://i.imgur.com/A20YdGQ.jpeg
-  url: https://t.me/dimasmar
-
-yulian:
-  name: Юліан Заводник
-  title: Редактор статей Студради
-  image_url: https://i.imgur.com/kjypUkr.jpeg
-  url: https://t.me/zvdnkkkk
+alina:
+  name: Аліна Журавель
+  title: Донба$$ятко
+  image_url: https://i.imgur.com/Ub9TQVd.jpeg
+  url: https://t.me/llllna
 
 ragulina:
   name: Анна Рагуліна
@@ -351,14 +392,13 @@ valia:
   image_url: https://i.imgur.com/efGBAZP.jpeg
   url: https://t.me/valia_lebiga
 
-bogdan:
-  name: Богдан Оболенцев
-  title: Редактор статей Студради
-  image_url: https://i.imgur.com/d1EVV5T.jpeg
-  url: https://t.me/obolents3v
+marina:
+  name: Марина Дерновая
+  title: Та сама маря
+  image_url: https://i.imgur.com/k1AjSFe.jpg
+  url: https://t.me/axxiomma
 
-telenko:
-  name: Уляна Теленько
-  title: Редакторка статей Студради
-  image_url: https://i.imgur.com/izc63IQ.jpeg
-  url: https://t.me/uliana_telenko
+patron:
+  name: Пес Патрон
+  title: Front End Engineer
+  image_url: https://i.imgur.com/xgR29Gk.jpg
