@@ -44,7 +44,11 @@ const config = {
   
   scripts: [
     {
-      src: "https://www.googletagmanager.com/gtm.js?id=GTM-K25D9CQ2",
+      src: "https://www.googletagmanager.com/gtag/js?id=G-9CFDMS82J9",
+      async: true,
+    },
+    {
+      src: "/js/gtag.js",
       async: true,
     },
   ],
@@ -53,25 +57,26 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        { name: 'keywords', content: 'ІПСА, інститут прикладного системного аналізу, КПІ, \
+        { name: 'keywords', content: 'ІПСА, IASA, IASA Articles, статті, статті іпса, Студрада ІПСА, Студрада, \
+                                      інститут прикладного системного аналізу, КПІ, \
                                       київський політехнічний інститут, університет, інститут, факультет, \
-                                      iasa, kpi, катедра, факультет, система, системний аналіз, технічний університет, \
+                                      iasa, kpi, катедра, системний аналіз, технічний університет, КПІ\
                                       студентська рада, вступна кампанія, студентське життя, абітурієнт, інтерв\'ю, \
-                                      студрада КПІ, освітня програма, викладачі КПІ, освіта в Україні, студент КПІ, університетські новини, ІПСА КПІ, \
+                                      студрада, освітня програма, викладачі КПІ, освіта в Україні, абітурієнт, студент КПІ, університетські новини, ІПСА КПІ, \
                                       інженерія, технології, програмування, наука, вступ 2024, технологічна освіта' },
         { name: 'description', content: 'IASA Student Council - Офіційний сайт Студради Інституту прикладного системного аналізу КПІ ім. І. Сікорського. \
                                           Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА. \
                                           Слідкуй за нами, аби не пропустити найцікавіше зі студентського життя ІПСА!' },
         { name: 'author', content: 'IASA Student Council' },
         { name: 'robots', content: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1' },
-        { name: 'google-site-verification', content: '4d4y76j3hfs3.gv-edyxxdsb6p6w6o.dv.googlehosted.com' },
+        { name: 'google-site-verification', content: 'EKoTRWvgkVlUjCTsTxqmsiExFKX7KYEotmBHnfc12R0' },
 
-        { name: 'og:title', content: 'IASA Student Council - Студентська рада ІПСА' },
+        { name: 'og:title', content: 'IASA Articles - Статті Студради ІПСА' },
         { name: 'og:description', content: 'Слідкуй за нами, аби не пропустити найцікавіше зі студентського життя ІПСА! Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА КПІ.' },
         { name: 'og:type', content: 'website' },
         { name: 'og:url', content: 'https://IASAStudentCouncil.github.io/iasa-sc-blog/' },
         { name: 'og:image', content: 'https://IASAStudentCouncil.github.io/iasa-sc-blog/img/IASA-social.jpg' },
-        { name: 'og:site_name', content: 'IASA Student Council' },
+        { name: 'og:site_name', content: 'IASA Articles' },
         { name: 'og:locale', content: 'uk_UA' },
         
         { name: 'icon', content: 'https://IASAStudentCouncil.github.io/iasa-sc-blog/img/favicon1.ico' },
@@ -108,7 +113,7 @@ const config = {
               { label: 'Гайд першокурсника', to: '/blog/freshman_guide' },
               { label: 'Cтудрада Навиворіт', to: '/blog/SC' },
               { label: '122 Штучний Інтелект', to: '/blog/AI' },
-              { label: '122 Системне Проєктування', to: '/blog/122СП/' },
+              { label: '122 Системне Проєктування', to: '/blog/122СП' },
               { label: '124 Системний Аналіз', to: '/blog/124' },
               { label: 'Стереотипи ІПСА', to: '/blog/Stereotypes' },
             ],
@@ -126,12 +131,13 @@ const config = {
           {
             title: 'Інші ресурси',
             items: [
-              { label: 'Instagram', href: 'https://www.instagram.com/studrada_iasa/' },
+              { label: 'Instagram', href: 'https://www.instagram.com/studrada_iasa' },
               { label: 'Facebook', href: 'https://www.facebook.com/studrada.iasa' },
               { label: 'Linkedin', href: 'https://www.linkedin.com/company/iasa-sc' },
-              { label: 'Youtube', href: 'https://www.youtube.com/@IASAChannel' },
+              { label: 'Youtube', href: 'https://www.youtube.com/@IASAChannel/videos' },
               { label: 'GitHub', href: 'https://github.com/IASAStudentCouncil' },
-              { label: 'Analyst.shop', href: 'https://www.instagram.com/analyst.shop/' },
+              { label: 'Analyst.shop', href: 'https://www.instagram.com/analyst.shop' },
+              { label: 'Більше посилань', href: 'https://linktr.ee/iasa_sc' },
             ],
           },
           {
@@ -150,25 +156,6 @@ const config = {
         },
         copyright: `Copyright © ${new Date().getFullYear()} IASA Student Council`,
       },
-      head: [
-        {
-          tagName: 'script',
-          innerHTML: `
-            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-K25D9CQ2');
-          `,
-        },
-        {
-          tagName: 'noscript',
-          innerHTML: `
-            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K25D9CQ2"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe>
-          `,
-        },
-      ],
     }),
 };
 

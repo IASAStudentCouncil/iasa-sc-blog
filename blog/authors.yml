@@ -260,23 +260,72 @@ vera1:
   image_url: https://i.imgur.com/eYTtfeS.jpg
   url: https://t.me/vera_kuzminska
 
+# Кастомні описи
+
+senchuk:
+  name: Сєня
+  title: Поважний дід Студради
+  image_url: https://i.imgur.com/iReLWZe.jpeg
+  url: https://t.me/sen4ello
+
+olexsii1:
+  name: Олексій Вербицький
+  title: Безсонний волонтер
+  image_url: https://imgur.com/2UuY66o.jpg
+  url: https://t.me/derwya
+
+alina:
+  name: Аліна Журавель
+  title: Донба$$ятко
+  image_url: https://i.imgur.com/Ub9TQVd.jpeg
+  url: https://t.me/llllna
+
+ragulina:
+  name: Анна Рагуліна
+  title: Снаряд для ППО
+  image_url: https://i.imgur.com/yl1kgaZ.jpeg
+  url: https://t.me/rrragulina
+
+artem:
+  name: Артем Захаренко
+  title: Гроза сквоту
+  image_url: https://i.imgur.com/2kZ3C92.jpeg
+  url: https://t.me/zab_dev
+
+valia:
+  name: Валя Лебіга
+  title: Альтуха
+  image_url: https://i.imgur.com/efGBAZP.jpeg
+  url: https://t.me/valia_lebiga
+
+marina:
+  name: Марина Дерновая
+  title: Та сама маря
+  image_url: https://i.imgur.com/k1AjSFe.jpg
+  url: https://t.me/axxiomma
+
+patron:
+  name: Пес Патрон
+  title: Front End Engineer
+  image_url: https://i.imgur.com/xgR29Gk.jpg
+
 # Редактори статей та інтерв'ю
 
 anastasia19th:
   name: Анастасія Пижук
-  title: Редакторка статей та інтерв'ю
+  title: Редакторка статей та інтерв'юєрка
   image_url: https://i.imgur.com/phggCcm.jpg
   url: https://t.me/anastasia19th
 
 valeriia:
   name: Валерія "Кербер" Хапіліна
-  title: Редакторка статей та інтерв'ю
+  title: Редакторка статей та інтерв'юєрка
   image_url: https://i.imgur.com/Yc0OECN.jpg
   url: https://t.me/kkkerber
 
 mykyta:
   name: Микита Зеленський
-  title: Редактор статей та інтерв'ю
+  title: Редактор статей та інтерв'юєр
   image_url: https://i.imgur.com/epmVc0M.jpg
   url: https://t.me/Hutorr
 
@@ -353,52 +402,3 @@ telenko:
   title: Редакторка статей
   image_url: https://i.imgur.com/izc63IQ.jpeg
   url: https://t.me/uliana_telenko
-
-# Кастомні описи
-
-senchuk:
-  name: Сєня
-  title: Поважний дід Студради
-  image_url: https://i.imgur.com/iReLWZe.jpeg
-  url: https://t.me/sen4ello
-
-olexsii1:
-  name: Олексій Вербицький
-  title: Безсонний волонтер
-  image_url: https://imgur.com/2UuY66o.jpg
-  url: https://t.me/derwya
-
-alina:
-  name: Аліна Журавель
-  title: Донба$$ятко
-  image_url: https://i.imgur.com/Ub9TQVd.jpeg
-  url: https://t.me/llllna
-
-ragulina:
-  name: Анна Рагуліна
-  title: Снаряд для ППО
-  image_url: https://i.imgur.com/yl1kgaZ.jpeg
-  url: https://t.me/rrragulina
-
-artem:
-  name: Артем Захаренко
-  title: Гроза сквоту
-  image_url: https://i.imgur.com/2kZ3C92.jpeg
-  url: https://t.me/zab_dev
-
-valia:
-  name: Валя Лебіга
-  title: Альтуха
-  image_url: https://i.imgur.com/efGBAZP.jpeg
-  url: https://t.me/valia_lebiga
-
-marina:
-  name: Марина Дерновая
-  title: Та сама маря
-  image_url: https://i.imgur.com/k1AjSFe.jpg
-  url: https://t.me/axxiomma
-
-patron:
-  name: Пес Патрон
-  title: Front End Engineer
-  image_url: https://i.imgur.com/xgR29Gk.jpg
