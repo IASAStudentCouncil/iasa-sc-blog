@@ -10,9 +10,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fbbc839-e427-48e6-9bf9-56edd9ac27fe" name="Changes" comment="IASA Bot Guide Article Added">
-      <change afterPath="$PROJECT_DIR$/blog/ABIT/event/ball2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/ball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/ABIT/event/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/ABIT/event/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ABIT/freshman_guide_old/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/ABIT/freshman_guide_old/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ELECTED/2024/ai-3-elected-disciplines-2024/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/ELECTED/2024/ai-3-elected-disciplines-2024/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ELECTED/2024/ai-4-elected-disciplines-2024/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/ELECTED/2024/ai-4-elected-disciplines-2024/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ELECTED/2024/mmsa-3-elected-disciplines-2024/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/ELECTED/2024/mmsa-3-elected-disciplines-2024/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ELECTED/2024/mmsa-4-elected-disciplines-2024/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/ELECTED/2024/mmsa-4-elected-disciplines-2024/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ELECTED/2024/sd-3-elected-disciplines-2024/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/ELECTED/2024/sd-3-elected-disciplines-2024/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/ELECTED/2024/sd-4-elected-disciplines-2024/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/ELECTED/2024/sd-4-elected-disciplines-2024/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/INTERVIEW/beznosyk/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/INTERVIEW/oleksandr-beznosyk/assets/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/INTERVIEW/beznosyk/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/INTERVIEW/oleksandr-beznosyk/assets/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/INTERVIEW/beznosyk/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/INTERVIEW/oleksandr-beznosyk/assets/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/INTERVIEW/beznosyk/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/INTERVIEW/oleksandr-beznosyk/assets/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/INTERVIEW/beznosyk/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/INTERVIEW/oleksandr-beznosyk/assets/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/INTERVIEW/beznosyk/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/INTERVIEW/oleksandr-beznosyk/assets/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/INTERVIEW/beznosyk/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/INTERVIEW/oleksandr-beznosyk/assets/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/INTERVIEW/beznosyk/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/INTERVIEW/oleksandr-beznosyk/assets/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/INTERVIEW/beznosyk/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/INTERVIEW/oleksandr-beznosyk/assets/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/INTERVIEW/beznosyk/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/INTERVIEW/oleksandr-beznosyk/assets/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/INTERVIEW/beznosyk/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/INTERVIEW/oleksandr-beznosyk/assets/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/INTERVIEW/beznosyk/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/INTERVIEW/oleksandr-beznosyk/assets/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/INTERVIEW/beznosyk/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/INTERVIEW/oleksandr-beznosyk/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/base_commands.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/base_commands.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/bind.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/bind.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/deadline_set.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/deadline_set.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/delete_edit_and_link.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/delete_edit_and_link.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/edit_set.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/edit_set.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/link_set.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/link_set.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/logo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/logo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/preview.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/preview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/reaction.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/reaction.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/report.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/report.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/reset_head.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/reset_head.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/schedule.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/schedule.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/self_remove.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/self_remove.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/set_head.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/set_head.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/IT/iasa-bot/settings.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blog/IT/iasa-bot/assets/settings.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc__departments_legends/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_departments_legends/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/Frame44.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/Frame44.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/Frame45.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/Frame45.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/Frame46.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/Frame46.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/Frame48.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/Frame48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/Frame50.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/Frame50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/Frame68.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/Frame68.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/Frame70.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/Frame70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/Frame72.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/Frame72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/Frame75.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/Frame75.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/Frame81.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/Frame81.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/sc1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/sc1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/sc2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/sc2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/sc3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/sc3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/sc4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working/assets/sc4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/STUDENT COUNCIL/sc_working_2/index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/authors.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/welcome.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/welcome.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +129,19 @@
       <recent name="$PROJECT_DIR$/blog/ABIT/history" />
       <recent name="C:\IASA\iasa-sc-blog\blog\IT\iasa-bot" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IASA\iasa-sc-blog\blog\INTERVIEW\oleksandr-beznosyk\assets" />
+      <recent name="D:\IASA\iasa-sc-blog\blog\STUDENT COUNCIL\sc_working\assets" />
+      <recent name="D:\IASA\iasa-sc-blog\blog\IT\iasa-bot\assets" />
+      <recent name="D:\IASA\iasa-sc-blog\blog\STUDENT COUNCIL\sc_working\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -89,6 +156,8 @@
       <workItem from="1688472122361" duration="3886000" />
       <workItem from="1712823360268" duration="3328000" />
       <workItem from="1717215272105" duration="3518000" />
+      <workItem from="1725013197283" duration="2275000" />
+      <workItem from="1725016264905" duration="891000" />
     </task>
     <task id="LOCAL-00001" summary="IASA Bot Guide Article Added">
       <option name="closed" value="true" />
