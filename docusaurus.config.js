@@ -119,7 +119,7 @@ const config = {
         { name: 'ICBM', content: '50.4495, 30.4647' },
         { name: 'geo.latitude', content: '50.4495' },
         { name: 'geo.longitude', content: '30.4647' },
-        { name: 'geo.place_id', content: 'ChIJnwpfGoPO1EARWDLGgxP1OCY' }
+        { name: 'geo.place_id', content: 'ChIJnwpfGoPO1EARWDLGgxP1OCY' },
         { name: 'geo.continent', content: 'Europe' },
 
         { name: 'first', content: 'https://IASAStudentCouncil.github.io/iasa-sc-blog/blog' },
