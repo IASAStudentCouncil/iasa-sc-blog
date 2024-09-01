@@ -88,25 +88,6 @@ const config = {
         twitter: { cardType: 'summary_large_image' },
       },
     ],
-    [
-      '@docusaurus/plugin-robots-txt',
-      {
-        policy: [{ userAgent: '*', allow: '/' }],
-      },
-    ],
-    [
-      '@docusaurus/plugin-content-blog',
-      {
-        id: 'blog',
-        routeBasePath: 'blog',
-        path: './blog',
-        feedOptions: {
-          type: 'all', 
-          title: 'IASA Articles',
-          description: 'Stay updated with the latest articles from IASA.',
-        },
-      },
-    ],
   ],
   
   scripts: [
