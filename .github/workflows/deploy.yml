@@ -9,33 +9,24 @@ jobs:
   deploy:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Setup Node.js
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js Environment
         uses: actions/setup-node@v3
         with:
           node-version: 18
           cache: 'npm'
 
-      # Cache node_modules
-      - name: Cache node_modules
-        uses: actions/cache@v3
-        with:
-          path: |
-            node_modules
-          key: ${{ runner.os }}-node_modules-${{ hashFiles('package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node_modules-
-
-      - name: Install dependencies
+      - name: Install Project Dependencies
         run: npm ci
 
-      # Always build the website
-      - name: Build website
+      - name: Build the Docusaurus Website
         run: npm run build
 
-      - name: Check build folder size
+      - name: Display Build Folder Size
         run: du -sh ./build
 
       - name: Deploy to GitHub Pages
