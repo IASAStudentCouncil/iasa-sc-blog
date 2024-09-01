@@ -18,16 +18,7 @@ const config = {
 
   i18n: {
     defaultLocale: 'uk',
-    locales: ['uk', 'en'],
-    localeConfigs: {
-      uk: {
-        label: 'Українська',
-      },
-      en: {
-        label: 'English',
-      },
-    },
-    trailingSlash: false,
+    locales: ['uk'],
   },
 
   presets: [
