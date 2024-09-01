@@ -1,0 +1,24 @@
+{
+    "name": "IASA Articles",
+    "short_name": "IASA",
+    "description": "Статті СР ІПСА - Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА.",
+    "lang": "uk",
+    "start_url": "https://IASAStudentCouncil.github.io/iasa-sc-blog/",
+    "display": "standalone",
+    "background_color": "#FFD700",
+    "theme_color": "#FFD700",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/favicon1.ico",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/x-icon"
+        }
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "scope": "/iasa-sc-blog/",
+    "start_url": "/iasa-sc-blog/",
+    "theme_color": "#FFD700",
+    "background_color": "#FFFFFF"
+}
