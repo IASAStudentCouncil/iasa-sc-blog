@@ -28,15 +28,22 @@ const config = {
       ({
         docs: false,
         blog: {
+          path: './blog',
+          routeBasePath: 'blog',
           showReadingTime: true,
           blogTitle: 'Статті СР ІПСА',
           blogDescription: 'Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА.',
           postsPerPage: 10,
           blogSidebarTitle: 'Усі статті',
           blogSidebarCount: 'ALL',
+          sidebarPath: require.resolve('./sidebars.js'),
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+        gtag: {
+          trackingID: 'G-9CFDMS82J9',  
+          anonymizeIP: true, 
         },
       }),
     ],
@@ -156,11 +163,16 @@ const config = {
       navbar: {
         title: 'IASA Articles',
         logo: {
-          alt: 'IASA SC',
+          alt: 'IASA SC logo',
           src: 'img/logo.svg',
         },
         items: [
           { to: '/blog', label: 'Статті', position: 'left' },
+          { to: '/blog/tags/студенту', label: 'Для студента', position: 'left' },
+          { to: '/blog/tags/вступ', label: 'Для абітурієнтів', position: 'left' },
+          { to: '/blog/tags/інтервʼю', label: 'Інтервʼю', position: 'left' }, 
+          { to: '/blog/tags/студрада', label: 'Про студраду', position: 'left' },
+          { to: '/blog/tags/вибіркові', label: 'Про вибіркові дисципліни', position: 'left' }
         ],
       },
       footer: {
