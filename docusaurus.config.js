@@ -47,31 +47,7 @@ const config = {
       }),
     ],
   ],
-
-  plugins: [
-    [
-      '@docusaurus/plugin-google-analytics',
-      {
-        trackingID: 'G-9CFDMS82J9',
-        anonymizeIP: true,
-      },
-    ],
-    [
-    '@docusaurus/plugin-google-tag-manager',
-      {
-        containerId: 'GTM-K25D9CQ2',
-      },
-    ],
-    [
-      '@docusaurus/plugin-sitemap',
-      {
-        changefreq: 'weekly',
-        priority: 0.5,
-        trailingSlash: false,
-      },
-    ]
-  ],
-  
+    
   scripts: [
     {
       src: "https://www.googletagmanager.com/gtag/js?id=G-9CFDMS82J9",
