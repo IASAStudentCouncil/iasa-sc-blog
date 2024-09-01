@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://iasastudentcouncil.github.io/iasa-sc-blog/sitemap.xml
