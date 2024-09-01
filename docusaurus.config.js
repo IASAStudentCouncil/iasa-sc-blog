@@ -36,14 +36,6 @@ const config = {
           blogSidebarTitle: 'Усі статті',
           blogSidebarCount: 'ALL',
           routeBasePath: 'blog',
-          sidebarPath: (locale, path) => {
-            if (path.includes('/tags/студенту')) return require.resolve('./sidebars.js').studentSidebar;
-            if (path.includes('/tags/вступ')) return require.resolve('./sidebars.js').admissionSidebar;
-            if (path.includes('/tags/інтервʼю')) return require.resolve('./sidebars.js').interviewSidebar;
-            if (path.includes('/tags/студрада')) return require.resolve('./sidebars.js').councilSidebar;
-            if (path.includes('/tags/вибіркові')) return require.resolve('./sidebars.js').electiveSidebar;
-            return require.resolve('./sidebars.js').allPostsSidebar;
-          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
