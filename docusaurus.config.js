@@ -79,29 +79,6 @@ const config = {
       },
     ],
     [
-      '@docusaurus/plugin-pwa',
-      {
-        debug: false,
-        offlineModeActivationStrategies: [
-          'appInstalled',
-          'queryString',
-          'always',
-        ],
-        pwaHead: [
-          {
-            tagName: 'link',
-            rel: 'icon',
-            href: '/img/favicon1.ico',
-          },
-          {
-            tagName: 'meta',
-            name: 'theme-color',
-            content: '#FFD700',
-          },
-        ],
-      },
-    ],
-    [
       '@docusaurus/plugin-seo',
       {
         title: 'IASA Articles',
