@@ -24,8 +24,7 @@
     "react-router-dom": "^6.9.0",
     "@docusaurus/plugin-google-analytics": "latest",
     "@docusaurus/plugin-google-tag-manager": "latest",
-    "@docusaurus/plugin-sitemap": "latest",
-    "@docusaurus/plugin-seo": "latest"
+    "@docusaurus/plugin-sitemap": "latest"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.3.1"

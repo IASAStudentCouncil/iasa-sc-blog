@@ -77,17 +77,7 @@ const config = {
         priority: 0.5,
         trailingSlash: false,
       },
-    ],
-    [
-      '@docusaurus/plugin-seo',
-      {
-        title: 'IASA Articles',
-        description: 'Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА.',
-        keywords: ['IASA', 'студентське життя', 'КПІ', 'новини', 'ІПСА'],
-        image: 'https://IASAStudentCouncil.github.io/iasa-sc-blog/img/IASA-social.jpg',
-        twitter: { cardType: 'summary_large_image' },
-      },
-    ],
+    ]
   ],
   
   scripts: [
