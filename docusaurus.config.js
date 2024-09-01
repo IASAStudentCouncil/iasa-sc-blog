@@ -18,7 +18,15 @@ const config = {
 
   i18n: {
     defaultLocale: 'uk',
-    locales: ['uk'],
+    locales: ['uk', 'en'],
+    localeConfigs: {
+      uk: {
+        label: 'Українська',
+      },
+      en: {
+        label: 'English',
+      },
+    },
   },
 
   presets: [
@@ -45,6 +53,82 @@ const config = {
           anonymizeIP: true, 
         },
       }),
+    ],
+  ],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-google-analytics',
+      {
+        trackingID: 'G-9CFDMS82J9',
+        anonymizeIP: true,
+      },
+    ],
+    [
+    '@docusaurus/plugin-google-tag-manager',
+      {
+        containerId: 'GTM-K25D9CQ2',
+      },
+    ],
+    [
+      '@docusaurus/plugin-sitemap',
+      {
+        changefreq: 'weekly',
+        priority: 0.5,
+        trailingSlash: false,
+      },
+    ],
+    [
+      '@docusaurus/plugin-pwa',
+      {
+        debug: false,
+        offlineModeActivationStrategies: [
+          'appInstalled',
+          'queryString',
+          'always',
+        ],
+        pwaHead: [
+          {
+            tagName: 'link',
+            rel: 'icon',
+            href: '/img/favicon1.ico',
+          },
+          {
+            tagName: 'meta',
+            name: 'theme-color',
+            content: '#FFD700',
+          },
+        ],
+      },
+    ],
+    [
+      '@docusaurus/plugin-seo',
+      {
+        title: 'IASA Articles',
+        description: 'Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА.',
+        keywords: ['IASA', 'студентське життя', 'КПІ', 'новини', 'ІПСА'],
+        image: 'https://IASAStudentCouncil.github.io/iasa-sc-blog/img/IASA-social.jpg',
+        twitter: { cardType: 'summary_large_image' },
+      },
+    ],
+    [
+      '@docusaurus/plugin-robots-txt',
+      {
+        policy: [{ userAgent: '*', allow: '/' }],
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'blog',
+        routeBasePath: 'blog',
+        path: './blog',
+        feedOptions: {
+          type: 'all', 
+          title: 'IASA Articles',
+          description: 'Stay updated with the latest articles from IASA.',
+        },
+      },
     ],
   ],
   
@@ -154,11 +238,73 @@ const config = {
         { name: 'generator', content: 'Docusaurus' }
       ],
       image: 'img/IASA-social.jpg',
+      imageOptimization: {
+        enabled: true,
+        webp: true,
+        lazyLoad: true,
+      },
+      fontOptimization: {
+        preload: true, 
+        preconnect: true, 
+      },
+      performance: {
+        prefetch: true, 
+        prerender: true,
+        compression: 'gzip',
+      },
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: true,
         respectPrefersColorScheme: false,
       },
+      mobileOptimization: {
+        enableLazyLoading: true, 
+        reduceMotion: true,
+        preconnect: true, 
+      },
+      headTags: [
+        {
+          tagName: 'script',
+          attributes: {
+            type: 'application/ld+json',
+          },
+          innerHTML: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "IASA Student Council",
+            "url": "https://IASAStudentCouncil.github.io/iasa-sc-blog/",
+            "logo": "https://IASAStudentCouncil.github.io/iasa-sc-blog/img/logo.svg",
+            "sameAs": [
+              "https://www.instagram.com/studrada_iasa",
+              "https://www.linkedin.com/company/iasa-sc",
+              "https://www.facebook.com/studrada.iasa",
+              "https://www.youtube.com/@IASAChannel",
+              "https://github.com/IASAStudentCouncil",
+              "https://linktr.ee/iasa_sc"
+            ]
+          }),
+        },
+        {
+          tagName: 'meta',
+          attributes: { itemscope: true, itemtype: "https://schema.org/WebPage" },
+        },
+        {
+          tagName: 'meta',
+          attributes: { itemprop: 'name', content: 'IASA Articles' },
+        },
+        {
+          tagName: 'meta',
+          attributes: { itemprop: 'description', content: 'Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА.' },
+        },
+        {
+          tagName: 'meta',
+          attributes: { itemprop: 'image', content: 'https://IASAStudentCouncil.github.io/iasa-sc-blog/img/IASA-social.jpg' },
+        },
+        {
+          tagName: 'link',
+          attributes: { rel: 'manifest', href: '/manifest.json' },
+        },
+      ],
       navbar: {
         title: 'IASA Articles',
         logo: {
