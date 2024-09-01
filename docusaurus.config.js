@@ -27,6 +27,7 @@ const config = {
         label: 'English',
       },
     },
+    trailingSlash: false,
   },
 
   presets: [
