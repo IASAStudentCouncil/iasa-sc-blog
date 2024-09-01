@@ -36,7 +36,6 @@ const config = {
           postsPerPage: 10,
           blogSidebarTitle: 'Усі статті',
           blogSidebarCount: 'ALL',
-          sidebarPath: require.resolve('./sidebars.js'),
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
