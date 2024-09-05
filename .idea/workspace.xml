@@ -10,8 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fbbc839-e427-48e6-9bf9-56edd9ac27fe" name="Changes" comment="IASA Bot Guide Article Added">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +103,9 @@
       <workItem from="1725013197283" duration="2275000" />
       <workItem from="1725016264905" duration="891000" />
       <workItem from="1725190499199" duration="825000" />
+      <workItem from="1725194771394" duration="123000" />
+      <workItem from="1725223682817" duration="1000" />
+      <workItem from="1725223701502" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="IASA Bot Guide Article Added">
       <option name="closed" value="true" />

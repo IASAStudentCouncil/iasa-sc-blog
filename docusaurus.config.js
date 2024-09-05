@@ -30,7 +30,7 @@ const config = {
         blog: {
           path: './blog',
           showReadingTime: true,
-          blogTitle: 'Статті СР ІПСА',
+          blogTitle: 'IASA Articles | Статті Студради ІПСА',
           blogDescription: 'Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА.',
           postsPerPage: 10,
           blogSidebarTitle: 'Усі статті',
@@ -86,7 +86,7 @@ const config = {
         { name: 'description', content: 'Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА. Слідкуй за нами, аби не пропустити найцікавіше зі студентського життя ІПСА!' },
         { name: 'robots', content: 'index, follow, all, max-snippet:-1, max-image-preview:large, max-video-preview:-1' },
         { name: 'google-site-verification', content: 'EKoTRWvgkVlUjCTsTxqmsiExFKX7KYEotmBHnfc12R0' },
-        { name: 'canonical', content: 'https://IASAStudentCouncil.github.io/iasa-sc-blog/blog' },
+        { name: 'canonical', content: 'https://IASAStudentCouncil.github.io/iasa-sc-blog' },
         { name: 'author', content: 'IASA Student Council' },
         { name: 'distribution', content: 'global' },
         { name: 'publisher', content: 'IASA Student Council' }, 
@@ -100,10 +100,10 @@ const config = {
         { httpEquiv: 'Content-Type', content: 'text/html; charset=UTF-8' },
         { charset: 'utf-8' },
 
-        { name: 'og:title', content: 'IASA Articles - Статті Студради ІПСА' },
+        { name: 'og:title', content: 'IASA Articles | Статті Студради ІПСА' },
         { name: 'og:description', content: 'Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА. Слідкуй за нами, аби не пропустити найцікавіше зі студентського життя ІПСА!' },
         { name: 'og:type', content: 'website' },
-        { name: 'og:url', content: 'https://IASAStudentCouncil.github.io/iasa-sc-blog/blog' },
+        { name: 'og:url', content: 'https://IASAStudentCouncil.github.io/iasa-sc-blog' },
         { name: 'og:image', content: 'https://IASAStudentCouncil.github.io/iasa-sc-blog/img/IASA-social.jpg' },
         { name: 'og:image:alt', content: 'IASA Articles' },
         { name: 'og:site_name', content: 'IASA Articles' },
@@ -180,6 +180,18 @@ const config = {
       },
       headTags: [
         {
+          tagName: 'title',
+          innerHTML: 'IASA Articles | Статті Студради ІПСА',
+        },
+        {
+          tagName: 'link',
+          attributes: {
+            rel: 'icon',
+            type: 'image/x-icon',
+            href: '/img/favicon1.ico',
+          },
+        },
+        {
           tagName: 'script',
           attributes: {
             type: 'application/ld+json',
@@ -218,7 +230,7 @@ const config = {
         },
         {
           tagName: 'meta',
-          attributes: { itemprop: 'description', content: 'Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА.' },
+          attributes: { itemprop: 'description', content: 'Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА. Слідкуй за нами, аби не пропустити найцікавіше зі студентського життя ІПСА!' },
         },
         {
           tagName: 'meta',
