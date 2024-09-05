@@ -30,7 +30,7 @@ const config = {
         blog: {
           path: './blog',
           showReadingTime: true,
-          blogTitle: 'IASA Articles | Статті Студради ІПСА',
+          blogTitle: 'Статті Студради ІПСА',
           blogDescription: 'Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА.',
           postsPerPage: 10,
           blogSidebarTitle: 'Усі статті',
@@ -181,7 +181,7 @@ const config = {
       headTags: [
         {
           tagName: 'title',
-          innerHTML: 'IASA Articles | Статті Студради ІПСА',
+          innerHTML: 'Статті Студради ІПСА',
         },
         {
           tagName: 'link',
