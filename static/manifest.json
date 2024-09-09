@@ -1,7 +1,7 @@
 {
     "name": "IASA Articles",
     "short_name": "IASA",
-    "description": "Статті СР ІПСА - Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА.",
+    "description": "Статті Студради ІПСА - Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА.",
     "lang": "uk",
     "start_url": "https://IASAStudentCouncil.github.io/iasa-sc-blog/",
     "display": "standalone",

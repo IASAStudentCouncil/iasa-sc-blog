@@ -27,6 +27,12 @@ yulian-2:
   image_url: https://telegra.ph/file/de8bf498368120da3f739.jpg
   url: https://linktr.ee/yulianzavodnyk
 
+plyusnina-2:
+  name: Валерія Плюсніна
+  title: Лєра++
+  image_url: https://imgur.com/6HCdR5J.png
+  url: https://uadd.me/plusplus
+
 # ----------------------------------------------------------------------------------------------------------
 #
 # Головні челіки та загальна президія
@@ -34,10 +40,10 @@ yulian-2:
 # ----------------------------------------------------------------------------------------------------------
 
 admin:
-  name: IASA SC
-  title: IASA Admin
-  url: https://t.me/IASAsuggestionBot
-  image_url: https://i.imgur.com/6ew5FnG.png
+  name: IASA Admin
+  title: Студрада ІПСА
+  url: https://linktr.ee/iasa_sc
+  image_url: https://imgur.com/nXGQXWj.png
 
 andrii:
   name: Андрій Кулєшов

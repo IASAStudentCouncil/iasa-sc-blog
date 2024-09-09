@@ -1,0 +1,26 @@
+---
+slug: iasa-starter-pack
+title: IASA Starter pack
+description: Твої посилання на всі випадки життя.
+authors: [yulian-2]
+tags: [СТУДЕНТУ]
+date: 2024-09-16T12:00
+keywords: 
+    [
+        ІПСА, Студрада, IASA, Student Council, посилання, корисні матеріали, деканат, чати, канали, інформація, платформи,
+        комп'ютерні науки, системний аналіз, спеціальність 122, 
+        спеціальність 124, ММСА, СП, ШІ, кафедра, КПІ, студентське життя, студрада КПІ, університетське життя,
+    ]
+robots: index, follow, all
+canonical: https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/iasa-starter-pack
+og:title: IASA Starter pack
+og:description: Твої посилання на всі випадки життя.
+og:url: https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/iasa-starter-pack
+og:type: article
+og:site_name: IASA Articles
+og:locale: uk_UA
+---
+
+---
+
+<!--truncate-->

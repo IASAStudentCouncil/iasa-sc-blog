@@ -3,7 +3,7 @@ slug: valeriy-stikanov-interview
 title: ???
 description: Інтерв'ю із Стікановим Валерієм Юхимовичем
 authors: [valeriia, ???]
-tags: [СТУДЕНТУ, ІНТЕРВʼЮ]
+tags: [СТУДЕНТУ, ІНТЕРВʼЮ, ВИКЛАДАЧІ]
 date: ???
 keywords:
   [
