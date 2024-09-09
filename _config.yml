@@ -1,0 +1,44 @@
+title: "IASA Student Council"
+description: "Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА."
+url: "https://iasastudentcouncil.github.io"
+baseurl: "/iasa-sc-blog" 
+
+author: "IASA Student Council"
+lang: "uk"
+robots: "index, follow"
+github_username: "IASAStudentCouncil"
+
+
+google_analytics: "G-9CFDMS82J9"
+
+seo:
+  type: "website"
+  title: "IASA Student Council | Статті"
+  description: "Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА."
+  url: "https://iasastudentcouncil.github.io/iasa-sc-blog"
+  image: "/img/IASA-social.jpg"
+  og:
+    title: "IASA Student Council"
+    description: "Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА."
+    type: "website"
+    image: "/img/IASA-social.jpg"
+    url: "https://iasastudentcouncil.github.io/iasa-sc-blog"
+    locale: "uk_UA"
+
+sitemap: 
+  changefreq: weekly
+  priority: 0.5
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - node_modules
+  - vendor
+  - README.md
