@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog</id>
     <title>IASA Articles Blog</title>
-    <updated>2024-09-12T12:00:00.000Z</updated>
+    <updated>2024-09-13T12:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://IASAStudentCouncil.github.io/iasa-sc-blog/blog"/>
     <subtitle>IASA Articles Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Правила IASAchat]]></title>
         <id>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/iasa-chat-rules</id>
         <link href="https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/iasa-chat-rules"/>
-        <updated>2024-09-12T12:00:00.000Z</updated>
+        <updated>2024-09-13T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Як себе вести в ІПСАшному чаті.]]></summary>
         <content type="html"><![CDATA[<p>Вітаємо всіх студентів, абітурієнтів, викладачів та інших учасників <a href="https://t.me/+Ymp6jYX8Vu5lNGYy" target="_blank" rel="noopener noreferrer">IASAchat</a>.
 Задля впровадження принципів здорової комунікації, просимо ознайомитися з правилами поведінки нашої спільноти.</p><p><em>Примітки:</em></p><ul><li><em><strong>Адміністратори</strong> — активісти Студради, які мають доступ до модерації чату й інформування студентства. Зв'язок з адміністраторами відбувається через <a href="https://t.me/IASAsuggestionBot" target="_blank" rel="noopener noreferrer">@IASAsuggestionBot</a>.</em></li><li><em><strong>Мут</strong> — обмеження, що забороняє відправляти текстові повідомлення та медіа.</em></li><li><em><strong>Бан</strong> — блокування учасника, після якого він не матиме змогу читати та відсилати повідомлення.</em></li><li><em><strong>Слоумод</strong> — режим, за якого повідомлення можна надсилати з обмеженою частотою. Діє для всіх учасників чату.</em></li></ul><hr><h2 class="anchor anchorWithStickyNavbar_LWe7" id="у-межах-чату-не-припустимі">У межах чату не припустимі<a href="#у-межах-чату-не-припустимі" class="hash-link" aria-label="Пряме посилання на У межах чату не припустимі" title="Пряме посилання на У межах чату не припустимі">​</a></h2><ol><li><p><strong>Спам і реклама. Використання ботів та автоматичних розсилок.</strong></p><p>Розміщення текстів або матеріалів, які не стосуються тематики чату. Рекламні оголошення дозволені лише за умови погодження їхнього поширення з адміністраторами.
@@ -28,7 +28,6 @@
             <name>IASA Admin</name>
             <uri>https://linktr.ee/iasa_sc</uri>
         </author>
-        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
         <category label="ПРАВИЛА" term="ПРАВИЛА"/>
     </entry>
     <entry>
@@ -43,7 +42,6 @@
             <name>Валерія Плюсніна</name>
             <uri>https://uadd.me/plusplus</uri>
         </author>
-        <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
         <category label="ПРАВИЛА" term="ПРАВИЛА"/>
     </entry>
     <entry>
