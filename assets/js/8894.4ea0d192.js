@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiasa_articles_website=self.webpackChunkiasa_articles_website||[]).push([[8894],{18894:(e,s,a)=>{a.r(s)}}]);
