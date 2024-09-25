@@ -13,11 +13,7 @@ keywords:
     Київський політех, наукові роботи, студентам, схемотехніка
   ]
 robots: index, follow, all
-canonical: https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/valeriy-stikanov-interview
-og:title: ???
-og:description: Інтерв'ю із Стікановим Валерієм Юхимовичем
-og:image: ???
-og:url: https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/valeriy-stikanov-interview
+image: ???
 og:type: article
 og:site_name: IASA Articles
 og:locale: uk_UA
