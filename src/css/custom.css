@@ -119,3 +119,21 @@ p {
     display: list-item;
   }
 }
+
+.redirect-button {
+  background-color: transparent;
+  border: 2px solid #606770;
+  color: #ffd200;
+  border-radius: 50px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: border-color 0.2s, color 0.2s;
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.redirect-button:hover {
+  border-color: #ffd200;
+}
