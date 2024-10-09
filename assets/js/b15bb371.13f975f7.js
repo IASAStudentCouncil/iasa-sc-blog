@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiasa_articles_website=self.webpackChunkiasa_articles_website||[]).push([[8253],{85770:a=>{a.exports=JSON.parse('{"label":"IT","permalink":"/iasa-sc-blog/blog/tags/it","allTagsPath":"/iasa-sc-blog/blog/tags","count":1}')}}]);
