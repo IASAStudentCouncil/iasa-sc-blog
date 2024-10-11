@@ -250,12 +250,13 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          { to: '/blog/tags/студенту', label: 'Для студентів', position: 'left' },
-          { to: '/blog/tags/вступ', label: 'Для абітурієнта', position: 'left' },
-          { to: '/blog/tags/студрада', label: 'Про студраду', position: 'left' },
-          { to: '/blog/tags/викладачі', label: 'Про викладачів', position: 'left' },
-          { to: '/blog/tags/вибіркові', label: 'Про вибіркові дисципліни', position: 'left' },
-          { to: '/blog/tags/правила', label: 'Правила', position: 'left' },
+          { to: '/blog/tags/війна', label: 'Війна', position: 'left' },
+          { to: '/blog/tags/студенту', label: 'Студенту', position: 'left' },
+          { to: '/blog/tags/вступ', label: 'Абітурієнту', position: 'left' },
+          { to: '/blog/tags/студрада', label: 'Студрада', position: 'left' },
+          { to: '/blog/tags/викладачі', label: 'Викладачі', position: 'left' },
+          { to: '/blog/tags/вибіркові', label: 'Вибіркові', position: 'left' },
+          { to: '/blog/tags/правила', label: 'Правила', position: 'left' }
         ],
       },
       footer: {
