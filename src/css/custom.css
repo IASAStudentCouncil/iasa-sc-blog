@@ -143,3 +143,11 @@ p {
 .unlisted-page-banner {
   display: none !important;
 }
+
+.theme-admonition.theme-admonition-caution.theme-unlisted-banner {
+  display: none !important;
+}
+
+.alert.alert--warning.theme-unlisted-banner {
+  display: none !important;
+}
