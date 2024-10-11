@@ -139,3 +139,7 @@ p {
   border-color: #ffd200;
   text-decoration: underline;
 }
+
+.unlisted-page-banner {
+  display: none !important;
+}
