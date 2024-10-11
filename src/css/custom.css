@@ -122,11 +122,11 @@ p {
 
 .redirect-button {
   background-color: transparent;
-  border: 2px solid #606770;
+  border: 3px solid #606770;
   color: #ffd200;
   border-radius: 35px;
   padding: 10px 15px;
-  margin: 0px 0px 12px 0px;
+  margin: 0px 0px 20px 0px;
   cursor: pointer;
   font-size: 16px;
   transition: border-color 0.2s, color 0.2s;
@@ -137,4 +137,5 @@ p {
 
 .redirect-button:hover {
   border-color: #ffd200;
+  text-decoration: underline;
 }
