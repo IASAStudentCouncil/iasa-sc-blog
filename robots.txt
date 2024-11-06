@@ -1,3 +1,7 @@
 User-agent: *
 
+Allow: /
+
 Sitemap: https://iasastudentcouncil.github.io/iasa-sc-blog/sitemap.xml
+
+Host: iasastudentcouncil.github.io/iasa-sc-blog
