@@ -1,4 +1,4 @@
-require('dotenv').config()
+require('dotenv').config();
 
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
@@ -8,12 +8,12 @@ const config = {
   title: 'IASA Articles',
   tagline: 'Студентська рада Навчально-наукового інституту прикладного системного аналізу НТУУ "КПІ" ім. І. Сікорського',
   favicon: '/img/favicon1.ico',
-
+  
   url: 'https://IASAStudentCouncil.github.io',
   baseUrl: '/iasa-sc-blog',
-
-  organizationName: 'IASAStudentCouncil', 
-  projectName: 'iasa-sc-blog', 
+  
+  organizationName: 'IASAStudentCouncil',
+  projectName: 'iasa-sc-blog',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -43,56 +43,31 @@ const config = {
           customCss: require.resolve('./src/css/custom.css'),
         },
         gtag: {
-          trackingID: 'G-9CFDMS82J9',  
-          anonymizeIP: true, 
+          trackingID: 'G-9CFDMS82J9',
+          anonymizeIP: true,
         },
       }),
     ],
   ],
-    
+
   scripts: [
-    {
-      src: "https://www.googletagmanager.com/gtag/js?id=G-9CFDMS82J9",
-      async: true,
-    },
-    {
-      src: "/js/gtag.js",
-      async: true,
-    },
+    { src: "https://www.googletagmanager.com/gtag/js?id=G-9CFDMS82J9", async: true },
+    { src: "/js/gtag.js", async: true },
   ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        { name: 'keywords', content: `ІПСА, IASA, Articles, Статті ІПСА, КПІ, KPI, 
-                                      Інститут прикладного системного аналізу,
-                                      Київський політехнічний інститут, ІТ освіта, 
-                                      Штучний інтелект, Системний аналіз, Системне проєктування, 
-                                      Технічна освіта, Комп'ютерні науки, Програмування, 
-                                      Студрада ІПСА, Студентське життя, Вступна кампанія, 
-                                      Абітурієнт, Інтерв'ю, Івенти КПІ, 
-                                      Викладачі КПІ, Освіта в Україні, Математика, 
-                                      Математичний аналіз, Лінійна алгебра, Дискретна математика, 
-                                      Алгоритми та структури даних, Бази даних, Мережі, 
-                                      Операційні системи, Архітектура комп'ютерів, 
-                                      Штучний інтелект КПІ, ММСА, ШІ, СП, 
-                                      Робота в ІТ, Стажування, Кар'єра в ІТ, 
-                                      Стартапи, Технологічна освіта, Проєкти КПІ, 
-                                      Навчання в КПІ, ІТ курси, ІТ конференції, 
-                                      Наукова робота, Дослідження в ІТ, 
-                                      Освітні програми КПІ, Студентські ініціативи, 
-                                      Студентські проєкти, Співпраця з бізнесом, 
-                                      Інновації в освіті, Розвиток технологій, 
-                                      Лідерство, Креативність, Саморозвиток` },
+        { name: 'keywords', content: 'ІПСА, IASA, Articles, Статті ІПСА, КПІ, KPI, Інститут прикладного системного аналізу, Київський політехнічний інститут, ІТ освіта, Штучний інтелект, Системний аналіз, Системне проєктування, Технічна освіта, Комп\'ютерні науки, Програмування, Студрада ІПСА, Студентське життя, Вступна кампанія, Абітурієнт, Інтерв\'ю, Івенти КПІ, Викладачі КПІ, Освіта в Україні, Математика, Математичний аналіз, Лінійна алгебра, Дискретна математика, Алгоритми та структури даних, Бази даних, Мережі, Операційні системи, Архітектура комп\'ютерів, Штучний інтелект КПІ, ММСА, ШІ, СП, Робота в ІТ, Стажування, Кар\'єра в ІТ, Стартапи, Технологічна освіта, Проєкти КПІ, Навчання в КПІ, ІТ курси, ІТ конференції, Наукова робота, Дослідження в ІТ, Освітні програми КПІ, Студентські ініціативи, Студентські проєкти, Співпраця з бізнесом, Інновації в освіті, Розвиток технологій, Лідерство, Креативність, Саморозвиток' },
         { name: 'description', content: 'Дізнайтеся про останні події, новини, вступну кампанію та студентське життя в ІПСА. Слідкуй за нами, аби не пропустити найцікавіше зі студентського життя ІПСА!' },
         { name: 'robots', content: 'index, follow, all, max-snippet:-1, max-image-preview:large, max-video-preview:-1' },
         { name: 'google-site-verification', content: 'EKoTRWvgkVlUjCTsTxqmsiExFKX7KYEotmBHnfc12R0' },
         { name: 'canonical', content: 'https://IASAStudentCouncil.github.io/iasa-sc-blog' },
         { name: 'author', content: 'IASA Student Council' },
         { name: 'distribution', content: 'global' },
-        { name: 'publisher', content: 'IASA Student Council' }, 
-        { name: 'coverage', content: 'Worldwide' }, 
+        { name: 'publisher', content: 'IASA Student Council' },
+        { name: 'coverage', content: 'Worldwide' },
         { name: 'rating', content: 'General' },
         { name: 'subject', content: 'Education, Technology' },
         { name: 'classification', content: 'Education/Technology' },
@@ -152,8 +127,8 @@ const config = {
         { name: 'format-detection', content: 'telephone=no' },
         { name: 'referrer', content: 'no-referrer-when-downgrade' },
         { name: 'color-scheme', content: 'dark light' },
-        { name: 'x-ua-compatible', content: 'IE=edge' }, 
-        { name: 'generator', content: 'Docusaurus' }
+        { name: 'x-ua-compatible', content: 'IE=edge' },
+        { name: 'generator', content: 'Docusaurus' },
       ],
       image: 'img/IASA-social.jpg',
       imageOptimization: {
@@ -162,11 +137,11 @@ const config = {
         lazyLoad: true,
       },
       fontOptimization: {
-        preload: true, 
-        preconnect: true, 
+        preload: true,
+        preconnect: true,
       },
       performance: {
-        prefetch: true, 
+        prefetch: true,
         prerender: true,
         compression: 'gzip',
       },
@@ -176,9 +151,9 @@ const config = {
         respectPrefersColorScheme: false,
       },
       mobileOptimization: {
-        enableLazyLoading: true, 
+        enableLazyLoading: true,
         reduceMotion: true,
-        preconnect: true, 
+        preconnect: true,
       },
       headTags: [
         {
@@ -256,7 +231,7 @@ const config = {
           { to: '/blog/tags/студрада', label: 'Студрада', position: 'left' },
           { to: '/blog/tags/викладачі', label: 'Викладачі', position: 'left' },
           { to: '/blog/tags/вибіркові', label: 'Вибіркові', position: 'left' },
-          { to: '/blog/tags/правила', label: 'Правила', position: 'left' }
+          { to: '/blog/tags/правила', label: 'Правила', position: 'left' },
         ],
       },
       footer: {
@@ -316,7 +291,7 @@ const config = {
         appId: process.env.ALGOLIA_APP_ID,
         apiKey: process.env.ALGOLIA_API_KEY,
         indexName: process.env.ALGOLIA_INDEX_NAME,
-      }
+      },
     }),
 };
 
