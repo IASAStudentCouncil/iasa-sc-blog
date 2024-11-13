@@ -1,0 +1,86 @@
+.mobile-nav {
+    display: none;
+  }
+  
+@media (max-width: 996px) {
+    .mobile-nav {
+      display: block;
+    }
+}
+
+.mobile-nav-toggle {
+    position: relative;
+    font-family: "Segoe UI";
+    font-size: 1em;
+    width: 100%;
+    padding: 12px 20px;
+    background: #2c2e2f;
+    color: #ffd200;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.mobile-nav-toggle.active{
+  border-radius: 6px 6px 0 0;
+}
+
+.mobile-nav-toggle:not(.active){
+  transition-delay: 0.4s;
+}
+
+.mobile-nav-toggle::after {
+  content: '';
+  background: url(../../../static/img/chevron-down.svg) center no-repeat;
+  width: 1em;
+  height: 1em;
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: transform 0.4s; 
+}
+
+.mobile-nav-toggle.active::after{
+  transform: translateY(-50%) rotate(180deg); 
+}
+
+.mobile-nav-list {
+  border-top: 1px solid #6c757d;
+}
+
+.mobile-nav-content{
+  overflow: hidden;
+}
+
+.mobile-nav-content ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.mobile-nav-content .mobile-nav-list li {
+  background: #2c2e2f;
+  padding: 5px 20px;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.mobile-nav-content .mobile-nav-list li:last-child{
+  border-radius: 0 0 6px 6px;
+}
+
+.mobile-nav-content .mobile-nav-list li + li {
+  margin-top: 0;
+}
+
+.mobile-nav-content .mobile-nav-list a {
+  font-family: "Segoe UI";
+  text-decoration: none;
+  font-size: 1em;
+}
+
+.mobile-nav-content .mobile-nav-list a:hover {
+    color: #ffea00;
+}
