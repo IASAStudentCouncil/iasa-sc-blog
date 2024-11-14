@@ -67,6 +67,11 @@
   box-sizing: border-box;
 }
 
+.mobile-nav-content .mobile-nav-list li ul li {
+  padding: 10px 0 0 20px;
+}
+
+
 .mobile-nav-content .mobile-nav-list li:last-child{
   border-radius: 0 0 6px 6px;
 }

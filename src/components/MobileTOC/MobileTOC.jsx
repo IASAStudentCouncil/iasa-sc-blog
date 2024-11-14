@@ -13,7 +13,7 @@ export default function MobileTOC({sections}) {
 
    function toRef(heading) 
    {
-    const ref = heading.replace(/[.,…\/#!$%\^&\*;:{}=\_`'~—()+?«»🗓💪😎🕊⭐🛠]/g, '').replace(/\s/g, '-').toLowerCase();
+    const ref = heading.replace(/[.,…’\/#!$%\^&\*;:{}=\_`'~—()+?«»🗓💪😎🕊⭐🛠]/g, '').replace(/\s/g, '-').toLowerCase();
     return `#${ref}`;
    }
   
