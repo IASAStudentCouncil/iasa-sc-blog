@@ -10,7 +10,7 @@
 
 .mobile-nav-toggle {
     position: relative;
-    font-family: "Segoe UI";
+    font-family: "Segoe UI", "Arial";
     font-size: 1em;
     width: 100%;
     padding: 12px 20px;
@@ -76,7 +76,6 @@
 }
 
 .mobile-nav-content .mobile-nav-list a {
-  font-family: "Segoe UI";
   text-decoration: none;
   font-size: 1em;
 }

@@ -4,7 +4,8 @@ import { motion } from "framer-motion";
 import "./MobileTOC.css";
 
 export default function MobileTOC({sections}) {
-    const[isOpen, setIsOpen] = useState(false);
+
+  const[isOpen, setIsOpen] = useState(false);
 
   function handleChangeIsOpen() {
     setIsOpen(prev => !prev);
@@ -12,7 +13,7 @@ export default function MobileTOC({sections}) {
 
    function toRef(heading) 
    {
-    const ref = heading.replace(/[.,\/#!$%\^&\*;:{}=\_`~()?]/g, "").replace(/\s+/g, '-').toLowerCase();
+    const ref = heading.replace(/[.,…\/#!$%\^&\*;:{}=\_`'~—()+?«»🗓💪😎🕊⭐🛠]/g, '').replace(/\s/g, '-').toLowerCase();
     return `#${ref}`;
    }
   
@@ -29,6 +30,7 @@ export default function MobileTOC({sections}) {
           { return (
           <li key={sectionIndex}> 
               <a href={toRef(section.heading)}> {section.heading}</a>
+              {section.subHeadings && section.subHeadings.length > 0 && (
               <ul>
                 {
                   section.subHeadings.map((subHeading, subHeadingIndex) => {
@@ -38,6 +40,7 @@ export default function MobileTOC({sections}) {
                   })
                 }
               </ul>
+          )}
           </li>
           )
           }) }
