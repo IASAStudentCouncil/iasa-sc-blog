@@ -55,6 +55,10 @@ const config = {
     { src: "/js/gtag.js", async: true },
   ],
 
+  plugins: [
+    require.resolve('./plugins/sidebarButton'),
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
