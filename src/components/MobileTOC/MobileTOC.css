@@ -14,8 +14,8 @@
     font-size: 1em;
     width: 100%;
     padding: 12px 20px;
-    background: #2c2e2f;
-    color: #ffd200;
+    background: #272729;
+    color: #e3e3e3;
     border: none;
     text-align: left;
     cursor: pointer;
@@ -39,7 +39,7 @@
   right: 20px;
   top: 50%;
   transform: translateY(-50%);
-  transition: transform 0.4s; 
+  transition: transform 0.4s;
 }
 
 .mobile-nav-toggle.active::after{
@@ -61,7 +61,7 @@
 }
 
 .mobile-nav-content .mobile-nav-list li {
-  background: #2c2e2f;
+  background: #272729;
   padding: 5px 20px;
   border: 0;
   box-sizing: border-box;
@@ -83,8 +83,9 @@
 .mobile-nav-content .mobile-nav-list a {
   text-decoration: none;
   font-size: 1em;
+  color: inherit;
 }
 
 .mobile-nav-content .mobile-nav-list a:hover {
-    color: #ffea00;
+    color: #ffd200;
 }
