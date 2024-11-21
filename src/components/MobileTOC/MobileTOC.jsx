@@ -1,9 +1,10 @@
 import React from "react";
 import {useState} from "react";
 import {motion} from "framer-motion";
+import {useLocation} from "@docusaurus/router";
 import "./MobileTOC.css";
 
-export default function MobileTOC({sections}) {
+export default function MobileTOC({sections, children}) {
 
     const [isOpen, setIsOpen] = useState(false);
 
@@ -16,10 +17,10 @@ export default function MobileTOC({sections}) {
         return `#${ref}`;
     }
 
-    return (
+    return location.pathname !== "/iasa-sc-blog/blog" && !location.pathname.startsWith("/iasa-sc-blog/blog/tags") && location.pathname.startsWith("/iasa-sc-blog/blog") ? (
         <div className="mobile-nav">
-            <button className={`mobile-nav-toggle ${isOpen ? "active" : ""}`} onClick={handleChangeIsOpen}> На цій
-                сторінці
+            <button className={`mobile-nav-toggle ${isOpen ? "active" : ""}`} onClick={handleChangeIsOpen}>  {children === undefined ? 
+            "На цій сторінці" : children} 
             </button>
             <motion.div
                 className='mobile-nav-content'
@@ -49,5 +50,5 @@ export default function MobileTOC({sections}) {
                 </ul>
             </motion.div>
         </div>
-    )
+    ) : null;
 }
