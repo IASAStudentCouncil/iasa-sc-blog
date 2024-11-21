@@ -7,6 +7,7 @@ import "./MobileTOC.css";
 export default function MobileTOC({sections, children}) {
 
     const [isOpen, setIsOpen] = useState(false);
+    const currentLocation = useLocation();
 
     function handleChangeIsOpen() {
         setIsOpen(prev => !prev);
@@ -17,7 +18,7 @@ export default function MobileTOC({sections, children}) {
         return `#${ref}`;
     }
 
-    return location.pathname !== "/iasa-sc-blog/blog" && !location.pathname.startsWith("/iasa-sc-blog/blog/tags") && location.pathname.startsWith("/iasa-sc-blog/blog") ? (
+    return currentLocation.pathname !== "/iasa-sc-blog/blog" && !currentLocation.pathname.startsWith("/iasa-sc-blog/blog/tags") && currentLocation.pathname.startsWith("/iasa-sc-blog/blog") ? (
         <div className="mobile-nav">
             <button className={`mobile-nav-toggle ${isOpen ? "active" : ""}`} onClick={handleChangeIsOpen}>  {children === undefined ? 
             "На цій сторінці" : children} 
