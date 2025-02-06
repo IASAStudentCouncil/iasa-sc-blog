@@ -33,11 +33,11 @@ kruchok-2:
   image_url: https://telegra.ph/file/55820722c6d157ba91339.jpg
   url: https://linktr.ee/anya.kruchok
 
-yulian-2:
-  name: Юліан Заводник
+yulian:
+  name: Юліан
   title: Голова ІТ-відділу та редактор статей
-  image_url: https://telegra.ph/file/de8bf498368120da3f739.jpg
-  url: https://linktr.ee/yulianzavodnyk
+  image_url: https://i.imgur.com/5RCjix8.png
+  url: https://www.google.com/
 
 plyusnina-2:
   name: Валерія Плюсніна
@@ -453,13 +453,6 @@ mykyta:
 # Просто редактори статей
 #
 # ----------------------------------------------------------------------------------------------------------
-
-yulian:
-  name: Юліан Заводник
-  title: Редактор статей
-  image_url: https://telegra.ph/file/de8bf498368120da3f739.jpg
-  url: https://t.me/zvdnkkkk
-
 maksym:
   name: Максим Переходько
   title: Редактор статей
