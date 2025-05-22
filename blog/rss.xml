@@ -18,112 +18,151 @@
 <p>В умовах сучасності, швидкого зростання обсягів даних, зміни технологій та викликів перед суспільством, ринок потребує фахівців, які вміють аналізувати складні процеси, проєктувати ефективні рішення та працювати зі штучним інтелектом. ІПСА націлений на підготовку спеціалістів із цими навичками.</p>
 <p>У цій статті ми привідкриваємо завісу майбутнього після вступу на прикладі наших студентів та випускників із реальним досвідом.
 Ми розповімо, як деякі почали професійно реалізовуватися й отримувати досвід вже під час навчання: хтось у великих IT-компаніях, інші у перспективних стартапах, а дехто створив власні проєкти. Деякі обрали шлях науки, вступивши до аспірантури чи долучившись до дослідницьких груп.</p>
+<hr>
 <p>Що об'єднує всіх цих людей? Те, що фундамент для їхнього успіху було закладено саме тут — на парах, хакатонах та практичних заняттях.</p>
 <p>Статистика працевлаштування студентів та випускників наших катедр:</p>
-<p>![Photo](./assets/124 job.png)
-![Photo](./assets/122 AI job.png)
-![Photo](./assets/122 job.png)</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="перелік-основних-професій-іпсашників">Перелік основних професій ІПСАшників<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#%D0%BF%D0%B5%D1%80%D0%B5%D0%BB%D1%96%D0%BA-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D1%85-%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%96%D0%B9-%D1%96%D0%BF%D1%81%D0%B0%D1%88%D0%BD%D0%B8%D0%BA%D1%96%D0%B2" class="hash-link" aria-label="Пряме посилання на Перелік основних професій ІПСАшників" title="Пряме посилання на Перелік основних професій ІПСАшників">​</a></h3>
-<p>*Примітка: заробітні плати, представлені нижче є дуже усередненим показником. Насправді заробітна плата залежить у певних межах залежно від досвіду, але цілком залежить від бюджету та рівня ЗП у компанії затверджений для цієї посади, а також від домовленості на етапі співбесіди та/або отримання оферу.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="ml-engineer-machine-learning-engineer">ML Engineer (Machine Learning Engineer)<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#ml-engineer-machine-learning-engineer" class="hash-link" aria-label="Пряме посилання на ML Engineer (Machine Learning Engineer)" title="Пряме посилання на ML Engineer (Machine Learning Engineer)">​</a></h4>
+<p><img decoding="async" loading="lazy" alt="Photo" src="https://iasastudentcouncil.github.io/iasa-sc-blog/assets/images/124_job-68219e78233eeea63f21977452c218ce.png" width="2000" height="1414" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="Photo" src="https://iasastudentcouncil.github.io/iasa-sc-blog/assets/images/122_AI_job-b08566368045d3455942897d9d804f83.png" width="2000" height="1414" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="Photo" src="https://iasastudentcouncil.github.io/iasa-sc-blog/assets/images/122_job-581ac7fc17bd884aad7721cb54d51dcc.png" width="2000" height="1414" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="перелік-основних-професій-іпсашників">Перелік основних професій ІПСАшників<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#%D0%BF%D0%B5%D1%80%D0%B5%D0%BB%D1%96%D0%BA-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D1%85-%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%96%D0%B9-%D1%96%D0%BF%D1%81%D0%B0%D1%88%D0%BD%D0%B8%D0%BA%D1%96%D0%B2" class="hash-link" aria-label="Пряме посилання на Перелік основних професій ІПСАшників" title="Пряме посилання на Перелік основних професій ІПСАшників">​</a></h2>
+<blockquote>
+<p><em>Примітка: заробітні плати, представлені нижче є дуже усередненим показником. Насправді заробітна плата залежить у певних межах залежно від досвіду, але цілком залежить від бюджету та рівня ЗП у компанії затверджений для цієї посади, а також від домовленості на етапі співбесіди та/або отримання оферу.</em></p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ml-engineer-machine-learning-engineer">ML Engineer (Machine Learning Engineer)<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#ml-engineer-machine-learning-engineer" class="hash-link" aria-label="Пряме посилання на ML Engineer (Machine Learning Engineer)" title="Пряме посилання на ML Engineer (Machine Learning Engineer)">​</a></h3>
 <p>Розробляє алгоритми машинного навчання, які дозволяють комп’ютерам самостійно виявляти закономірності в даних і робити прогнози. Займається побудовою моделей, їхнім тренуванням, оцінкою якості та інтеграцією в реальні продукти. Готує й аналізує великі обсяги даних, оптимізує моделі для швидкої роботи, стежить за точністю та узагальненням. Часто працює з обробкою зображень, текстів, голосу чи рекомендаційними системами.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): 1000$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): 2800$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): 5000$.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="front-end-engineer">Front-end Engineer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#front-end-engineer" class="hash-link" aria-label="Пряме посилання на Front-end Engineer" title="Пряме посилання на Front-end Engineer">​</a></h4>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): <em><strong>1000$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): <em><strong>2800$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): <em><strong>5000$</strong></em>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="front-end-engineer">Front-end Engineer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#front-end-engineer" class="hash-link" aria-label="Пряме посилання на Front-end Engineer" title="Пряме посилання на Front-end Engineer">​</a></h3>
 <p>Розробляє інтерфейс користувача, тобто ту частину застосунку, яку бачать і з якою взаємодіють. Відповідає за верстку сторінок, інтерактивні елементи, адаптивність під різні пристрої та швидкість реакцій. Працює в тісній співпраці з дизайнерами, імплементує макети, підключає дані з бекенду через API, забезпечує зручний та інтуїтивний UX.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 2 років досвіду): 950$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 2 до 4–5 років досвіду): 2350$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 5 років досвіду): 4500–5700$.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="back-end-engineer">Back-end Engineer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#back-end-engineer" class="hash-link" aria-label="Пряме посилання на Back-end Engineer" title="Пряме посилання на Back-end Engineer">​</a></h4>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 2 років досвіду): <em><strong>950$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 2 до 4–5 років досвіду): <em><strong>2350$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 5 років досвіду): <em><strong>4500–5700$</strong></em>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="back-end-engineer">Back-end Engineer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#back-end-engineer" class="hash-link" aria-label="Пряме посилання на Back-end Engineer" title="Пряме посилання на Back-end Engineer">​</a></h3>
 <p>Створює серверну частину веб- і мобільних застосунків, відповідальну за логіку, обробку запитів, безпеку та доступ до баз даних. Працює з API, реалізує бізнес-логіку, управляє хмарною інфраструктурою, контролює продуктивність і масштабованість системи. Забезпечує правильну взаємодію між фронтендом та базою даних, створює системи аутентифікації, логування та моніторингу.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 2 років досвіду): 900$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 2 до 4–5 років досвіду): 2500$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 5 років досвіду): 4800–5800$</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="full-stack-developer">Full-stack Developer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#full-stack-developer" class="hash-link" aria-label="Пряме посилання на Full-stack Developer" title="Пряме посилання на Full-stack Developer">​</a></h4>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 2 років досвіду): <em><strong>900$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 2 до 4–5 років досвіду): <em><strong>2500$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 5 років досвіду): <em><strong>4800–5800$</strong></em></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="full-stack-developer">Full-stack Developer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#full-stack-developer" class="hash-link" aria-label="Пряме посилання на Full-stack Developer" title="Пряме посилання на Full-stack Developer">​</a></h3>
 <p>Поєднує функції фронтенда та бекенда: створює як інтерфейс користувача, так і серверну логіку. Самостійно реалізує повноцінний застосунок — від взаємодії з базою даних до виведення даних у браузері. Часто працює з інтеграцією сторонніх сервісів, авторизацією, системами платежів, аналітикою. Має широкий технічний профіль і вміє швидко перемикатися між різними задачами.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 2 років досвіду): 900$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 2 до 4–5 років досвіду): 2300$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 5 років досвіду): 4300$.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="data-engineer">Data Engineer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#data-engineer" class="hash-link" aria-label="Пряме посилання на Data Engineer" title="Пряме посилання на Data Engineer">​</a></h4>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 2 років досвіду): <em><strong>900$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 2 до 4–5 років досвіду): <em><strong>2300$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 5 років досвіду): <em><strong>4300$</strong></em>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="data-engineer">Data Engineer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#data-engineer" class="hash-link" aria-label="Пряме посилання на Data Engineer" title="Пряме посилання на Data Engineer">​</a></h3>
 <p>Будує інфраструктуру для збору, обробки, зберігання і передачі даних. Очищає та трансформує їх, щоб інформація була придатна для подальшої аналітики. Працює з потоковими даними, базами даних, хмарними платформами, забезпечує стабільність і масштабованість систем обробки.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): 1100$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): 2600$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): 5300$.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="data-scientist">Data Scientist<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#data-scientist" class="hash-link" aria-label="Пряме посилання на Data Scientist" title="Пряме посилання на Data Scientist">​</a></h4>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): <em><strong>1100$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): <em><strong>2600$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): <em><strong>5300$</strong></em>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="data-scientist">Data Scientist<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#data-scientist" class="hash-link" aria-label="Пряме посилання на Data Scientist" title="Пряме посилання на Data Scientist">​</a></h3>
 <p>Аналізує великі обсяги даних для виявлення прихованих закономірностей, створення моделей прогнозування та обґрунтування бізнес-рішень. Працює зі статистичними методами, машинним навчанням і візуалізацією результатів. Розробляє експерименти, проводить A/B тести, досліджує поведінку користувачів. Пояснює складні аналітичні висновки нетехнічній авдиторії та допомагає компанії ухвалювати рішення на основі даних.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): 900$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): 2800$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): 5200$.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="dataproductbusiness-analyst">Data/Product/Business Analyst<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#dataproductbusiness-analyst" class="hash-link" aria-label="Пряме посилання на Data/Product/Business Analyst" title="Пряме посилання на Data/Product/Business Analyst">​</a></h4>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): <em><strong>900$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): <em><strong>2800$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): <em><strong>5200$</strong></em>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dataproductbusiness-analyst">Data/Product/Business Analyst<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#dataproductbusiness-analyst" class="hash-link" aria-label="Пряме посилання на Data/Product/Business Analyst" title="Пряме посилання на Data/Product/Business Analyst">​</a></h3>
 <p>Збирають, досліджують та інтерпретують дані для покращення бізнесу або продукту.</p>
 <p>– <strong>Data Analyst</strong> створює звіти, дашборди, виявляє тенденції та дає рекомендації на основі історичних даних.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): 900$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): 2000$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): 3000$.</p>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): <em><strong>900$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): <em><strong>2000$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): <em><strong>3000$</strong></em>.</li>
+</ul>
 <p>– <strong>Product Analyst</strong> аналізує поведінку користувачів, проводить A/B тести, допомагає пріоритизувати фічі.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): 1250$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): 2200$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): 4200$</p>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): <em><strong>1250$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): <em><strong>2200$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): <em><strong>4200$</strong></em></li>
+</ul>
 <p>– <strong>Business Analyst</strong> спілкується з клієнтами та командою, формує вимоги до продукту, описує бізнес-процеси, допомагає знаходити ефективні рішення.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): 1000$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): 2200$</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): 3700$.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="embedded-engineer">Embedded Engineer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#embedded-engineer" class="hash-link" aria-label="Пряме посилання на Embedded Engineer" title="Пряме посилання на Embedded Engineer">​</a></h4>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): <em><strong>1000$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): <em><strong>2200$</strong></em></li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): <em><strong>3700$</strong></em>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="embedded-engineer">Embedded Engineer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#embedded-engineer" class="hash-link" aria-label="Пряме посилання на Embedded Engineer" title="Пряме посилання на Embedded Engineer">​</a></h3>
 <p>Програмує мікроконтролери, сенсори, периферійні пристрої та інші апаратні компоненти, що використовуються у фізичних пристроях. Розробляє прошивки, працює з низькорівневим кодом, взаємодіє з електронною схемотехнікою. Забезпечує стабільність, реальну швидкодію та енергоефективність в умовах обмежених ресурсів.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): 1000$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): 2500$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): 4500$.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="uiux-designer">UI/UX Designer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#uiux-designer" class="hash-link" aria-label="Пряме посилання на UI/UX Designer" title="Пряме посилання на UI/UX Designer">​</a></h4>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): <em><strong>1000$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): <em><strong>2500$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): <em><strong>4500$</strong></em>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="uiux-designer">UI/UX Designer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#uiux-designer" class="hash-link" aria-label="Пряме посилання на UI/UX Designer" title="Пряме посилання на UI/UX Designer">​</a></h3>
 <p>Проєктує зовнішній вигляд інтерфейсів (UI) та забезпечує їхню зручність і логіку використання (UX). Досліджує поведінку користувачів, проводить інтерв’ю, створює користувацькі сценарії, прототипи й макети. Тестує інтерфейси на реальних користувачах, враховує психологію сприйняття, кольори, типографіку та доступність. Тісно співпрацює з розробниками для реалізації дизайну в коді.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): 800$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): 1500$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): 3200$.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="project-managerproduct-manager">Project Manager/Product Manager<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#project-managerproduct-manager" class="hash-link" aria-label="Пряме посилання на Project Manager/Product Manager" title="Пряме посилання на Project Manager/Product Manager">​</a></h4>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): <em><strong>800$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): <em><strong>1500$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): <em><strong>3200$</strong></em>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="project-managerproduct-manager">Project Manager/Product Manager<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#project-managerproduct-manager" class="hash-link" aria-label="Пряме посилання на Project Manager/Product Manager" title="Пряме посилання на Project Manager/Product Manager">​</a></h3>
 <p>– Позиція <strong>Project Manager</strong> частіше трапляється в аутсорс-компаніях. Цей спеціаліст координує весь процес розробки: розподіляє задачі, планує терміни, управляє ризиками, слідкує за прогресом, підтримує команду. Стежить, аби проєкт був завершений вчасно й у межах бюджету.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): 1000$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): 2100$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): 3600$.</p>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): <em><strong>1000$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): <em><strong>2100$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): <em><strong>3600$</strong></em>.</li>
+</ul>
 <p>– <strong>Product Manager</strong> визначає бачення продукту, досліджує ринок і конкурентів, аналізує реакцію авдиторії, формує дорожню карту. Визначає, які фічі потрібно реалізувати, коли й чому.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): 1400$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): 2900$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): 4200$.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="gamedev">GameDev<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#gamedev" class="hash-link" aria-label="Пряме посилання на GameDev" title="Пряме посилання на GameDev">​</a></h4>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): <em><strong>1400$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): <em><strong>2900$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): <em><strong>4200$</strong></em>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="gamedev">GameDev<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#gamedev" class="hash-link" aria-label="Пряме посилання на GameDev" title="Пряме посилання на GameDev">​</a></h3>
 <p>Бере участь у створенні відеоігор: пише код для логіки гри, анімацій, фізики, графіки чи штучного інтелекту. Займається інтеграцією аудіо, балансуванням механік, створенням рівнів, оптимізацією продуктивності. Працює з ігровими рушіями (наприклад, Unity або Unreal Engine), 3D-графікою, мережевими протоколами, системами монетизації та збереженням даних гравця.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): 800$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): 1800$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): 4500$.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="qa-quality-assurance">QA (Quality Assurance)<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#qa-quality-assurance" class="hash-link" aria-label="Пряме посилання на QA (Quality Assurance)" title="Пряме посилання на QA (Quality Assurance)">​</a></h4>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): <em><strong>800$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): <em><strong>1800$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): <em><strong>4500$</strong></em>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="qa-quality-assurance">QA (Quality Assurance)<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#qa-quality-assurance" class="hash-link" aria-label="Пряме посилання на QA (Quality Assurance)" title="Пряме посилання на QA (Quality Assurance)">​</a></h3>
 <p>Перевіряє якість програмного забезпечення, щоб виявити баги ще до того, як користувач їх помітить. Пише тест-кейси, проводить ручне або автоматизоване тестування, фіксує дефекти та слідкує за їх виправленням. Перевіряє як функціонал, так і навантаження, безпеку, зручність. Співпрацює з командою розробників, щоб гарантувати випуск стабільного, якісного продукту.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 2 років досвіду): 800$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 2 до 4–5 років досвіду): 1800$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 5 років досвіду): 3400$.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="software-engineer">Software Engineer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#software-engineer" class="hash-link" aria-label="Пряме посилання на Software Engineer" title="Пряме посилання на Software Engineer">​</a></h4>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 2 років досвіду): <em><strong>800$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 2 до 4–5 років досвіду): <em><strong>1800$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 5 років досвіду): <em><strong>3400$</strong></em>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="software-engineer">Software Engineer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#software-engineer" class="hash-link" aria-label="Пряме посилання на Software Engineer" title="Пряме посилання на Software Engineer">​</a></h3>
 <p>Розробляє програмне забезпечення: від простих застосунків до складних розподілених систем. Проєктує архітектуру, реалізує логіку, тестує і підтримує код. Володіє знаннями з алгоритмів, структур даних, шаблонів проєктування, принципів розробки. Вміє розв’язувати складні інженерні задачі, працює в команді та дотримується стандартів написання коду.</p>
-<p>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): 900$.</p>
-<p>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): 2450$.</p>
-<p>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): 4500$.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="перелік-компаній-у-яких-працюють-іпсашники">Перелік компаній, у яких працюють ІПСАшники<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#%D0%BF%D0%B5%D1%80%D0%B5%D0%BB%D1%96%D0%BA-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9-%D1%83-%D1%8F%D0%BA%D0%B8%D1%85-%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D1%8E%D1%82%D1%8C-%D1%96%D0%BF%D1%81%D0%B0%D1%88%D0%BD%D0%B8%D0%BA%D0%B8" class="hash-link" aria-label="Пряме посилання на Перелік компаній, у яких прац�юють ІПСАшники" title="Пряме посилання на Перелік компаній, у яких працюють ІПСАшники">​</a></h3>
-<p><strong>EPAM Systems, Inc.</strong> — американська компанія, яка спеціалізується на послугах із розробки програмного забезпечення і цифрових платформ, дизайні цифрових продуктів. Офіс EPAM в Україні є найбільшим за кількістю спеціалістів серед усіх ІТ-компаній у країні.</p>
-<p><strong>Genesis</strong> — це українська кофаундингова ІТ-компанія, що будує глобальні технологічні бізнеси разом із найкращими підприємцями Центральної та Східної Європи.</p>
-<p><strong>SoftServe</strong> — це українська ІТ-компанія, що займається консалтингом та надає послуги у сфері цифрових технологій.</p>
-<p><strong>Ajax</strong> — українська технологічна компанія. Розробляє бездротові та дротові системи безпеки, має власне виробництво повного циклу.</p>
-<p><strong>GlobalLogic</strong> — компанія з розробки програмного забезпечення. Займається розробкою програмних продуктів у таких сферах, як охорона здоров’я, автомобільна промисловість, телекомунікації, медіа, фінансові послуги, ритейл, безпека, будівництво, напівпровідники.</p>
-<p><strong>Sigma Software</strong> — спеціалізується на розробці, тестуванні та підтримці програмного забезпечення. У 2018 році увійшла до 100 найкращих сервісних ІТ-компаній світу за версією International Association of Outsourcing Professionals (IAOP).</p>
-<p><strong>Uklon</strong> — український райдхейлінг-сервіс. Працює у 27 містах, об’єднує десятки тисяч водіїв, які разом виконують більш ніж 2 млн поїздок на місяць.</p>
-<p><strong>MacPaw</strong> — IT-компанія з розробки програмного забезпечення з головним офісом у Києві, що створює такі продукти: CleanMyMac X, Setapp, Gemini 2, The Unarchiver та інші.</p>
-<p><strong>Mantis Analytics</strong> — український стартап, який розробляє платформу на основі штучного інтелекту для моніторингу інформаційного поля в реальному часі. Її метою є виявлення дезінформації та інформаційних загроз шляхом аналізу даних із медіа, соціальних мереж та інших джерел.​</p>
-<p><strong>Brainstack</strong> — українська мультипродуктова IT-компанія, яка створює профітні бізнеси в нішах Parental Control, Wellness, AI, а також розвиває власний R&amp;D-центр. У портфоліо компанії кросплатформні застосунки та сервіси, якими користуються мільйони людей по всьому світу.</p>
-<p><strong>Zvook</strong> — компанія, яка займається розробкою сучасних акустичних датчиків. З 2022 року команда інженерів апаратного, програмного забезпечення та ML допомагає українським військам протиповітряної оборони протистояти ворожим ракетам і безпілотникам-камікадзе.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="курси">Курси<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#%D0%BA%D1%83%D1%80%D1%81%D0%B8" class="hash-link" aria-label="Пряме посилання на Курси" title="Пряме посилання на Курси">​</a></h3>
+<ul>
+<li>Медіанна заробітна плата Junior-спеціалістів (зазвичай від 6 місяців до 1.5 років досвіду): <em><strong>900$</strong></em>.</li>
+<li>Медіанна заробітна плата Middle-спеціалістів (зазвичай від 1 до 3 років досвіду): <em><strong>2450$</strong></em>.</li>
+<li>Медіанна заробітна плата Senior/Lead-спеціалістів (зазвичай від 3 років досвіду): <em><strong>4500$</strong></em>.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="перелік-компаній-у-яких-працюють-іпсашники">Перелік компаній, у яких працюють ІПСАшники<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#%D0%BF%D0%B5%D1%80%D0%B5%D0%BB%D1%96%D0%BA-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D0%B9-%D1%83-%D1%8F%D0%BA%D0%B8%D1%85-%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D1%8E%D1%82%D1%8C-%D1%96%D0%BF%D1%81%D0%B0%D1%88%D0%BD%D0%B8%D0%BA%D0%B8" class="hash-link" aria-label="Пряме посилання на Перелік компаній, у яких працюють ІПСАшники" title="Прям�е посилання на Перелік компаній, у яких працюють ІПСАшники">​</a></h2>
+<ul>
+<li><strong>EPAM Systems, Inc.</strong> — американська компанія, яка спеціалізується на послугах із розробки програмного забезпечення і цифрових платформ, дизайні цифрових продуктів. Офіс EPAM в Україні є найбільшим за кількістю спеціалістів серед усіх ІТ-компаній у країні.</li>
+<li><strong>Genesis</strong> — це українська кофаундингова ІТ-компанія, що будує глобальні технологічні бізнеси разом із найкращими підприємцями Центральної та Східної Європи.</li>
+<li><strong>SoftServe</strong> — це українська ІТ-компанія, що займається консалтингом та надає послуги у сфері цифрових технологій.</li>
+<li><strong>Ajax</strong> — українська технологічна компанія. Розробляє бездротові та дротові системи безпеки, має власне виробництво повного циклу.</li>
+<li><strong>GlobalLogic</strong> — компанія з розробки програмного забезпечення. Займається розробкою програмних продуктів у таких сферах, як охорона здоров’я, автомобільна промисловість, телекомунікації, медіа, фінансові послуги, ритейл, безпека, будівництво, напівпровідники.</li>
+<li><strong>Sigma Software</strong> — спеціалізується на розробці, тестуванні та підтримці програмного забезпечення. У 2018 році увійшла до 100 найкращих сервісних ІТ-компаній світу за версією International Association of Outsourcing Professionals (IAOP).</li>
+<li><strong>Uklon</strong> — український райдхейлінг-сервіс. Працює у 27 містах, об’єднує десятки тисяч водіїв, які разом виконують більш ніж 2 млн поїздок на місяць.</li>
+<li><strong>MacPaw</strong> — IT-компанія з розробки програмного забезпечення з головним офісом у Києві, що створює такі продукти: CleanMyMac X, Setapp, Gemini 2, The Unarchiver та інші.</li>
+<li><em>Mantis Analytics</em>* — український стартап, який розробляє платформу на основі штучного інтелекту для моніторингу інформаційного поля в реальному часі. Її метою є виявлення дезінформації та інформаційних загроз шляхом аналізу даних із медіа, соціальних мереж та інших джерел.​</li>
+<li><strong>Brainstack</strong> — українська мультипродуктова IT-компанія, яка створює профітні бізнеси в нішах Parental Control, Wellness, AI, а також розвиває власний R&amp;D-центр. У портфоліо компанії кросплатформні застосунки та сервіси, якими користуються мільйони людей по всьому світу.</li>
+<li><strong>Zvook</strong> — компанія, яка займається розробкою сучасних акустичних датчиків. З 2022 року команда інженерів апаратного, програмного забезпечення та ML допомагає українським військам протиповітряної оборони протистояти ворожим ракетам і безпілотникам-камікадзе.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="курси">Курси<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#%D0%BA%D1%83%D1%80%D1%81%D0%B8" class="hash-link" aria-label="Пряме посилання на Курси" title="Пряме посилання на Курси">​</a></h2>
 <p>У сучасному світі професійний розвиток не закінчується вступом до ЗВО чи отриманням диплома. Постійне навчання стало необхідністю, а не опцією: нові навички відчиняють двері до більших можливостей, допомагають залишатися конкурентоспроможним й адаптуватися до змін на ринку праці. Самоосвіта, курси та тренінги стають важливим інструментом для тих, хто прагне рухатися вперед. Нижче — добірка платформ і курсів, які допоможуть зробити перший крок або поглибити свої знання.</p>
-<p><a href="https://www.kaggle.com/learn" target="_blank" rel="noopener noreferrer">Kaggle</a> — одне з найбільших ML-ком’юніті у світі. Безкоштовні міні-курси, що представлені, призначені більше для базового ознайомлення з такими технологіями, як Python та SQL, здобуття перших навичок роботи з бібліотеками pandas і scikit-learn, або навіть занурення в питання етики ШІ. (Після цих курсів навіть на трейні претендувати рано). Тут можна знайти величезний перелік датасетів для навчання своїх моделей, позмагатися з іншими ентузіастами або ж зробити свої перші кроки у світ аналітики, Data Science та ML.</p>
-<p><a href="https://datacamp.com/" target="_blank" rel="noopener noreferrer">DataCamp</a> — крупна спільнота data спеціалістів для здобуття нових скілів і навіть пошуку роботи на міжнародному ринку. На відміну від попередньої, ця вже комерційна і працює за підписною моделлю. Можна пройти такі кар’єрні треки, як Data Analyst, Data Scientist, ML Engineer та Data Engineer і здобути скіли в Python та SQL, у галузі препроцесингу й обробки даних, проєктування, навчання, дебагінгу та деплою ML-моделей, MLOps та інші корисні навички для професійної взаємодії з інфраструктурою даних.</p>
-<p><a href="https://academy.gen.tech/" target="_blank" rel="noopener noreferrer">Genesis</a> — одна з компаній, що згадувалися вище, має свій L&amp;D-центр — Genesis Academy, що проводить курси підвищення кваліфікації для спеціалістів різних tech- і non-tech- професійних напрямів із основним фокусом на продуктове IT. Щороку проводяться курси Genesis Product School (для початківців Product Manager-ів), Genesis Analytics Summer Camp, Genesis Front-end School, Genesis Software School, Genesis UI/UX School, Genesis QA School, Genesis DevOps School, більш загальну Genesis IT School для занурення в специфіку роботи продуктових компаній і навіть окремі школи для рекрутерів та маркетологів. Курси безкоштовні, але з досить серйозним відбором (до 55 людей на одне місце).</p>
-<p>Схожий <a href="https://career.softserveinc.com/uk-ua/learning-and-certification/formats-complete-program" target="_blank" rel="noopener noreferrer">структурний підрозділ</a> є і у SoftServe. Він пропонує платні курси з QA, DevOps, розробки на JS, Python, NET і Java та більше націлений на трейні/джунів розробників та інженерів.</p>
-<p><a href="https://university.sigma.software/catalog/?type=courses&amp;direction=all" target="_blank" rel="noopener noreferrer">Sigma Software University</a> зосереджений на спеціалістів із певним досвідом у своїй сфері та призначений для здобуття нових і покращення вже наявних скілів для Junior+ і Middle спеціалістів.</p>
-<p><a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">Coursera</a> та <a href="https://www.udemy.com/?srsltid=AfmBOop0gCftE_GEueHNzUCLGzVU0hcfN9QN8IFXuBzmy9NZAkQR3G9m" target="_blank" rel="noopener noreferrer">Udemy</a>  — це одні з найвідоміших платформ для здобуття нових навичок для спеціалістів абсолютно різного профілю — від робототехніків до Deep Learning Engineer.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="коли-варто-йти-на-роботу">Коли варто йти на роботу?<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#%D0%BA%D0%BE%D0%BB%D0%B8-%D0%B2%D0%B0%D1%80%D1%82%D0%BE-%D0%B9%D1%82%D0%B8-%D0%BD%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%83" class="hash-link" aria-label="Пряме посилання на Коли варто йти на роботу?" title="Пряме посилання на Коли варто йти на роботу?">​</a></h3>
+<ul>
+<li><a href="https://www.kaggle.com/learn" target="_blank" rel="noopener noreferrer">Kaggle</a> — одне з найбільших ML-ком’юніті у світі. Безкоштовні міні-курси, що представлені, призначені більше для базового ознайомлення з такими технологіями, як Python та SQL, здобуття перших навичок роботи з бібліотеками pandas і scikit-learn, або навіть занурення в питання етики ШІ. (Після цих курсів навіть на трейні претендувати рано). Тут можна знайти величезний перелік датасетів для навчання своїх моделей, позмагатися з іншими ентузіастами або ж зробити свої перші кроки у світ аналітики, Data Science та ML.</li>
+<li><a href="https://datacamp.com/" target="_blank" rel="noopener noreferrer">DataCamp</a> — крупна спільнота data спеціалістів для здобуття нових скілів і навіть пошуку роботи на міжнародному ринку. На відміну від попередньої, ця вже комерційна і працює за підписною моделлю. Можна пройти такі кар’єрні треки, як Data Analyst, Data Scientist, ML Engineer та Data Engineer і здобути скіли в Python та SQL, у галузі препроцесингу й обробки даних, проєктування, навчання, дебагінгу та деплою ML-моделей, MLOps та інші корисні навички для професійної взаємодії з інфраструктурою даних.</li>
+<li><a href="https://academy.gen.tech/" target="_blank" rel="noopener noreferrer">Genesis</a> — одна з компаній, що згадувалися вище, має свій L&amp;D-центр — Genesis Academy, що проводить курси підвищення кваліфікації для спеціалістів різних tech- і non-tech- професійних напрямів із основним фокусом на продуктове IT. Щороку проводяться курси Genesis Product School (для початківців Product Manager-ів), Genesis Analytics Summer Camp, Genesis Front-end School, Genesis Software School, Genesis UI/UX School, Genesis QA School, Genesis DevOps School, більш загальну Genesis IT School для занурення в специфіку роботи продуктових компаній і навіть окремі школи для рекрутерів та маркетологів. Курси безкоштовні, але з досить серйозним відбором (до 55 людей на одне місце).</li>
+<li>Схожий <a href="https://career.softserveinc.com/uk-ua/learning-and-certification/formats-complete-program" target="_blank" rel="noopener noreferrer">структурний підрозділ</a> є і у SoftServe. Він пропонує платні курси з QA, DevOps, розробки на JS, Python, NET і Java та більше націлений на трейні/джунів розробників та інженерів.</li>
+<li><a href="https://university.sigma.software/catalog/?type=courses&amp;direction=all" target="_blank" rel="noopener noreferrer">Sigma Software University</a> зосереджений на спеціалістів із певним досвідом у своїй сфері та призначений для здобуття нових і покращення вже наявних скілів для Junior+ і Middle спеціалістів.</li>
+<li><a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">Coursera</a> та <a href="https://www.udemy.com/?srsltid=AfmBOop0gCftE_GEueHNzUCLGzVU0hcfN9QN8IFXuBzmy9NZAkQR3G9m" target="_blank" rel="noopener noreferrer">Udemy</a>  — це одні з найвідоміших платформ для здобуття нових навичок для спеціалістів абсолютно різного профілю — від робототехніків до Deep Learning Engineer.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="коли-варто-йти-на-роботу">Коли варто йти на роботу?<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#%D0%BA%D0%BE%D0%BB%D0%B8-%D0%B2%D0%B0%D1%80%D1%82%D0%BE-%D0%B9%D1%82%D0%B8-%D0%BD%D0%B0-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%83" class="hash-link" aria-label="Пряме посилання на Коли варто йти на роботу?" title="Пряме посилання на Коли варто йти на роботу?">​</a></h2>
 <p>Для студентів ІТ-спеціальностей питання «коли починати працювати?» є дуже важливим і часто визначальним у побудові майбутньої кар’єри. Відповідь на це питання залежить від рівня підготовки, мотивації, завантаженості навчанням та особистих цілей. Загалом, починати шукати роботу чи стажування вже з другого чи третього курсу — цілком реалістично та навіть бажано.</p>
 <p>На 2 курсі багато студентів уже мають базові знання мов програмування (наприклад, Python, C++), а також знайомі з основами алгоритмів, структур даних. Якщо студент самостійно вивчає додаткові технології, бере участь у проєктах або створив хоча б кілька власних робіт, які можна показати на GitHub — це хороший момент спробувати свої сили на стажуванні або знайти першу роботу. Вона на цьому етапі зазвичай не є високооплачуваною, а іноді навіть неоплачуваною, проте дає досвід, який дуже цінується працедавцями надалі.</p>
 <p>3 курс — це, мабуть, найкращий момент для початку активного пошуку роботи. До цього часу студент уже опановує більш складні концепції програмування, розуміє принципи роботи з базами даних, має уявлення про інженерію ПЗ, а також може працювати в команді. Багато компаній саме на цьому етапі активно набирають стажерів або молодших спеціалістів (junior), адже студент ще досить гнучкий і може поєднувати роботу з навчанням.</p>
@@ -142,7 +181,7 @@
 <blockquote>
 <p>Шукати роботу потрібно тоді, коли самі захочете. Не треба гнатися за тим, аби знайти роботу до 3 чи 4 курсу і т. д. Навіщо вам робота, яку ви потім будете ненавидіти? Знайдіть спочатку те, що вас реально цікавить, а потім розвивайтеся в цьому напрямі у своєму темпі. А ще не порівнюйте себе з людьми навколо, або хоча б не робіть це постійно, бо так мозок починає плавитися (а чому він заробляє більше мене, а чому в неї вже рік досвіду попри молодший курс і т. д.).</p>
 </blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="відгуки-студентів-та-випускників">Відгуки студентів та випускників<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#%D0%B2%D1%96%D0%B4%D0%B3%D1%83%D0%BA%D0%B8-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%96%D0%B2-%D1%82%D0%B0-%D0%B2%D0%B8%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D1%96%D0%B2" class="hash-link" aria-label="Пряме посилання на Відгуки студентів та випускників" title="Пряме посилання на Відгуки студентів та випускників">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="відгуки-студентів-та-випускників">Відгуки студентів та випускників<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#%D0%B2%D1%96%D0%B4%D0%B3%D1%83%D0%BA%D0%B8-%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%96%D0%B2-%D1%82%D0%B0-%D0%B2%D0%B8%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D1%96%D0%B2" class="hash-link" aria-label="Пряме посилання на Відгуки студентів та випускників" title="Пряме посилання на Відгуки студентів та випускників">​</a></h2>
 <p>Декілька відповідей наших студентів/ок і випускників/ць на важливі запитання:</p>
 <p>Перший відгук:</p>
 <blockquote>
@@ -222,7 +261,7 @@
 <p>Відповідь на це запитання залежить від пріоритетів студента. Моєю метою було здобути релевантний комерційний досвід у великій компанії, навіть якби заради цього довелося поставити навчання на другий план. Про свій вибір піти працювати на третьому курсі не шкодую, бо саме перші 2 роки найбільш насичені важливими дисциплінами, а далі йде поглиблення, яке, на мою думку, знадобиться далеко не всім.</p>
 </blockquote>
 </blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="висновок-у-школі-було-краще">Висновок: у школі було краще…<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B2%D0%BE%D0%BA-%D1%83-%D1%88%D0%BA%D0%BE%D0%BB%D1%96-%D0%B1%D1%83%D0%BB%D0%BE-%D0%BA%D1%80%D0%B0%D1%89%D0%B5" class="hash-link" aria-label="Пряме посилання на Висновок: у школі було краще…" title="Пряме посилання на Висновок: у школі було краще…">​</a></h3>]]></content:encoded>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="висновок-у-школі-було-краще">Висновок: у школі було краще…<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/Jobs#%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B2%D0%BE%D0%BA-%D1%83-%D1%88%D0%BA%D0%BE%D0%BB%D1%96-%D0%B1%D1%83%D0%BB%D0%BE-%D0%BA%D1%80%D0%B0%D1%89%D0%B5" class="hash-link" aria-label="Пряме посилання на Висновок: у школі було краще…" title="Пряме посилання на Висновок: у школі було краще…">​</a></h4>]]></content:encoded>
             <category>ВСТУП</category>
             <category>НАВЧАННЯ</category>
             <category>СТУДЕНТУ</category>
