@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2fbbc839-e427-48e6-9bf9-56edd9ac27fe" name="Changes" comment="IASA Bot Guide Article Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/FOR_STUDENTS_&amp;_ENTRANTS/jobs/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/FOR_STUDENTS_&amp;_ENTRANTS/jobs/index.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/EVENTS_DEP/iasa_events/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/blog/EVENTS_DEP/iasa_events/index.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/authors.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,6 +112,7 @@
       <workItem from="1725223682817" duration="1000" />
       <workItem from="1725223701502" duration="9000" />
       <workItem from="1747651577516" duration="2922000" />
+      <workItem from="1749498819076" duration="1930000" />
     </task>
     <task id="LOCAL-00001" summary="IASA Bot Guide Article Added">
       <option name="closed" value="true" />
