@@ -317,6 +317,17 @@ kseniya:
   image_url: https://i.imgur.com/fxLRquS.jpeg
   url: https://t.me/syavvaa
 
+ponachova:
+  name: Софія Поначова
+  title: Редакторка статей
+  image_url: https://i.ibb.co/B5fCbHxX/IMG-0475.jpg
+  url: https://t.me/sofiiapnchv
+
+pushkar:
+  name: Божена Пушкар
+  title: Редакторка статей
+  image_url: https://i.ibb.co/mFNsQbbR/IMG-20250620-094808.jpg
+  url: https://t.me/bozhenyaa
 # ----------------------------------------------------------------------------------------------------------
 #
 # Редактори статей про вибіркові
@@ -441,6 +452,24 @@ polya:
   title: Не відьма
   image_url: https://i.ibb.co/qLQnHk9L/IMG-20250605-113124-295.jpg
   url: https://t.me/lvndrltte
+
+prorok:
+  name: Ангеліна Пророк
+  title: Мессі
+  image_url: https://i.ibb.co/S4tCTK5R/IMG-20250619-231026.jpg
+  url: https://t.me/angelinaprorok
+
+serak:
+  name: Максим Сєрак
+  title: Розстібнута рубашка
+  image_url: https://i.ibb.co/Jwv56ZxN/IMG-2691.jpg
+  url: https://t.me/maaksst
+
+lidia:
+  name: Лідія Кучма
+  title: Авантюрістка
+  image_url: https://i.ibb.co/CTJ2Ldr/IMG-1778.jpg
+  url: https://t.me/lilfloey
 
 # ----------------------------------------------------------------------------------------------------------
 #
