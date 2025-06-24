@@ -14,7 +14,7 @@
         <updated>2025-06-25T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[ІПСА. Комп'ютерні науки. Спеціалізація Штучний Інтелект]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Photo" src="https://iasastudentcouncil.github.io/iasa-sc-blog/assets/images/ai-1996153db41ab8e623b40b33d49a613f.png" width="4267" height="3200" class="img_ev3q"></p>
-<p>###База</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="база">База<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/AI#%D0%B1%D0%B0%D0%B7%D0%B0" class="hash-link" aria-label="Пряме посилання на База" title="Пряме посилання на База">​</a></h3>
 <p>«Системи і методи штучного інтелекту». З першого погляду ти вже відчуваєш усю перспективність майбутнього працевлаштування й уявляєш, як власноруч створюєш справжнього конкурента для ChatGPT. І дійсно, ця спеціальність охоплює широкий спектр знань: від математичних основ до розробки інтелектуальних систем, здатних до навчання, адаптації та прийняття рішень. І саме це дозволяє стати спеціалістом, що виділяється серед розповсюджених зараз на ринку праці вайбкодерів завдяки своїм вмінням швидко опановувати нові технології.</p>
 <p>Проте на все свій час. Перш за все, на тебе чекає посилена фундаментальна підготовка, про яку розкажемо згодом.</p>
 <p><em><strong>Дисклеймер!!</strong></em></p>
@@ -29,8 +29,8 @@
 <p><img decoding="async" loading="lazy" alt="Photo" src="https://iasastudentcouncil.github.io/iasa-sc-blog/assets/images/table-f455391d423ad0f531bb8084654ab797.png" width="1920" height="1168" class="img_ev3q"></p>
 <p>Тут можна ознайомитися із <a href="https://osvita.kpi.ua/sites/default/files/downloads/zu-katalog-2025.pdf" target="_blank" rel="noopener noreferrer">ЗУ-каталогом</a>, а також <a href="https://osvita.kpi.ua/sites/default/files/f-catalog/fkat_122_oppb_smshi_2025.pdf" target="_blank" rel="noopener noreferrer">Ф-каталогом</a>.</p>
 <p><em><strong>P.S. Список вибіркових дисциплін може змінюватися.</strong></em></p>
-<p>###Якщо не McDonalds, то що?</p>
-<p>####Data Scientist</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="якщо-не-mcdonalds-то-що">Якщо не McDonalds, то що?<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/AI#%D1%8F%D0%BA%D1%89%D0%BE-%D0%BD%D0%B5-mcdonalds-%D1%82%D0%BE-%D1%89%D0%BE" class="hash-link" aria-label="Пряме посилання на Якщо не McDonalds, то що?" title="Пряме посилання на Якщо не McDonalds, то що?">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="data-scientist">Data Scientist<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/AI#data-scientist" class="hash-link" aria-label="Пряме посилання на Data Scientist" title="Пряме посилання на Data Scientist">​</a></h4>
 <p>Навчаючись на спеціальності «Комп'ютерні науки», не дивно стати науковцем. Багато предметів на катедрі ШІ спрямовані саме до такого світлого майбутнього, як Data Science. Фахівці в цій сфері займаються аналізом великого обсягу даних і застосовують різні методи для виділення цінної інформації з нього. Цю професію можна описати наступною формулою:</p>
 <p>Data Science = «Системи й методи баз даних» (для збору й очищення даних) + «Інтелектуальний аналіз даних» (для дослідницького аналізу) + «Системи та методи штучного інтелекту» (для моделювання та прогнозування) + «Візуалізація даних» (як не дивно, для візуалізації даних).</p>
 <p>Але для кожної з цих дисциплін варто пройти шлях воїна — перший курс, без якого розуміння цієї галузі неможливе.</p>
@@ -40,19 +40,19 @@
 <blockquote>
 <p>«В обов'язки входять збір даних, EDA (exploratory data analysis), preprocessing, написання й презентації моделей і обгорток, а також їхнє введення та перенавчання».</p>
 </blockquote>
-<p>####Data Analyst</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="data-analyst">Data Analyst<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/AI#data-analyst" class="hash-link" aria-label="Пряме посилання на Data Analyst" title="Пряме посилання на Data Analyst">​</a></h4>
 <p>Відійдемо трішки від теми штучного інтелекту, але не від баз даних. Data Analyst також збирає та формує великі дані в зручний для роботи формат, також застосовує статистичні та візуальні методи для аналізу, але ключовими аспектами його обов'язків вважається дослідження поточної діяльності компанії, виявлення недоліків та пропозиції щодо їхнього усунення.</p>
 <blockquote>
 <p>«Тривіальний аналітик даних розрахує для вас багато метрик і намалює кольорові діаграми. Хороший аналітик даних переконається, що ви розумієте ці метрики та діаграми. Відмінний аналітик даних розповість вам про бізнес-проблеми, які він бачить за цими метриками й діаграмами, а також запропонує їхнє розв'язання».</p>
 </blockquote>
-<p>####Data Engineer</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="data-engineer">Data Engineer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/AI#data-engineer" class="hash-link" aria-label="Пряме посилання на Data Engineer" title="Пряме посилання на Data Engineer">​</a></h4>
 <p>Головне завдання дата інженера — створити максимально зрозумілу «архітектуру інфраструктури даних» з урахуванням надійності та продуктивності роботи з ними.</p>
 <blockquote>
 <p>«Data Engineer відповідає за проєктування, будівництво, встановлення, тестування та підтримку великомасштабних систем управління даними. Вони зосереджені на створенні інфраструктури для генерації, зберігання й обробки інформації».</p>
 </blockquote>
 <p>Аби візуально схожі назви не збивали з пантелику, пропонуємо ознайомитися з діаграмою, що наводить необхідні скіли для Data Analyst, Data Scientist і Data Engineer.</p>
 <p><img decoding="async" loading="lazy" alt="Photo" src="https://iasastudentcouncil.github.io/iasa-sc-blog/assets/images/data-4504527520fe71c3194a0b990e90d597.jpg" width="1920" height="1080" class="img_ev3q"></p>
-<p>####ML Engineer</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="ml-engineer">ML Engineer<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/AI#ml-engineer" class="hash-link" aria-label="Пряме посилання на ML Engineer" title="Пряме посилання на ML Engineer">​</a></h4>
 <p>Посада ML Engineer передбачає розробку та налаштування моделей машинного навчання, створення алгоритмів для аналізу даних і побудову прогностичних моделей, а також впровадження їх у продуктивні системи. Спеціалісти цієї галузі відповідають за оцінку та вдосконалення якості й ефективності розв’язання поставлених задач.</p>
 <blockquote>
 <p>«Запроваджую AI в customer care департамент (тобто в роботу з клієнтами)».</p>
@@ -62,7 +62,7 @@
 </blockquote>
 <p><img decoding="async" loading="lazy" alt="Photo" src="https://iasastudentcouncil.github.io/iasa-sc-blog/assets/images/aia1-a3f654c226d39f9cec773eb70e39226f.png" width="4080" height="2868" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" alt="Photo" src="https://iasastudentcouncil.github.io/iasa-sc-blog/assets/images/aia2-3f7fc66cc3993f0a489414ed89d7051d.png" width="4336" height="2868" class="img_ev3q"></p>
-<p>###Думки чемпіонів</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="думки-чемпіонів">Думки чемпіонів<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/AI#%D0%B4%D1%83%D0%BC%D0%BA%D0%B8-%D1%87%D0%B5%D0%BC%D0%BF%D1%96%D0%BE%D0%BD%D1%96%D0%B2" class="hash-link" aria-label="Пряме посилання на Думки чемпіонів" title="Пряме посилання на Думки чемпіонів">​</a></h3>
 <blockquote>
 <p>«Я вступала на цю спеціальність, знаючи про себе точно два факти: люблю програмування, люблю математику. Думала писати сайтики або круті додатки, що людям принесуть користь, а мені, звичайно, гроші. Але згодом зрозуміла, скільки різних напрямів відкриває таке глибинне вивчення математики та програмування, які не так помітні, коли ти знаходишся ще за бортом IT-ком'юніті. Ця освітня програма є дуже обширною. Рано чи пізно починаєш забивати на одні предмети й приділяти більшу увагу вже необхідним для кар'єрного шляху — і це нормально. Як і будь-де, є викладачі, віддані своїй дисципліні всією душею, а є ті, кому не так подобається їхнє місце роботи, що не є чимось незвичним для державних університетів. Тому самонавчанням також рано чи пізно доведеться зайнятися. Підсумовуючи все це, можна сказати, що навчання на катедрі ШІ зможе принести базові знання з безлічі предметів і відкриє в тобі нові інтереси, але все залежить тільки від власного бажання».</p>
 </blockquote>
@@ -116,7 +116,7 @@
 </ol>
 </blockquote>
 <p>Наступний <a href="https://telegra.ph/Toj-samij-v%D1%96dguk-05-16" target="_blank" rel="noopener noreferrer">відгук</a> — спадщина минулих років, без якої ця стаття не буде досконалою.</p>
-<p>###Висновок</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="висновок">Висновок<a href="https://iasastudentcouncil.github.io/iasa-sc-blog/blog/AI#%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D0%B2%D0%BE%D0%BA" class="hash-link" aria-label="Пряме посилання на Висновок" title="Пряме посилання на Висновок">​</a></h3>
 <p>Будемо максимально відвертими: якщо твоя душа лежить до дизайну чи розробки, де математика не так потрібна, як програмування чи креативність, катедра ШІ не найкращий вибір для тебе. Ця освітня програма створена для тих, хто бачить себе у світі «big data», хто готовий іти в майбутнє й автоматизовувати обробку даних (це ж той самий «штучний інтелект»), хто готовий писати код на більш глибинному рівні, ніж це робиться на більшості популярних IT-курсах, і хто впевнений, що це йому не набридне.</p>]]></content>
         <author>
             <name>Олексій Щербаков</name>
