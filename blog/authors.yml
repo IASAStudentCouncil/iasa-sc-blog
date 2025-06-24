@@ -233,6 +233,35 @@ ivan:
   image_url: https://i.imgur.com/3BmjGnL.jpg
   url: https://t.me/nuinashco
 
+polya:
+  name: Поліна Ліченко
+  title: Не відьма
+  image_url: https://i.ibb.co/qLQnHk9L/IMG-20250605-113124-295.jpg
+  url: https://t.me/lvndrltte
+
+prorok:
+  name: Ангеліна Пророк
+  title: Мессі
+  image_url: https://i.ibb.co/S4tCTK5R/IMG-20250619-231026.jpg
+  url: https://t.me/angelinaprorok
+
+serak:
+  name: Максим Сєрак
+  title: Розстібнута рубашка
+  image_url: https://i.ibb.co/Jwv56ZxN/IMG-2691.jpg
+  url: https://t.me/maaksst
+
+lidia:
+  name: Лідія Кучма
+  title: Авантюрістка
+  image_url: https://i.ibb.co/CTJ2Ldr/IMG-1778.jpg
+  url: https://t.me/lilfloey
+
+shсherbakov:
+  name: Олексій Щербаков
+  title: Лівак
+  image_url: https://i.ibb.co/4RpKppQQ/IMG-20250624-152158-955.jpg
+  url: https://t.me/shcherbakov_oleksii
 # ----------------------------------------------------------------------------------------------------------
 #
 # Редактори статей Абіт-відділу
@@ -447,29 +476,6 @@ patron:
   title: Front End Engineer
   image_url: https://i.imgur.com/xgR29Gk.jpg
 
-polya:
-  name: Поліна Ліченко
-  title: Не відьма
-  image_url: https://i.ibb.co/qLQnHk9L/IMG-20250605-113124-295.jpg
-  url: https://t.me/lvndrltte
-
-prorok:
-  name: Ангеліна Пророк
-  title: Мессі
-  image_url: https://i.ibb.co/S4tCTK5R/IMG-20250619-231026.jpg
-  url: https://t.me/angelinaprorok
-
-serak:
-  name: Максим Сєрак
-  title: Розстібнута рубашка
-  image_url: https://i.ibb.co/Jwv56ZxN/IMG-2691.jpg
-  url: https://t.me/maaksst
-
-lidia:
-  name: Лідія Кучма
-  title: Авантюрістка
-  image_url: https://i.ibb.co/CTJ2Ldr/IMG-1778.jpg
-  url: https://t.me/lilfloey
 
 # ----------------------------------------------------------------------------------------------------------
 #
