@@ -262,6 +262,25 @@ shсherbakov:
   title: Лівак
   image_url: https://i.ibb.co/4RpKppQQ/IMG-20250624-152158-955.jpg
   url: https://t.me/shcherbakov_oleksii
+
+hudikova:
+  name: Марія Худікова
+  title: +бал
+  image_url: https://i.ibb.co/jkkhxjFm/IMG-3449.jpg
+  url: https://t.me/tutt_ttam
+
+kaluh:
+  name: Роман Калюх
+  title: Кроулі
+  image_url: https://i.ibb.co/TDXZkgVN/IMG-ondon.jpg
+  url: https://t.me/rklkh
+
+shkiro:
+  name: Віолетта Шкіро
+  title: Артістка
+  image_url: https://i.ibb.co/7tkY8LBL/Picsart-25-07-04-00-22-21-366.jpg
+  url: https://t.me/violet0645
+
 # ----------------------------------------------------------------------------------------------------------
 #
 # Редактори статей Абіт-відділу
@@ -357,6 +376,13 @@ pushkar:
   title: Редакторка статей
   image_url: https://i.ibb.co/mFNsQbbR/IMG-20250620-094808.jpg
   url: https://t.me/bozhenyaa
+
+karinaa:
+  name: Карина Медведєва
+  title: Редакторка статей
+  image_url: https://i.ibb.co/hxcyjPLm/IMG-0889.jpg
+  url: https://t.me/kerinsesss
+
 # ----------------------------------------------------------------------------------------------------------
 #
 # Редактори статей про вибіркові
@@ -578,10 +604,6 @@ lisa-marvel:
   image_url: https://i.imgur.com/W9qz0mM.png
   url: https://linktr.ee/jwbaelis
 
-karinaa:
-  name: Карина Медведєва
-  title: Редакторка статей
-  image_url: https://i.ibb.co/hxcyjPLm/IMG-0889.jpg
-  url: https://t.me/kerinsesss
+
 
 
