@@ -286,6 +286,12 @@ kazanin:
   title: Можна без плашки
   image_url: https://imgur.com/KqmoSeH.png
   url: https://t.me/Okkyqud
+
+abramenko:
+  name: Яна Абраменко
+  title: Солях
+  image_url: https://i.imgur.com/yCqTyWu.jpeg
+  url: https://t.me/yanchiix
 # ----------------------------------------------------------------------------------------------------------
 #
 # Редактори статей Абіт-відділу
@@ -551,7 +557,7 @@ bogdan:
 
 sasha:
   name: Олександра Богданова
-  title: Підголова підвідділу підінтерв'ю
+  title: Голова Абіт-відділу 2025
   image_url: https://i.imgur.com/JIWfSXP.jpeg
   url: https://linktr.ee/bohdanova
 
@@ -596,7 +602,7 @@ mazur:
   title: Редакторка статей
   image_url: https://i.imgur.com/jNVYSh2.jpeg
   url: https://t.me/idgaf_a
-  
+
 telenko:
   name: Уляна Теленько
   title: Редакторка статей
