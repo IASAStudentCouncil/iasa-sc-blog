@@ -4,10 +4,16 @@
         <title>IASA Articles Blog</title>
         <link>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog</link>
         <description>IASA Articles Blog</description>
-        <lastBuildDate>Sat, 30 Aug 2025 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Aug 2025 13:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>uk</language>
+        <item>
+            <title><![CDATA[FOR_STUDENTS_&_ENTRANTS/freshman_guide_new]]></title>
+            <link>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/FOR_STUDENTS_&amp;_ENTRANTS/freshman_guide_new</link>
+            <guid>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/FOR_STUDENTS_&amp;_ENTRANTS/freshman_guide_new</guid>
+            <pubDate>Sat, 30 Aug 2025 13:08:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Дисципліни й викладачі]]></title>
             <link>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/subjects</link>
@@ -1910,12 +1916,6 @@
             <category>НАВЧАННЯ</category>
             <category>СТУДЕНТУ</category>
             <category>ВСТУП</category>
-        </item>
-        <item>
-            <title><![CDATA[FOR_STUDENTS_&_ENTRANTS/freshman_guide_new]]></title>
-            <link>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/FOR_STUDENTS_&amp;_ENTRANTS/freshman_guide_new</link>
-            <guid>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/FOR_STUDENTS_&amp;_ENTRANTS/freshman_guide_new</guid>
-            <pubDate>Sat, 30 Aug 2025 11:50:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[F4 (124) Системний аналіз]]></title>
