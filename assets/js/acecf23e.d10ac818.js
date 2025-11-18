@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkiasa_articles_website=globalThis.webpackChunkiasa_articles_website||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/iasa-sc-blog/blog","blogTitle":"\u0421\u0442\u0430\u0442\u0442\u0456 \u0421\u0442\u0443\u0434\u0440\u0430\u0434\u0438 \u0406\u041f\u0421\u0410","authorsListPath":"/iasa-sc-blog/blog/authors"}')}}]);

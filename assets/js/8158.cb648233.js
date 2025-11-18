@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiasa_articles_website=self.webpackChunkiasa_articles_website||[]).push([[8158],{48158:(a,e,s)=>{s.r(e),s.d(e,{DocSearchModal:()=>c.a1});var c=s(55600)}}]);
