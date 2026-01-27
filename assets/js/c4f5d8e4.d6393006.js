@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkiasa_articles_website=globalThis.webpackChunkiasa_articles_website||[]).push([[2634],{18396(a,s,e){e.r(s),e.d(s,{default:()=>l});var i=e(74848),t=(e(96540),e(56347));function l(){return(0,i.jsx)(t.rd,{to:"/iasa-sc-blog/blog"})}}}]);
