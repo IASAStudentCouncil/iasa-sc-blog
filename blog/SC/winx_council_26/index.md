@@ -3,7 +3,7 @@ slug: winx-council-26
 title: Where the magic begins...
 authors: [karinaa, plyusnina-2]
 tags: [СТУДРАДА, НАБІР]
-date: 2025-03-02T18:00
+date: 2026-03-02T18:00
 keywords: [ІПСА, СР, Студрада, IASA, Student Council, КПІ, студентське життя, освітні проєкти, відділи студради, набір, студентська спільнота]
 ---
 
