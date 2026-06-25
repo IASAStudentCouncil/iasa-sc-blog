@@ -30,6 +30,8 @@ image: https://IASAStudentCouncil.github.io/iasa-sc-blog/img/article_logos/sd_lo
 og:type: article
 og:site_name: IASA Articles
 og:locale: uk_UA
+draft: true
+
 ---
 
 ![Photo](./assets/main.png)
