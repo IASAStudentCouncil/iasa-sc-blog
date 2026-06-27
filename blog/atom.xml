@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog</id>
     <title>IASA Articles Blog</title>
-    <updated>2026-06-21T12:00:00.000Z</updated>
+    <updated>2026-06-25T18:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://IASAStudentCouncil.github.io/iasa-sc-blog/blog"/>
     <subtitle>IASA Articles Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Гуртожиток]]></title>
         <id>https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/Dormitory</id>
         <link href="https://IASAStudentCouncil.github.io/iasa-sc-blog/blog/Dormitory"/>
-        <updated>2026-06-21T12:00:00.000Z</updated>
+        <updated>2026-06-25T18:00:00.000Z</updated>
         <summary type="html"><![CDATA[Все, що треба знати про гуртожиток]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Photo" src="https://iasastudentcouncil.github.io/iasa-sc-blog/assets/images/dormitory_logo-77ded8a96853be646206d5d4f82a9322.png" width="1448" height="1086" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" alt="Photo" src="https://iasastudentcouncil.github.io/iasa-sc-blog/assets/images/first-f471bd50be9adca36837ad40f6483062.png" width="512" height="193" class="img_ev3q"></p>
@@ -351,6 +351,14 @@
         <author>
             <name>Божена Пушкар</name>
             <uri>https://t.me/bozhenyaa</uri>
+        </author>
+        <author>
+            <name>Сергій Крочак</name>
+            <uri>https://t.me/PsevdoZhabka</uri>
+        </author>
+        <author>
+            <name>Богдан Оболенцев</name>
+            <uri>https://t.me/obolents3v</uri>
         </author>
         <category label="СТУДЕНТУ" term="СТУДЕНТУ"/>
         <category label="ЖИТТЯ" term="ЖИТТЯ"/>
