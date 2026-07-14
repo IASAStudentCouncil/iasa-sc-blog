@@ -215,6 +215,12 @@ grygorivnaaa:
 #
 # ----------------------------------------------------------------------------------------------------------
 
+katerina:
+  name: Азаренко Катерина
+  title: (не)твоя мама
+  image_url: https://i.ibb.co/tT4Y0jgm/IMG-2002.jpg
+  url: https://t.me/kwqxv
+
 iryna:
   name: Ірина Гніздюх
   title: drama queen
@@ -333,6 +339,18 @@ slipko:
 # Редактори статей Абіт-відділу
 #
 # ----------------------------------------------------------------------------------------------------------
+
+inirmeris:
+  name: Ольга Біла
+  title: Редактор статей
+  image_url: https://i.ibb.co/N2MCV54S/IMG-7452.jpg
+  url: https://t.me/inirmeris
+ 
+lobantsov:
+  name: Олексій Лобанцов
+  title: Редактор статей
+  image_url: https://i.ibb.co/FQWjqxz/20260428-140907.jpg
+  url: https://t.me/lobantsov
 
 sergii:
   name: Сергій Крочак
