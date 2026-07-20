@@ -292,11 +292,11 @@ const config = {
         },
         copyright: `Copyright © ${new Date().getFullYear()} IASA Student Council`,
       },
-      algolia: {
-        appId: process.env.ALGOLIA_APP_ID,
-        apiKey: process.env.ALGOLIA_API_KEY,
-        indexName: process.env.ALGOLIA_INDEX_NAME,
-      },
+      //algolia: {
+        //appId: process.env.ALGOLIA_APP_ID,
+        //apiKey: process.env.ALGOLIA_API_KEY,
+        //indexName: process.env.ALGOLIA_INDEX_NAME,
+      //},
     }),
 
   webpack: {
