@@ -216,13 +216,13 @@ grygorivnaaa:
 # ----------------------------------------------------------------------------------------------------------
 
 agitatorka:
-  name: Катерина
+  name: Салахова Катерина 
   title: алігаторка
   image_url: https://i.ibb.co/Y7PY5LRT/IMG-20260720-085508-796.jpg
   url: https://t.me/alovlue
 
 metodychka:
-  name: Настя
+  name: Стрюковська Анастасія
   title: Методичка
   image_url: https://i.ibb.co/vvwf6ghg/20250303-102106.jpg
   url: https://t.me/Anasteyshastr
@@ -357,6 +357,12 @@ slipko:
 # Редактори статей Абіт-відділу
 #
 # ----------------------------------------------------------------------------------------------------------
+
+lypska:
+  name: Олександра Липська
+  title: Редакторка статей
+  image_url: https://i.ibb.co/vCdNJcq9/IMG-4067.jpg
+  url: https://t.me/gudinnass
 
 inirmeris:
   name: Ольга Біла
