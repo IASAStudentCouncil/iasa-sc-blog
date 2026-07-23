@@ -215,6 +215,48 @@ grygorivnaaa:
 #
 # ----------------------------------------------------------------------------------------------------------
 
+agitatorka:
+  name: Салахова Катерина 
+  title: алігаторка
+  image_url: https://i.ibb.co/Y7PY5LRT/IMG-20260720-085508-796.jpg
+  url: https://t.me/alovlue
+
+metodychka:
+  name: Стрюковська Анастасія
+  title: Методичка
+  image_url: https://i.ibb.co/vvwf6ghg/20250303-102106.jpg
+  url: https://t.me/Anasteyshastr
+
+serheiev:
+  name: Сергеєв Данил
+  title: Геша
+  image_url: https://i.ibb.co/DPR578J1/95bb82f5-f2f4-4b20-b824-864ba1d927ca.jpg
+  url: https://t.me/wermx
+
+katerina:
+  name: Азаренко Катерина
+  title: (не)твоя мама
+  image_url: https://i.ibb.co/tT4Y0jgm/IMG-2002.jpg
+  url: https://t.me/kwqxv
+
+iryna:
+  name: Ірина Гніздюх
+  title: drama queen
+  image_url: https://i.ibb.co/q3ZPV0V2/iryna.jpg
+  url: https://t.me/yukrirra
+
+halyna:
+  name: Галина Бондарчук
+  title: Халупа
+  image_url: https://i.ibb.co/sdZ4KhY7/IMG-4588.png
+  url: https://t.me/Halyna_Bond
+
+david:
+  name: Давід Міхно
+  title: ///палоскі
+  image_url: https://i.ibb.co/5gFtKZdL/david.jpg
+  url: https://t.me/amounotdead
+
 senia:
   name: Сенчелло
   title: Дід Абіт-відділу
@@ -315,6 +357,30 @@ slipko:
 # Редактори статей Абіт-відділу
 #
 # ----------------------------------------------------------------------------------------------------------
+
+lypska:
+  name: Олександра Липська
+  title: Редакторка статей
+  image_url: https://i.ibb.co/vCdNJcq9/IMG-4067.jpg
+  url: https://t.me/gudinnass
+
+inirmeris:
+  name: Ольга Біла
+  title: Редакторка статей
+  image_url: https://i.ibb.co/N2MCV54S/IMG-7452.jpg
+  url: https://t.me/inirmeris
+ 
+lobantsov:
+  name: Олексій Лобанцов
+  title: Редактор статей
+  image_url: https://i.ibb.co/FQWjqxz/20260428-140907.jpg
+  url: https://t.me/lobantsov
+
+sergii:
+  name: Сергій Крочак
+  title: Редактор статей
+  image_url: https://i.ibb.co/qL46HG17/sergii.jpg
+  url: https://t.me/PsevdoZhabka
 
 monkeys:
   name: Артем Тертишник
