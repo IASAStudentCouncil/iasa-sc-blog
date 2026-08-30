@@ -215,6 +215,54 @@ grygorivnaaa:
 #
 # ----------------------------------------------------------------------------------------------------------
 
+stotska:
+  name: Софія Стоцька
+  title: Барашка
+  image_url: https://i.ibb.co/G3PzHdDy/IMG-6192.jpg
+  url: https://t.me/sophie_stikcate
+
+agitatorka:
+  name: Катерина Салахова 
+  title: Алігаторка
+  image_url: https://i.ibb.co/Y7PY5LRT/IMG-20260720-085508-796.jpg
+  url: https://t.me/alovlue
+
+metodychka:
+  name: Анастасія Стрюковська
+  title: Методичка
+  image_url: https://i.ibb.co/vvwf6ghg/20250303-102106.jpg
+  url: https://t.me/Anasteyshastr
+
+serheiev:
+  name: Данил Сергеєв
+  title: Геша
+  image_url: https://i.ibb.co/DPR578J1/95bb82f5-f2f4-4b20-b824-864ba1d927ca.jpg
+  url: https://t.me/wermx
+
+katerina:
+  name: Катерина Азаренко
+  title: (не)твоя мама
+  image_url: https://i.ibb.co/tT4Y0jgm/IMG-2002.jpg
+  url: https://t.me/kwqxv
+
+iryna:
+  name: Ірина Гніздюх
+  title: drama queen
+  image_url: https://i.ibb.co/q3ZPV0V2/iryna.jpg
+  url: https://t.me/yukrirra
+
+halyna:
+  name: Галина Бондарчук
+  title: Халупа
+  image_url: https://i.ibb.co/sdZ4KhY7/IMG-4588.png
+  url: https://t.me/Halyna_Bond
+
+david:
+  name: Давід Міхно
+  title: ///палоскі
+  image_url: https://i.ibb.co/5gFtKZdL/david.jpg
+  url: https://t.me/amounotdead
+
 senia:
   name: Сенчелло
   title: Дід Абіт-відділу
@@ -315,6 +363,48 @@ slipko:
 # Редактори статей Абіт-відділу
 #
 # ----------------------------------------------------------------------------------------------------------
+
+boiko:
+  name: Лідія Бойко
+  title: Редакторка статей
+  image_url: https://i.ibb.co/FL0FZZCw/IMG-1198.jpg
+  url: https://t.me/LRGijk
+
+yerokhina:
+  name: Марія Єрохіна
+  title: Редакторка статей
+  image_url: https://i.ibb.co/cGXMbhz/IMG-3399.jpg
+  url: https://t.me/massssh_a
+
+rozhkova:
+  name: Анастасія Рожкова
+  title: Редакторка статей
+  image_url: https://i.ibb.co/B5bw2y4z/IMG-8387.jpg
+  url: https://t.me/fyouvvv
+
+lypska:
+  name: Олександра Липська
+  title: Редакторка статей
+  image_url: https://i.ibb.co/vCdNJcq9/IMG-4067.jpg
+  url: https://t.me/gudinnass
+
+inirmeris:
+  name: Ольга Біла
+  title: Редакторка статей
+  image_url: https://i.ibb.co/N2MCV54S/IMG-7452.jpg
+  url: https://t.me/inirmeris
+ 
+lobantsov:
+  name: Олексій Лобанцов
+  title: Редактор статей
+  image_url: https://i.ibb.co/FQWjqxz/20260428-140907.jpg
+  url: https://t.me/lobantsov
+
+sergii:
+  name: Сергій Крочак
+  title: Редактор статей
+  image_url: https://i.ibb.co/qL46HG17/sergii.jpg
+  url: https://t.me/PsevdoZhabka
 
 monkeys:
   name: Артем Тертишник
@@ -611,7 +701,7 @@ kruchok:
 petrenko:
   name: Софія Петренко
   title: Редакторка статей
-  image_url: https://i.imgur.com/nMfVrYV.jpeg
+  image_url: https://i.ibb.co/wZtncNpm/56-32-551.jpg
   url: https://t.me/lavendel_29
 
 pavlyus:
