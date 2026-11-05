@@ -6,10 +6,11 @@ tags: [СТУДРАДА, НАБІР]
 date: 2026-11-05T10:00
 keywords: [ІПСА, СР, Студрада, IASA, Student Council, КПІ, студентське життя, освітні проєкти, відділи студради, набір, студентська спільнота]
 robots: index, follow, all
-image: ./assets/title.jpg
+image: ./blog/SC/donabir-26/assets/title.jpg
 og:type: article
 og:site_name: IASA Articles
 og:locale: uk_UA
+
 ---
 
 Ми будуємо Студраду, в центрі якої ти. Де кожен голос має вагу, де з будь-якою проблемою допоможуть, а після пар на тебе чекають івенти, а не порожня кімната.
