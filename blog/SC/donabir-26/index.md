@@ -6,7 +6,7 @@ tags: [СТУДРАДА, НАБІР]
 date: 2026-11-05T10:00
 keywords: [ІПСА, СР, Студрада, IASA, Student Council, КПІ, студентське життя, освітні проєкти, відділи студради, набір, студентська спільнота]
 robots: index, follow, all
-image: ./blog/SC/donabir-26/assets/title.jpg
+image: ./assets/title.png
 og:type: article
 og:site_name: IASA Articles
 og:locale: uk_UA
