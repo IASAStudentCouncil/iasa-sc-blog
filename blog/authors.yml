@@ -253,7 +253,7 @@ iryna:
 
 halyna:
   name: Галина Бондарчук
-  title: Халупа
+  title: Голова ІПСА
   image_url: https://i.ibb.co/sdZ4KhY7/IMG-4588.png
   url: https://t.me/Halyna_Bond
 
@@ -590,6 +590,12 @@ olexsii1:
   title: Безсонний волонтер
   image_url: https://imgur.com/2UuY66o.jpg
   url: https://t.me/derwya
+
+perehodnik:
+  name: Тимофій Переходкін
+  title: Маквін СР
+  image_url: https://i.ibb.co/bgSSpNRG/perehodnik.jpg
+  url: https://t.me/mitherep
 
 alina:
   name: Аліна Журавель

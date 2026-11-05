@@ -1,7 +1,7 @@
 ---
 slug: donabir-26
 title: Донабір 2026. Студрада починається з тебе
-authors: [halyna, plyusnina-2]
+authors: [halyna, perehodnik, plyusnina-2]
 tags: [СТУДРАДА, НАБІР]
 date: 2026-11-05T10:00
 keywords: [ІПСА, СР, Студрада, IASA, Student Council, КПІ, студентське життя, освітні проєкти, відділи студради, набір, студентська спільнота]
